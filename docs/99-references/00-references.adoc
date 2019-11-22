@@ -1,0 +1,62 @@
+// header file for curriculum section "References"
+// (c) iSAQB e.V. (https://isaqb.org)
+// ===============================================
+
+// tag::FEEDBACK[]
+:filename: 99-references/00-references.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+
+
+
+// tag::DE[]
+// end::DE[]
+
+// tag::EN[]
+[bibliography]
+== Bibliography
+This section contains references relevant for the curriculum and/or requirements engineering in general.
+
+A+
+
+- [[[adzic-userstories]]] Adzic, Goyko: 50 Quick Ideas to Improve Your User Stories.
+
+
+H +
+
+- [[[hruschka-19]]] Hruschka, Peter: Business Analysis und Requirements Engineering,
+Hanser Verlag, 2nd Edition 2019 (in German)
+
+I +
+
+- [[[ireb-agile]]] IREB: Handbook Advanced Module “RE@Agile”, online: https://www.ireb.org/de/downloads/tag:advanced-level-re-agile
+
+
+M +
+
+- [[[mcgreal]]] McGreal, D.: The Professional Product Owner: Leveraging Scrum as a Competitive Advantage
+
+P +
+
+- [[[pichler-apm]]] Pichler, R.: Agile Product Management with Scrum
+
+R +
+
+- Robertson,J./Robertson,S.: Mastering the Requirements Process
+- Robertson, J. /Robertson, S.: Business Analysis Agility
+
+T +
+
+- [[[toth-vorgehensmuster]]] Toth, Stefan: Vorgehensmuster in der Softwarearchitektur.
+Carl Hanser Verlag (in German) - especially for "_Architecturally significant requirements_"
+
+// end::EN[]
+
+
+// tag::REMARK[]
+[NOTE]
+====
+GS, Oct 2019: first version, references extracted from iSAQB Confluence.
+====
+// end::REMARK[]

@@ -1,0 +1,79 @@
+// handle numerous attributes. Successful include of this file
+// is ABSOLUTELY NECESSARY!!
+include::config/setup.adoc[]
+
+ifeval::["{language}" == "DE"]
+= Curriculum fürpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulpass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
+:toc: left
+endif::[]
+
+ifeval::["{language}" == "EN"]
+= Curriculum forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulepass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
+:toc: left
+endif::[]
+
+// document-version fallback, should usually be overwritten by the build process,
+// e.g. build.gradle
+//:document-version: 0.0.1-DRAFT 2019
+
+// this is the base URL for the "improve this doc" links that directly link
+// to the source files in your repository; change this accordingly
+:project-repository-docs-edit-link: https://github.com/isaqb-org/{curriculumBaseName}/blob/master/docs/
+:project-report-issue-link: https://github.com/isaqb-org/{curriculumBaseName}/issues/new?title=&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A---%0A%23page:
+
+// define terms for toc, learning-goals
+include::config/i18n-definitions.adoc[tags={language}]
+
+ifdef::backend-pdf[]
+:title-logo-image: image:isaqb-logo.jpg[pdfwidth=4.25in,align=center]
+endif::[]
+
+
+<<<
+:sectnums!:
+include::00a-preamble/copyright.adoc[{include_configuration}]
+
+<<<
+toc::[]
+
+<<<
+:sectnums!:
+include::00a-preamble/00-introduction.adoc[{include_configuration}]
+
+<<<
+:sectnums!:
+include::00b-basics/00-basics.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::01-Intro-and-Motivation/00-structure.adoc[{include_configuration}]
+
+<<<
+include::02-Clean-Start/00-structure.adoc[{include_configuration}]
+
+<<<
+include::03-Functional-Requirements/00-structure.adoc[{include_configuration}]
+
+<<<
+include::04-Quality-Requirements/00-structure.adoc[{include_configuration}]
+
+<<<
+include::05-Behavior-Driven-Development/00-structure.adoc[{include_configuration}]
+
+<<<
+include::06-Prioritization/00-structure.adoc[{include_configuration}]
+
+<<<
+include::07-Cooperation-between-Roles/00-structure.adoc[{include_configuration}]
+
+<<<
+include::08-Tools/00-structure.adoc[{include_configuration}]
+
+<<<
+include::09-Example/00-structure.adoc[{include_configuration}]
+
+<<<
+include::42-glossary/00-glossary.adoc[{include_configuration}]
+
+<<<
+include::99-references/00-references.adoc[{include_configuration}]
