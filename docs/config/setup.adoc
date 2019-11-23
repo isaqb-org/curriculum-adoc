@@ -33,12 +33,12 @@ endif::withFeedback[]
 :curriculum-short: ADOC
 
 ifeval::["{language}" == "DE"]
-:curriculum-name: Requirements for Software Architects
+:curriculum-name: Architekturdokumentation
 :curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: Requirements for Software Architects
+:curriculum-name: Architecture Documentation
 :curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
 endif::[]
 
