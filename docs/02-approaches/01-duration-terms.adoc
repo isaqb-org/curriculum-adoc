@@ -1,0 +1,30 @@
+// tag::FEEDBACK[]
+:filename: 02-approaches/01-duration-terms.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+|===
+| Dauer: 90 Min. | Übungszeit: 60 Min.
+|===
+
+=== Begriffe und Konzepte
+
+Vorgehensmodell, Rolle, Artefakt, iterativ/inkrementell, Lebenszyklus, agil.
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Lesson duration: 90 min | Exercises: 60 min
+|===
+
+=== Terms and concepts
+
+Process model, role, artifact, iterative/incremental, life cycle, agile.
+
+// end::EN[]
+
+// tag::REMARK[]
+
+// end::REMARK[]

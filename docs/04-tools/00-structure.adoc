@@ -1,0 +1,26 @@
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+
+// tag::DE[]
+== Werkzeuge
+
+include::01-duration-terms.adoc[{include_configuration}]
+
+
+=== {learning-goals}
+
+include::LG-04-1.adoc[{include_configuration}]
+// end::DE[]
+
+// tag::EN[]
+== Tools
+
+include::01-duration-terms.adoc[{include_configuration}]
+
+
+=== {learning-goals}
+
+include::LG-04-1.adoc[{include_configuration}]
+
+// end::EN[]

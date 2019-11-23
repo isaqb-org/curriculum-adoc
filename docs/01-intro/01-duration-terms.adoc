@@ -1,0 +1,27 @@
+// tag::FEEDBACK[]
+:filename: 01-module-block-1/01-duration-terms.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+|===
+| Dauer: 55 Min. | Übungszeit: ca. 20 Min.
+|===
+
+=== Begriffe und Konzepte
+
+
+// end::DE[]
+// tag::EN[]
+
+|===
+| Lesson duration: 55 min | Exercises: approx. 20 min
+|===
+
+=== Terms and concepts
+
+// end::EN[]
+
+
+// tag::REMARK[]
+// end::REMARK[]

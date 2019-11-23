@@ -1,0 +1,27 @@
+// tag::FEEDBACK[]
+:filename: 03-module-block-3/01-duration-terms.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+|===
+| Dauer: 90 Min. | Übungszeit: 90 Min.
+|===
+
+=== Begriffe und Konzepte
+Sichten, Entscheidungen, übergreifende Konzepte und Themen, Schnittstellen, Strukturen, Randbedingungen, Risiken, Qualitätsziele.
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Lesson duration: 90 min | Exercises: 90 min
+|===
+
+=== Terms and concepts
+
+// end::EN[]
+
+// tag::REMARK[]
+
+// end::REMARK[]

@@ -1,0 +1,26 @@
+// tag::FEEDBACK[]
+:filename: 06-examples/LG-6-1.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+[[LG-6-1]]
+==== LZ 6-1: Dies ist das letzte Lernziel des Lehrplans
+- Was sollen die Teilnehmer können?
+   * Fähigkeit 1
+   * Fähigkeit 2
+   * Fähigkeit 3
+   * etc.
+
+// end::DE[]
+
+
+// tag::EN[]
+[[LG-6-1]]
+==== LG 6-1: Last learning goal of the curriculum
+// end::EN[]
+
+
+// tag::REMARK[]
+
+// end::REMARK[]

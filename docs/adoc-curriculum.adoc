@@ -63,8 +63,9 @@ include::05-evaluating/00-structure.adoc[{include_configuration}]
 <<<
 include::06-examples/00-structure.adoc[{include_configuration}]
 
-<<<
-include::42-glossary/00-glossary.adoc[{include_configuration}]
+// currently (in V1.5 and V1.6) there is NO glossary for ADOC
+//<<<
+//include::42-glossary/00-glossary.adoc[{include_configuration}]
 
 <<<
 include::99-references/00-references.adoc[{include_configuration}]

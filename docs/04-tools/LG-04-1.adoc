@@ -1,0 +1,37 @@
+// tag::FEEDBACK[]
+:filename: 98-examples/LZ-98-1.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+[[LG-4-1]]
+==== LZ 4-1: Lernziel zu Werkzeugen
+- Was sollen die Teilnehmer können?
+   * Fähigkeit 1
+   * Fähigkeit 2
+   * Fähigkeit 3
+   * etc.
+- Was sollen die Teilnehmer verstehen?
+  * Aussage 1
+  * Behauptung 2
+  * Erfahrung 3
+  * Zusammenhang 4
+  * etc.
+- Was sollen die Teilnehmer kennen?
+  * Zusammenhang Nr. 1
+  * Norm Nr. 2
+  * Buch Nr. 3
+  * etc.
+
+// end::DE[]
+
+
+// tag::EN[]
+[[LG-4-1]]
+==== LG 4-1: Last learning goal of the curriculum
+// end::EN[]
+
+
+// tag::REMARK[]
+
+// end::REMARK[]

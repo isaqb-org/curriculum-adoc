@@ -1,4 +1,3 @@
-// header file for curriculum section "References"
 // (c) iSAQB e.V. (https://isaqb.org)
 // ===============================================
 
@@ -18,44 +17,34 @@ include::../config/_feedback.adoc[]
 == Bibliography
 This section contains references relevant for the curriculum and/or requirements engineering in general.
 
-A+
+B +
 
-- [[[adzic-userstories]]] Adzic, Goyko: 50 Quick Ideas to Improve Your User Stories.
+- Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
+
+- Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
 
 
 H +
 
-- [[[hruschka-19]]] Hruschka, Peter: Business Analysis und Requirements Engineering,
-Hanser Verlag, 2nd Edition 2019 (in German)
+- [[[hargis-technical-info]]] Hargis, Gretchen et. al: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.. Somewhat dated book, but still a very good reference for technical writers.
 
-I +
-
-- [[[ireb-agile]]] IREB: Handbook Advanced Module “RE@Agile”, online: https://www.ireb.org/de/downloads/tag:advanced-level-re-agile
-
-
-M +
-
-- [[[mcgreal]]] McGreal, D.: The Professional Product Owner: Leveraging Scrum as a Competitive Advantage
 
 P +
 
-- [[[pichler-apm]]] Pichler, R.: Agile Product Management with Scrum
 
-R +
+S +
 
-- Robertson,J./Robertson,S.: Mastering the Requirements Process
-- Robertson, J. /Robertson, S.: Business Analysis Agility
+- [[[starke-arc42-example]]] Starke, Gernot; Müller, Ralf; Simons, Michael; Zörner, Stefan; **arc42 by Example**. Packt Publishing 2019.
+Z +
 
-T +
-
-- [[[toth-vorgehensmuster]]] Toth, Stefan: Vorgehensmuster in der Softwarearchitektur.
-Carl Hanser Verlag (in German) - especially for "_Architecturally significant requirements_"
+- [[[zoerner-doku]]] Zörner, Stefan: Softwarearchitekturen dokumentieren und kommunizieren.
+3rd edition 2019, Carl Hanser Verlag (in German)."
 
 // end::EN[]
 
 
 // tag::REMARK[]
-[NOTE]
+[NOTE] 
 ====
 GS, Oct 2019: first version, references extracted from iSAQB Confluence.
 ====

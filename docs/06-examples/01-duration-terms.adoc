@@ -1,0 +1,30 @@
+// tag::FEEDBACK[]
+:filename: 06-examples/01-duration-terms.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+|===
+| Dauer: 60 Min. | Übungszeit: keine.
+|===
+
+Innerhalb jeder akkreditierten Schulung muss mindestens ein Beispiel einer dokumentierten Softwarearchitektur vorgestellt werden.
+
+Art und Ausprägung der vorgestellten Beispiele können von der Schulung bzw. den Interessen der Teilnehmer abhängen und werden seitens iSAQB nicht vorgegeben.
+
+// end::DE[]
+
+
+// tag::EN[]
+|===
+| Lesson duration: 60 min | Exercises: none.
+|===
+
+At least one example of a documented software architecture must be presented within each accredited training course.
+
+The type and characteristics of the examples presented may depend on the specific training or the demands of the participants and are not specified by iSAQB.
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

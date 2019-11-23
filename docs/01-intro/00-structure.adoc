@@ -1,0 +1,27 @@
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+// tag::DE[]
+== Grundbegriffe von Architekturdokumentation
+
+include::01-duration-terms.adoc[{include_configuration}]
+
+=== {learning-goals}
+
+include::LZ-1-01.adoc[{include_configuration}]
+
+// end::DE[]
+
+// tag::EN[]
+== Fundamental Terms of Architecture Documentation
+
+include::01-duration-terms.adoc[{include_configuration}]
+
+=== {learning-goals}
+
+include::LZ-1-01.adoc[{include_configuration}]
+// end::EN[]
+
+
+// references (if any!)
+include::references.adoc[{include_configuration}]

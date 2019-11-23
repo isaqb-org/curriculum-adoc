@@ -1,0 +1,28 @@
+// tag::FEEDBACK[]
+:filename: 09-examples/01-examples-duration-terms.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+|===
+| Dauer: 75 Min. | Übungszeit: 45 Min.
+|===
+
+=== Begriffe und Konzepte
+Review, Checklisten, Fragenkataloge.
+// end::DE[]
+
+
+// tag::EN[]
+|===
+| Lesson duration: 75 min | Exercises: 45 min
+|===
+
+
+=== Terms and concepts
+Review, checklists, questionnaires.
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]
