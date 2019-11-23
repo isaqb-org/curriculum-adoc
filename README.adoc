@@ -25,6 +25,20 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg[
 
 This is <<copyrighted,copyrighted work>>.
 
+=== Version history
+
+[cols="1,1,5"]
+|===
+| Version | Date | Comments 
+
+| 1.5-DE  | 2018 | latest German version 
+| 1.5-EN  | 2018 | Preliminary translation 
+| 1.6-DE  | 2018 | minor fixes, have not been taken over to EN version 
+| 1.7-DRAFT | Nov-2019 | migration to numberized learning goals and new curriculum structure, aligned with other CPSA-Advanced modules. 
+
+|===
+
+
 == Content
 Architects and development teams need to effectively and efficiently communicate and document their architecture. This module provides the methodical and practical foundation.
 
@@ -70,4 +84,4 @@ Thanx, Benjamin Wolff (@Programming-Wolf) for providing such a useful template
 [[copyrighted]]
 == Licensing and Copyright
 
-include::LICENSE.adoc[]
+include::./LICENSE.adoc[]
