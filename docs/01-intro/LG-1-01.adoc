@@ -1,29 +1,52 @@
 // tag::FEEDBACK[]
-:filename: 01-module-block-1/LZ-1-01.adoc
+:filename: 01-intro/LG-1-01.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
+
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
-- Was sollen die Teilnehmer können?
-   * Fähigkeit 1
-   * Fähigkeit 2
-   * Fähigkeit 3
-   * etc.
+==== LZ 1-1: Nutzen und Ziele von Architekturdokumentation verstehen
 
-- Was sollen die Teilnehmer verstehen?
-  * Aussage 1
-  * Behauptung 2
-  * Erfahrung 3
-  * Zusammenhang 4
-  * etc.
-- Was sollen die Teilnehmer kennen?
-  * Zusammenhang Nr. 1
-  * Norm Nr. 2
-  * Buch Nr. 3
-  * etc.
+* Architekturdokumentation ist kein Selbstzweck
+* Den Nutzen und die verschiedenen Ziele von Architekturdokumentation beschreiben, beispielsweise: 
+   ** Architekturdokumentation unterstützt beim Lösungsentwurf, und bei der Kommunikation der Lösung dem Team und anderen (z. B. Auftraggebern) gegenüber.
+   ** Unterstützung der Entwicklung durch Vermittlung architektur- und entwicklungsrelevanter Entscheidungen, Fakten und Gründe.
+   ** Schriftliche Kommunikation relevanter struktureller und konzeptioneller Sachverhalte
+   ** Konservierung von Wissen über Entwicklung und Architektur
+* Diese Ziele und den Nutzen gegenüber Stakeholdern überzeugend vertreten können.
 
+==== LZ 1-2: Bedeutung von Architekturdokumentation für unterschiedliche Stakeholder verstehen
+
+* Verstehen, dass unterschiedliche Stakeholder i.d.R. verschiedene Anforderungen an Architekturdokumentation haben, beispielsweise hinsichtlich:
+** Arten von Informationen (etwa: über Schnittstellen, Bausteine, querschnittliche Themen, Entscheidungen, technische Risiken, Lösungsansätze oä)
+** Darstellung solcher Informationen (als (grafische) Modelle, als reine Grafiken oder textuell)
+** Detaillierungsgrad (etwa: Überblick, abstrakte oder detaillierte Darstellung)
+** technische Repräsentation (mit/ohne Schreib-/Änderungsmöglichkeiten, PDF, HTML, Wiki, Textverarbeitung oä)
+** Grad der Aktualität
+
+==== LG 1-3: Architekturdokumentation gegen andere Arten von Dokumentation abgrenzen
+
+* Verstehen, dass Architekturdokumentation Berührungspunkte und teilweise Überdeckung zu anderen Arten vo Dokumentation besitzt, beispielsweise:
+** Anforderungs-/Requirements-Dokumentation
+** Implementierungsdokumentation
+** Managementdokumentation
+** Testdokumentation
+** Betriebsdokumentation
+
+==== LG 1-4: Typische Notations- und Darstellungsmittel für Architekturdokumentation kennen
+
+* Verschiedene Notations- und Darstellungsmittel für Architekturinformationen kennen, beispielsweise:
+** Modellierungsmethoden, beispielsweise UML, BPMN, ER-Diagramme, Ereignis-Prozessketten (ePK)
+** Textuelle Erläuterungen von Entscheidungen
+
+* UML ist für Architekturdokumentation hilfreich, aber nicht zwingend erforderlich.
+
+==== LG 1-5: Varianten von Entwicklungsvorgehen und deren "Beitrag" zu Architekturdokumentation kennen
+
+* In eher formalen Entwicklungsvorhaben (etwa _safety-critical_) gelten eher hohe Ansprüche an Architekturdokumentation
+* In eher leichtwichtigen Entwicklungsprozessen (agilen Prozessen) sollten Teams eine dem System und dessen Umfeld angemessene Art von Dokumentation wählen
+* Je nach Vorgehen und Rahmenbedingungen des Vorhabens sind sehr unterschiedliche Dokumentationsarbeiten zu leisten.
 // end::DE[]
 
 // tag::EN[]
@@ -33,8 +56,22 @@ tbd.
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
+
+aus V 1.5:
+
+Was sollen die Teilnehmer können?
+
+* Den Nutzen und die verschiedenen Ziele von Architekturdokumentation beschreiben und überzeugend vertreten können.
+* Massgebliche Nutzer und die Bedeutung von Architekturdokumentation für unterschiedliche Stakeholder erklären können.
+* Arbeitsergebnisse aus der Architekturdokumentation gegen Ergebnisse anderer Disziplinen (Anforderungsmanagement, Projektmanagement, ...) abgrenzen können.
+* Typische Notationen für Architekturdokumentation nennen können.
+* Konkrete Vorgehensmodelle und ihren „Beitrag“ bezüglich Architekturdokumentation nennen können.
+
+Was sollen die Teilnehmer verstehen?
+
+* Architekturdokumentation ist kein Selbstzweck.
+* Architekturdokumentation unterstützt beim Lösungsentwurf, und bei der Kommunikation der Lösung dem Team und anderen (z. B. Auftraggebern) gegenüber.
+* Verschiedene Vorgehensmodelle machen ausführliche bis gar keine Vorgaben bezüglich konkreter Ergebnisse.
+* Je nach Vorgehen und Rahmenbedingungen des Vorhabens sind sehr unterschiedliche Dokumentationsarbeiten zu leisten.
+* UML ist im Zusammenhang mit Architekturdokumentation etabliert, aber nicht zwingend erforderlich.
 // end::REMARK[]
