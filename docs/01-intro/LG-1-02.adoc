@@ -1,0 +1,26 @@
+// tag::FEEDBACK[]
+:filename: 01-intro/LG-1-02.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+
+// tag::DE[]
+[[LZ-1-2]]
+==== LZ 1-2: Bedeutung von Architekturdokumentation für unterschiedliche Stakeholder verstehen
+
+* Verstehen, dass unterschiedliche Stakeholder i.d.R. verschiedene Anforderungen an Architekturdokumentation haben, beispielsweise hinsichtlich:
+** Arten von Informationen (etwa: über Schnittstellen, Bausteine, querschnittliche Themen, Entscheidungen, technische Risiken, Lösungsansätze oä)
+** Darstellung solcher Informationen (als (grafische) Modelle, als reine Grafiken oder textuell)
+** Detaillierungsgrad (etwa: Überblick, abstrakte oder detaillierte Darstellung)
+** technische Repräsentation (mit/ohne Schreib-/Änderungsmöglichkeiten, PDF, HTML, Wiki, Textverarbeitung oä)
+** Grad der Aktualität
+
+// tag::EN[]
+[[LG-1-1]]
+==== LG 1-1: The is the first learning goal, in category xy
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+
+// end::REMARK[]
