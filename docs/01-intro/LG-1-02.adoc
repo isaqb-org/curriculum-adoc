@@ -17,7 +17,8 @@ include::../config/_feedback.adoc[]
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: The is the first learning goal, in category xy
+==== LG 1-2: Understanding the Importance of Architecture Documentation for Different Stakeholders
+
 tbd.
 // end::EN[]
 
