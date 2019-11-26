@@ -33,8 +33,26 @@ tbd.
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
+Aus Version 1.5:
+
+Teilnehmer können für gegebene Situation angemessene Vorgehensweise für die Dokumentation bestimmen/entwerfen.
+
+==== 4.2.1 Was sollen die Teilnehmer können?
+
+* Architekturdokumentation für folgende Situationen erstellen: 
+** Erstellung neuer Systeme
+** Weiterentwicklung bestehender Systeme mit vorhandener Dokumentation
+** Nachdokumentation bestehender Systeme ohne vorhandene Dokumentation
+** Dokumentation in Ausnahmesituationen (wenig Budget, wenig Zeit, wenig verfügbare Informationsquellen etc.)
+* Zielgruppen und Ziele der Dokumentation ermitteln
+* Zu erstellende Bestandteile bedarfsgerecht auswählen
+* Die Vorteile fester Gliederungen und Strukturen für (technische) Dokumentation argumentieren können.
+
+==== 4.2.2 Was sollen die Teilnehmer verstehen?
+* Dokumentation entsteht im Idealfall begleitend zu Architektur und Entwicklung, nicht hinterher.
+* Agilität und Dokumentation stehen nicht im Widerspruch zueinander.
+
+==== 4.2.3 Was sollen die Teilnehmer kennen?
+* Die Rolle von Architekturdokumentation in verschiedenen konkreten Vorgehensmodellen
+* Verschiedene Vorschläge und Vorlagen für Standardgliederungen (z. B. arc42, SEI).
 // end::REMARK[]

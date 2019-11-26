@@ -59,7 +59,7 @@ tbd.
 
 aus V 1.5:
 
-Was sollen die Teilnehmer können?
+==== Was sollen die Teilnehmer können?
 
 * Den Nutzen und die verschiedenen Ziele von Architekturdokumentation beschreiben und überzeugend vertreten können.
 * Massgebliche Nutzer und die Bedeutung von Architekturdokumentation für unterschiedliche Stakeholder erklären können.
@@ -67,7 +67,8 @@ Was sollen die Teilnehmer können?
 * Typische Notationen für Architekturdokumentation nennen können.
 * Konkrete Vorgehensmodelle und ihren „Beitrag“ bezüglich Architekturdokumentation nennen können.
 
-Was sollen die Teilnehmer verstehen?
+
+==== Was sollen die Teilnehmer verstehen?
 
 * Architekturdokumentation ist kein Selbstzweck.
 * Architekturdokumentation unterstützt beim Lösungsentwurf, und bei der Kommunikation der Lösung dem Team und anderen (z. B. Auftraggebern) gegenüber.
