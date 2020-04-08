@@ -1,5 +1,6 @@
 import org.asciidoctor.gradle.AsciidoctorTask
 import javax.inject.Inject
+import java.text.SimpleDateFormat
 
 buildscript {
   repositories {
@@ -15,7 +16,10 @@ plugins {
 }
 
 ext {
-  currentDate = new Date().format("d. MMM yyyy")
+  today = new Date()
+  englishDate = new SimpleDateFormat("MMMM d, yyyy", Locale.US).format(today)
+  germanDate = new SimpleDateFormat("d. MMMM yyy", Locale.GERMANY).format(today)
+
   project.version = project.file("./document.version").text
   curriculumBaseName = "adoc-curriculum"
   curriculumFileName = "adoc-curriculum"
@@ -68,28 +72,27 @@ task buildDocs {
 }
 
 task renderNoRemarksDE(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "DE", false]) {
+    constructorArgs: [curriculumBaseName, curriculumFileName, germanDate, "DE", false]) {
   doLast {
     addSuffixToCurriculum("_de")
   }
 }
 
 task renderWithRemarksDE(type: RenderCurriculumTask,
-     constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "DE", true]) {
    doLast {
      addSuffixToCurriculum("_remarks_de")
    }
  }
+     constructorArgs: [curriculumBaseName, curriculumFileName, germanDate, "DE", true]) {
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "EN", false]) {
+    constructorArgs: [curriculumBaseName, curriculumFileName, englishDate, "EN", false]) {
   doLast {
     addSuffixToCurriculum("_en")
   }
 }
 
 task renderWithRemarksEN(type: RenderCurriculumTask,
-     constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "EN", true]) {
    doLast {
      addSuffixToCurriculum("_remarks_en")
    }
@@ -104,6 +107,7 @@ task publish(type: GradleBuild) {
     tasks = ['gitPublishPush']
   } else {
     println 'env var TRAVIS_PULL_REQUEST says we build for PR #' + travisPr + ', won\'t publish docs!'
+     constructorArgs: [curriculumBaseName, curriculumFileName, englishDate, "EN", true]) {
   }
 }
 
