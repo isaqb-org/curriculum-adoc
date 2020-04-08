@@ -3,26 +3,14 @@
 
 
 // tag::DE[]
-
 == Dokumentation bewerten
-
-include::01-duration-terms.adoc[{include_configuration}]
-
-
-=== {learning-goals}
-
-include::LG-05-1.adoc[{include_configuration}]
-
 // end::DE[]
 
 // tag::EN[]
 == Evaluating Documentation
+// end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
 
+include::02-learning-goals.adoc[{include_configuration}]
 
-=== {learning-goals}
-
-include::LG-05-1.adoc[{include_configuration}]
-
-// end::EN[]

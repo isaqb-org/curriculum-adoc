@@ -5,23 +5,18 @@
 
 // tag::DE[]
 == Beispiele für Dokumentation von Softwarearchitekturen
-
-include::01-duration-terms.adoc[{include_configuration}]
-
-=== {learning-goals}
-
-include::LG-06-1.adoc[{include_configuration}]
-
 // end::DE[]
 
 // tag::EN[]
 == Examples of software architecture documentation
-
-include::01-examples-duration-terms.adoc[{include_configuration}]
-
-
-=== {learning-goals}
-
-include::LG-06-1.adoc[{include_configuration}]
-
 // end::EN[]
+
+include::01-duration-terms.adoc[{include_configuration}]
+
+include::02-learning-goals.adoc[{include_configuration}]
+
+
+
+
+
+

@@ -4,23 +4,14 @@
 
 // tag::DE[]
 == Werkzeuge
-
-include::01-duration-terms.adoc[{include_configuration}]
-
-
-=== {learning-goals}
-
-include::LG-04-1.adoc[{include_configuration}]
 // end::DE[]
 
 // tag::EN[]
 == Tools
+// end::EN[]
+
 
 include::01-duration-terms.adoc[{include_configuration}]
 
+include::02-learning-goals.adoc[{include_configuration}]
 
-=== {learning-goals}
-
-include::LG-04-1.adoc[{include_configuration}]
-
-// end::EN[]
