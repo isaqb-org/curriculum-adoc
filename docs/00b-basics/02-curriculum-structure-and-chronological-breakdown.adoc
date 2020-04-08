@@ -3,7 +3,7 @@
 // end::DE[]
 
 // tag::EN[]
-=== Curriculum structure and recommended durations
+=== Curriculum Structure and Recommended Durations
 
 [cols="4,1,1", options="header"]
 |===
@@ -60,7 +60,7 @@
 |===
 
 [.text-center]
-.Durations
+.Allocation of time for the topic areas
 image:01-basics/chronological_breakdown.png[pdfwidth=75%, role="text-center"]
 // end::EN[]
 
