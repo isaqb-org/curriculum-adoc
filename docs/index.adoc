@@ -14,7 +14,7 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve this curric
 
 ==== Status
 
-image:https://travis-ci.com/isaqb-org/curriculum-adoc.svg?branch=master["Build Status", link="https://travis-ci.com/isaqb-org/curriculum-adoc"]
+image:https://github.com/isaqb-org/curriculum-adoc/workflows/CI/badge.svg?branch=master["CI"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-adoc/master.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-adoc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-adoc/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-adoc.svg["Issues",link="https://github.com/isaqb-org/curriculum-adoc/issues"]
