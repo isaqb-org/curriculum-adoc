@@ -1,9 +1,6 @@
-// tag::FEEDBACK[]
-:filename: 06-examples/01-duration-terms.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
+[width=50%]
 |===
 | Dauer: 60 Min. | Übungszeit: keine.
 |===
