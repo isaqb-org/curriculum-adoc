@@ -99,5 +99,6 @@ task renderWithRemarksEN(type: RenderCurriculumTask,
   }
 }
 
+apply from: 'scripts/includeLearningObjectives.gradle'
 
 defaultTasks "buildDocs"
