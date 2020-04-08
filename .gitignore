@@ -1,3 +1,11 @@
+.DS_Store
+
+.gradle
+build
+.idea
+advanced-template.iml
+.settings/org.eclipse.buildship.core.prefs
 .project
 .settings
 .vscode/settings.json
+learning-objectives.adoc
