@@ -12,9 +12,6 @@ ifeval::["{language}" == "EN"]
 :toc: left
 endif::[]
 
-// document-version fallback, should usually be overwritten by the build process,
-// e.g. build.gradle
-//:document-version: 0.0.1-DRAFT 2019
 
 // define terms for toc, learning-goals
 include::config/i18n-definitions.adoc[tags={language}]

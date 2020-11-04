@@ -1,17 +1,49 @@
-<<<<<<< HEAD:docs/02-approaches/learning-goals.adoc
-=======
-=== {learning-goals}
->>>>>>> v2020-draft:docs/02-approaches/02-learning-goals.adoc
 
 // tag::DE[]
 [[LZ-2-1]]
-==== LZ 2-1: Architekturdokumentation erstellen können
+==== LZ 2-1: Architekturdokumentation erstellen 
+
+Softwarearchitekt:innen können angemessene Architekturdokumentation für beispielsweise folgende Situation erstellen:
+
+* Erstellung neuer Systeme
+* Weiterentwicklung bestehender Systeme mit vorhandener Dokumentation
+* Nachdokumentation bestehender Systeme ohne vorhandene Dokumentation
+* Dokumentation in Ausnahmesituationen (wenig Budget, wenig Zeit, wenig verfügbare Informationsquellen etc.)
+
+Sie können Zielgruppen und Ziele der Dokumentation ermitteln (siehe <<LZ-2-2>>)
 
 [[LZ-2-2]]
 ==== LZ 2-2: Zielgruppen und Ziele der Architekturdokumentation ermitteln
 
+Softwarearchitekt:innen können die Zielgruppen ("Stakeholder") für Architekturdokumentation ermitteln
+(beispielsweise Management, Entwicklungsteam, fachliche Stakeholder, betriebliche Stakeholder, Test/QS).
+
+Sie können zusammen mit diesen Stakeholdern konkrete Ziele der Dokumentation ermitteln. 
+
 [[LZ-2-3]]
-==== LZ 2-3: Beispiele von Dokumentations-Templates kennen
+==== LZ 2-3: Situativ passendes Vorgehen zur Architekturdokumentation bestimmen
+
+* Softwarearchitekt:innen finden für gegebene Situationen ein passendes Vorgehen zur Dokumentation.
+
+* Sie können Stakeholdern und dem Entwicklungsteam die Vor- und Nachteile verschiedener Ansätze erläutern, etwa:
+
+** Dokumentation entsteht **begleitend zur** Entwicklungsarbeit
+** Dokumentation entsteht **vor** der Entwicklung/Implementierung
+** Dokumentation entsteht **nach** der Entwicklung ("Dokumentations-Sprint")
+** Dokumentation wird durch Personen **aus dem Entwicklungsteam** erstellt und gepflegt
+** Dokumentation wird durch Personen **außerhalb des Entwicklungsteams** erstellt und gepflegt
+
+* Sie wissen, dass agile Entwicklung und Architekturdokumentation nicht im Widerspruch zueinander stehen, und können dies Stakeholdern gegenüber begründen.
+
+
+[[LZ-2-4]]
+==== LZ 2-4: Beispiele standardisierter Dokumentationsstrukturen (_Templates_) kennen 
+
+Softwarearchitekt:innen kennen Beispiele von Architekturtemplates, etwa:
+
+* arc42
+* C4 (Simon Brown)
+* IEEE 1471 („Recommended Practice for Architecture Description of Software-Intensive Systems“)
 
 // end::DE[]
 
