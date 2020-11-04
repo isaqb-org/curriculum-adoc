@@ -12,7 +12,7 @@ an EN translation is under way.
 
 Maintainers and volunteer reviewers collaborate on GitHub to improve this curriculum.
 
-==== Status
+=== Status
 
 image:https://github.com/isaqb-org/curriculum-adoc/workflows/CI/badge.svg?branch=master["CI"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-adoc/master.svg["Last commit"]
