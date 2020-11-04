@@ -1,7 +1,4 @@
-// tag::FEEDBACK[]
-:filename: 06-examples/LG-6-1.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
+/
 
 // tag::DE[]
 [[LG-6-1]]

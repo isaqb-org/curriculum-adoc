@@ -1,7 +1,4 @@
-// tag::FEEDBACK[]
-:filename: 09-examples/01-examples-duration-terms.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
+
 
 // tag::DE[]
 |===

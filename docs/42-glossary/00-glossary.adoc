@@ -1,10 +1,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-// tag::FEEDBACK[]
-:filename: 42-glossary/00-glossary.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
+
 
 // tag::REMARK[]
 [NOTE]

@@ -9,8 +9,8 @@ include::01-duration-terms.adoc[{include_configuration}]
 
 === {learning-goals}
 
-include::LG-2-01.adoc[{include_configuration}]
-//include::LG-2-02.adoc[{include_configuration}]
+include::learning-goals.adoc[{include_configuration}]
+
 
 // end::DE[]
 
@@ -21,12 +21,8 @@ include::01-duration-terms.adoc[{include_configuration}]
 
 === {learning-goals}
 
-include::LG-2-01.adoc[{include_configuration}]
-//include::LG-2-02.adoc[{include_configuration}]
+include::learning-goals.adoc[{include_configuration}]
+
 // end::EN[]
 
 
-
-
-// references (if any!)
-include::references.adoc[{include_configuration}]
