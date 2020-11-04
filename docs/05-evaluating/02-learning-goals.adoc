@@ -1,8 +1,4 @@
-<<<<<<< HEAD:docs/05-evaluating/learning-goals.adoc
-
-=======
 === {learning-goals}
->>>>>>> v2020-draft:docs/04-tools/02-learning-goals.adoc
 
 // tag::DE[]
 [[LZ-1-1]]

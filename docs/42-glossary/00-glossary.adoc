@@ -2,16 +2,6 @@
 // ====================================================
 
 
-
-// tag::REMARK[]
-[NOTE]
-====
-* GS, Oct. 2019: The glossary is currently maintained in EN (English) only.
-* For an example for cross-references within the glossary, see  "Gherkin".
-We don't currently use AsciiDoc cross-references, but stick to "->" symbols instead.
-====
-// end::REMARK[]
-
 // tag::DE[]
 // end::DE[]
 

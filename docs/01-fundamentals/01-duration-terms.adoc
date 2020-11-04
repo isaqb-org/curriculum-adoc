@@ -1,5 +1,6 @@
 
 // tag::DE[]
+[width=50%]
 |===
 | Dauer: 55 Min. | Übungszeit: ca. 20 Min.
 |===

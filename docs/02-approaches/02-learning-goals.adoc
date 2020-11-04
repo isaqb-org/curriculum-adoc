@@ -1,0 +1,48 @@
+<<<<<<< HEAD:docs/02-approaches/learning-goals.adoc
+=======
+=== {learning-goals}
+>>>>>>> v2020-draft:docs/02-approaches/02-learning-goals.adoc
+
+// tag::DE[]
+[[LZ-2-1]]
+==== LZ 2-1: Architekturdokumentation erstellen können
+
+[[LZ-2-2]]
+==== LZ 2-2: Zielgruppen und Ziele der Architekturdokumentation ermitteln
+
+[[LZ-2-3]]
+==== LZ 2-3: Beispiele von Dokumentations-Templates kennen
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-2-1]]
+==== LG 2-1: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+Aus Version 1.5 (Verweise auf LZ nachträglich eingefügt):
+
+Teilnehmer können für gegebene Situation angemessene Vorgehensweise für die Dokumentation bestimmen/entwerfen.
+
+==== 4.2.1 Was sollen die Teilnehmer können?
+
+* Architekturdokumentation für folgende Situationen erstellen (siehe <<LZ-2-1>>):
+** Erstellung neuer Systeme
+** Weiterentwicklung bestehender Systeme mit vorhandener Dokumentation
+** Nachdokumentation bestehender Systeme ohne vorhandene Dokumentation
+** Dokumentation in Ausnahmesituationen (wenig Budget, wenig Zeit, wenig verfügbare Informationsquellen etc.)
+* Zielgruppen und Ziele der Dokumentation ermitteln (siehe <<LZ-2-2>>)
+* Zu erstellende Bestandteile bedarfsgerecht auswählen
+* Die Vorteile fester Gliederungen und Strukturen für (technische) Dokumentation argumentieren können. (siehe <<LZ-2-3>>)
+
+==== 4.2.2 Was sollen die Teilnehmer verstehen?
+* Dokumentation entsteht im Idealfall begleitend zu Architektur und Entwicklung, nicht hinterher.
+* Agilität und Dokumentation stehen nicht im Widerspruch zueinander.
+
+==== 4.2.3 Was sollen die Teilnehmer kennen?
+* Die Rolle von Architekturdokumentation in verschiedenen konkreten Vorgehensmodellen
+* Verschiedene Vorschläge und Vorlagen für Standardgliederungen (z. B. arc42, SEI).
+// end::REMARK[]
+

@@ -17,13 +17,16 @@ include::learning-goals.adoc[{include_configuration}]
 
 // tag::EN[]
 == Examples of software architecture documentation
+// end::EN[]
 
-include::01-examples-duration-terms.adoc[{include_configuration}]
+include::01-duration-terms.adoc[{include_configuration}]
+
+include::02-learning-goals.adoc[{include_configuration}]
 
 
-=== {learning-goals}
+
+
 
 include::learning-goals.adoc[{include_configuration}]
 
 
-// end::EN[]
