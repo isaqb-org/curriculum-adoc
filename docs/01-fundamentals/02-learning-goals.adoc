@@ -1,8 +1,4 @@
-<<<<<<< HEAD:docs/01-fundamentals/learning-goals.adoc
-
-=======
 === {learning-goals}
->>>>>>> v2020-draft:docs/01-fundamentals/02-learning-goals.adoc
 
 // tag::DE[]
 [[LZ-1-1]]
@@ -53,6 +49,16 @@
 [[LG-1-1]]
 ==== LG 1-1: The is the first learning goal, in category xy
 tbd.
+
+[[LG-1-2]]
+==== LG 1-2: Understanding the Importance of Architecture Documentation for Different Stakeholders
+
+* Understand that different stakeholders usually have different requirements for architecture documentation, for example with regard to..:
+** Types of information (e.g. about interfaces, building blocks, cross-sectional topics, decisions, technical risks, approaches to solutions, etc.)
+** Representation of such information (as (graphical) models, as pure graphics or textual)
+** Degree of detail (e.g. overview, abstract or detailed representation)
+** technical representation (with/without writing/editing options, PDF, HTML, Wiki, word processing, etc.)
+** Degree of timeliness (how _up-to-date_ does documentation needs to be, up-to-the latest development/release/test version? minor/major version?)
 // end::EN[]
 
 
