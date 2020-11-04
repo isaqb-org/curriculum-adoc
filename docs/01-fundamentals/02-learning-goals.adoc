@@ -12,6 +12,7 @@
    ** Konservierung von Wissen über Entwicklung und Architektur
 * Diese Ziele und den Nutzen gegenüber Stakeholdern überzeugend vertreten können.
 
+
 ==== LZ 1-2: Bedeutung von Architekturdokumentation für unterschiedliche Stakeholder verstehen
 
 * Verstehen, dass unterschiedliche Stakeholder i.d.R. verschiedene Anforderungen an Architekturdokumentation haben, beispielsweise hinsichtlich:
