@@ -2,17 +2,18 @@
 // tag::DE[]
 [width=50%]
 |===
-| Dauer: 55 Min. | Übungszeit: ca. 20 Min.
+| Dauer: 70 Min. | Übungszeit: ca. 20 Min.
 |===
 
 === Begriffe und Konzepte
 
+Softwarearchitektur, Dokumentation, Stakeholder, Notation, Vorgehensmodell, Lösungsentwurf, UML.
 
 // end::DE[]
 // tag::EN[]
 
 |===
-| Lesson duration: 55 min | Exercises: approx. 20 min
+| Lesson duration: 70 min | Exercises: approx. 20 min
 |===
 
 === Terms and concepts

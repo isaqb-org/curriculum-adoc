@@ -4,49 +4,57 @@
 [[LZ-1-1]]
 ==== LZ 1-1: Nutzen und Ziele von Architekturdokumentation verstehen
 
-* Architekturdokumentation ist kein Selbstzweck
-* Den Nutzen und die verschiedenen Ziele von Architekturdokumentation beschreiben, beispielsweise: 
-   ** Architekturdokumentation unterstützt beim Lösungsentwurf, und bei der Kommunikation der Lösung dem Team und anderen (z. B. Auftraggebern) gegenüber.
-   ** Unterstützung der Entwicklung durch Vermittlung architektur- und entwicklungsrelevanter Entscheidungen, Fakten und Gründe.
-   ** Schriftliche Kommunikation relevanter struktureller und konzeptioneller Sachverhalte
-   ** Konservierung von Wissen über Entwicklung und Architektur
-* Diese Ziele und den Nutzen gegenüber Stakeholdern überzeugend vertreten können.
+Softwarearchitekt:innen wissen, dass Architekturdokumentation kein Selbstzweck ist.
+
+Sie können den Nutzen und verschiedene Ziele von Architekturdokumentation erklären, beispielsweise: 
+
+* Architekturdokumentation unterstützt beim Lösungsentwurf, und bei der Kommunikation der Lösung dem Team und anderen (z. B. Auftraggebern) gegenüber.
+* Unterstützung der Entwicklung durch Vermittlung architektur- und entwicklungsrelevanter Entscheidungen, Fakten und Gründe.
+* Schriftliche Kommunikation relevanter struktureller und konzeptioneller Sachverhalte
+* Konservierung von Wissen über Entwicklung und Architektur
+
+Sie können diese Ziele und den Nutzen von Dokumentation gegenüber Stakeholdern überzeugend vertreten.
 
 [[LZ-1-2]]
 ==== LZ 1-2: Bedeutung von Architekturdokumentation für unterschiedliche Stakeholder verstehen
 
-* Verstehen, dass unterschiedliche Stakeholder i.d.R. verschiedene Anforderungen an Architekturdokumentation haben, beispielsweise hinsichtlich:
-** Arten von Informationen (etwa: über Schnittstellen, Bausteine, querschnittliche Themen, Entscheidungen, technische Risiken, Lösungsansätze oä)
-** Darstellung solcher Informationen (als (grafische) Modelle, als reine Grafiken oder textuell)
-** Detaillierungsgrad (etwa: Überblick, abstrakte oder detaillierte Darstellung)
-** technische Repräsentation (mit/ohne Schreib-/Änderungsmöglichkeiten, PDF, HTML, Wiki, Textverarbeitung oä)
-** Grad der Aktualität
+Softwarearchitekt:innen verstehen, dass unterschiedliche Stakeholder i.d.R. verschiedene Anforderungen an Architekturdokumentation haben, beispielsweise hinsichtlich:
+
+* Arten von Informationen, etwa zu Schnittstellen, Bausteinen, querschnittlichen Themen, Entscheidungen, technischen Risiken, grundlegenden Lösungsansätzen oä
+* Darstellung solcher Informationen, etwa als (grafische oder textuelle) Modelle, als Grafiken oder Text
+* Detaillierungsgrad, etwa: Überblick, abstrakte oder detaillierte Darstellung
+* technische Repräsentationm etwa mit oder ohne Schreib-/Änderungsmöglichkeiten, als PDF, HTML, Wiki, Textverarbeitung oä
+* Grad der Aktualität
 
 [[LZ-1-3]]
 ==== LZ 1-3: Architekturdokumentation gegen andere Arten von Dokumentation abgrenzen
 
-* Verstehen, dass Architekturdokumentation Berührungspunkte und teilweise Überdeckung zu anderen Arten vo Dokumentation besitzt, beispielsweise:
-** Anforderungs-/Requirements-Dokumentation
-** Implementierungsdokumentation
-** Managementdokumentation
-** Testdokumentation
-** Betriebsdokumentation
+Softwarearchitekt:innen verstehen, dass Architekturdokumentation Berührungspunkte und teilweise Überdeckung zu anderen Arten vo Dokumentation besitzt, beispielsweise:
+
+* Anforderungs-/Requirements-Dokumentation
+* Implementierungsdokumentation
+* Managementdokumentation
+* Testdokumentation
+* Betriebsdokumentation
 
 [[LZ-1-4]]
 ==== LZ 1-4: Typische Notations- und Darstellungsmittel für Architekturdokumentation kennen
 
-* Verschiedene Notations- und Darstellungsmittel für Architekturinformationen kennen, beispielsweise:
-** Modellierungsmethoden, beispielsweise UML, BPMN, ER-Diagramme, Ereignis-Prozessketten (ePK)
-** Textuelle Erläuterungen von Entscheidungen
+Softwarearchitekt:innen kennen verschiedene Notations- und Darstellungsmittel für Architekturinformationen kennen, beispielsweise:
 
-* UML ist für Architekturdokumentation hilfreich, aber nicht zwingend erforderlich.
+* Modellierungsmethoden, beispielsweise UML, BPMN, ER-Diagramme, Ereignis-Prozessketten
+* Textuelle Erläuterungen von Entscheidungen
+
+Sie wissen, dass formalere Notationen wie UML für Architekturdokumentation hilfreich sein können, aber nicht zwingend erforderlich sind.
 
 [[LZ-1-5]]
-==== LZ 1-5: Varianten von Entwicklungsvorgehen und deren "Beitrag" zu Architekturdokumentation kennen
+==== LZ 1-5: Varianten von Entwicklungsvorgehen und deren Einfluss auf Architekturdokumentation kennen
 
-* In eher formalen Entwicklungsvorhaben (etwa _safety-critical_) gelten eher hohe Ansprüche an Architekturdokumentation
-* In eher leichtwichtigen Entwicklungsprozessen (agilen Prozessen) sollten Teams eine dem System und dessen Umfeld angemessene Art von Dokumentation wählen
-* Je nach Vorgehen und Rahmenbedingungen des Vorhabens sind sehr unterschiedliche Dokumentationsarbeiten zu leisten.
+Softwarearchitekt:innen wissen, dass
+* in eher formalen Entwicklungsvorhaben (etwa _safety-critical_) hohe Ansprüche an Architekturdokumentation gelten
+* in eher leichtwichtigen Entwicklungsprozessen (agilen Prozesse) Teams eine dem System und dessen Umfeld angemessene Art von Dokumentation wählen sollten
+* je nach Vorgehen und Rahmenbedingungen des Vorhabens sehr unterschiedliche Dokumentationsarbeiten zu leisten sind
+
 // end::DE[]
 
 // tag::EN[]
@@ -68,22 +76,4 @@ tbd.
 
 // tag::REMARK[]
 
-aus V 1.5:
-
-==== Was sollen die Teilnehmer können?
-
-* Den Nutzen und die verschiedenen Ziele von Architekturdokumentation beschreiben und überzeugend vertreten können.
-* Massgebliche Nutzer und die Bedeutung von Architekturdokumentation für unterschiedliche Stakeholder erklären können.
-* Arbeitsergebnisse aus der Architekturdokumentation gegen Ergebnisse anderer Disziplinen (Anforderungsmanagement, Projektmanagement, ...) abgrenzen können.
-* Typische Notationen für Architekturdokumentation nennen können.
-* Konkrete Vorgehensmodelle und ihren „Beitrag“ bezüglich Architekturdokumentation nennen können.
-
-
-==== Was sollen die Teilnehmer verstehen?
-
-* Architekturdokumentation ist kein Selbstzweck.
-* Architekturdokumentation unterstützt beim Lösungsentwurf, und bei der Kommunikation der Lösung dem Team und anderen (z. B. Auftraggebern) gegenüber.
-* Verschiedene Vorgehensmodelle machen ausführliche bis gar keine Vorgaben bezüglich konkreter Ergebnisse.
-* Je nach Vorgehen und Rahmenbedingungen des Vorhabens sind sehr unterschiedliche Dokumentationsarbeiten zu leisten.
-* UML ist im Zusammenhang mit Architekturdokumentation etabliert, aber nicht zwingend erforderlich.
 // end::REMARK[]

@@ -12,7 +12,7 @@ Softwarearchitekt:innen können angemessene Architekturdokumentation für mittle
 
 Sie können Zielgruppen und Ziele der Dokumentation ermitteln (siehe <<LZ-2-2>>).
 
-Details zu den notwendigen methodischen Mitteln finden sich in den Lernzielen <<lz-3-1,LZ 3-1>> bis <<lz-3-5, LZ 3-5>>
+Details zu den notwendigen methodischen Mitteln finden sich in den Lernzielen <<lz-3-1,LZ 3-1>> bis <<lz-3-5, LZ 3-5>>.
 
 [[LZ-2-2]]
 ==== LZ 2-2: Zielgruppen und Ziele der Architekturdokumentation ermitteln
@@ -22,8 +22,16 @@ Softwarearchitekt:innen können die Zielgruppen ("Stakeholder") für Architektur
 
 Sie können zusammen mit diesen Stakeholdern konkrete Ziele der Dokumentation ermitteln. 
 
+
 [[LZ-2-3]]
-==== LZ 2-3: Situativ passendes Vorgehen zur Architekturdokumentation bestimmen
+==== LZ 2-3: Situativ passende Struktur einer Architekturdokumentation bestimmen
+
+Softwarearchitekt:innen können für gegebene Situationen und Systeme eine passende Struktur für die Architekturdokumentation auswählen oder erarbeiten.
+
+Als Basis dafür dienen Zielgruppen und Ziele (siehe <<LZ-2-2, LZ 2-2>>) sowie Templates (siehe <<LZ-2-5, LZ 2-5>>)).
+
+[[LZ-2-4]]
+==== LZ 2-4: Situativ passendes Vorgehen zur Architekturdokumentation bestimmen
 
 * Softwarearchitekt:innen finden für gegebene Situationen ein passendes Vorgehen zur Dokumentation.
 
@@ -37,9 +45,9 @@ Sie können zusammen mit diesen Stakeholdern konkrete Ziele der Dokumentation er
 
 * Sie wissen, dass agile Entwicklung und Architekturdokumentation nicht im Widerspruch zueinander stehen, und können dies Stakeholdern gegenüber begründen.
 
-[[]]
-[[LZ-2-4]]
-==== LZ 2-4: Beispiele standardisierter Dokumentationsstrukturen (_Templates_) kennen 
+
+[[LZ-2-5]]
+==== LZ 2-5: Beispiele standardisierter Dokumentationsstrukturen (_Templates_) kennen 
 
 Softwarearchitekt:innen kennen Beispiele von Architekturtemplates, etwa:
 
