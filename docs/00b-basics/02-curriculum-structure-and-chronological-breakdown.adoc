@@ -12,7 +12,7 @@
 | 5. Dokumentation bewerten | 120
 | 6. Beispiele für Dokumentation | 60
 | |
-| Summe | 960 (16h)
+| Summe | 720 (12h)
 
 |===
 
