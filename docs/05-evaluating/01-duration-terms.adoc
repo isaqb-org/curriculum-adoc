@@ -6,6 +6,9 @@
 
 === Begriffe und Konzepte
 Review, Checklisten, Fragenkataloge.
+
+Die Lernziele in diesem Abschnitt beschäftigen sich mit der Überprüfung von Architekturdokumentation auf ihre Gebrauchstauglichkeit.
+Für den praktischen Einsatz von Dokumentation ist dies ein wesentlicher Erfolgsfaktor.
 // end::DE[]
 
 
@@ -18,6 +21,8 @@ Review, Checklisten, Fragenkataloge.
 === Terms and concepts
 Review, checklists, questionnaires.
 
+The learning objectives in this section deal with the examination of architectural documentation for its usability.
+This is an essential success factor for the practical use of documentation.
 // end::EN[]
 
 // tag::REMARK[]

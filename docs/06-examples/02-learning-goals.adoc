@@ -1,37 +1,23 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-1-1]]
-==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
-- Was sollen die Teilnehmer können?
-   * Fähigkeit 1
-   * Fähigkeit 2
-   * Fähigkeit 3
-   * etc.
+[[LZ-6-1]]
+==== LZ 6-1: Beispiele praktischer Architekturdokumentation kennen
+Softwarearchitekten:innen haben an mindestens einem Beispiel Architekturdokumentation kennen gelernt.
 
-- Was sollen die Teilnehmer verstehen?
-  * Aussage 1
-  * Behauptung 2
-  * Erfahrung 3
-  * Zusammenhang 4
-  * etc.
-- Was sollen die Teilnehmer kennen?
-  * Zusammenhang Nr. 1
-  * Norm Nr. 2
-  * Buch Nr. 3
-  * etc.
+Sie können Vor- und Nachteile vorgestellter Beispiele erklären.
 
 // end::DE[]
 
 // tag::EN[]
-[[LG-1-1]]
-==== LG 1-1: The is the first learning goal, in category xy
-tbd.
+[[LG-6-1]]
+==== LG 6-1: Know practical examples of architecture documentation
+
+Software architects have learned about architecture documentation from at least one practical example.
+
+They can explain advantages and disadvantages of presented examples.
+
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
 // end::REMARK[]

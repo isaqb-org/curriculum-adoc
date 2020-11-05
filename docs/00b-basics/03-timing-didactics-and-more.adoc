@@ -5,10 +5,10 @@
 Bitte die **?** durch die erreichbaren Punkte ersetzen.
 ====
 // end::REMARK[]
-:recommended-duration-in-days: 3
-:methodical-credits: **?**
-:technical-credits: **?**
-:communicative-credits: **?**
+:recommended-duration-in-days: 2
+:methodical-credits: 20
+:technical-credits: 0
+:communicative-credits: 0
 
 // tag::DE[]
 === Dauer, Didaktik und weitere Details

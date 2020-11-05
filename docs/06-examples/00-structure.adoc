@@ -10,23 +10,23 @@ include::01-duration-terms.adoc[{include_configuration}]
 
 === {learning-goals}
 
-include::learning-goals.adoc[{include_configuration}]
+include::02-learning-goals.adoc[{include_configuration}]
 
 
 // end::DE[]
 
 // tag::EN[]
 == Examples of software architecture documentation
-// end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
+=== {learning-goals}
 
 include::02-learning-goals.adoc[{include_configuration}]
 
+// end::EN[]
 
 
 
 
-include::learning-goals.adoc[{include_configuration}]
 
 

@@ -2,19 +2,22 @@
 // tag::DE[]
 === Voraussetzungen
 
-Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
+Teilnehmer sollten folgende Kenntnisse und/oder Erfahrung mitbringen:
 
-- Voraussetzung 1
-- Voraussetzung 2, etc.
+* Grundlagen der Beschreibung von Architekturen mit Hilfe verschiedener Sichten, übergreifender Konzepte, Entwurfsentscheidungen, Randbedingungen etc., wie es im CPSA- F Foundation Level vermittelt wird.
+* Wünschenswert sind eigene Erfahrungen in der Erstellung und Pflege technischer Dokumentation von Software, insbesondere der Architektur von Software- oder Software- nahen Systemen.
 
-**Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
 
-- Kenntnisgruppe 1:
-  * Kenntnis 1
-  * Erfahrung 2
-  * Kenntnis 3
-  * Erfahrung 4
-  * Wissen 5
+Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
+
+* Kenntnis typischer Herausforderungen bei Erstellung und Pflege von technischer
+Dokumentation:
+** Auswahl geeigneter Dokumentationsstrukturen, Notationen, Ergebnistypen (Stakeholderorientierung)
+** Behandlung großer Dokumentationen (insbesondere vorhandener oder veralteter Dokumentation)
+** Auswahl, Konfiguration und Einführung von Werkzeugketten (mit welchen Mitteln kann Dokumentation angemessen erstellt und gepflegt werden),
+** Versionierung von Dokumenten (Modelle und Texte)
+** Dokumentation in Teams, arbeitsteilige Erstellung und Pflege o Inhaltsbezogene und formale Reviews von Dokumentation.
+
 // end::DE[]
 
 // tag::EN[]
@@ -36,8 +39,5 @@ Knowledge in the following areas may be **helpful** for understanding some conce
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
-====
+
 // end::REMARK[]

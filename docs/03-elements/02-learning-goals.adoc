@@ -1,41 +1,60 @@
-<<<<<<< HEAD:docs/03-elements/learning-goals.adoc
-/
-=======
 === {learning-goals}
->>>>>>> v2020-draft:docs/03-elements/02-learning-goals.adoc
 
 // tag::DE[]
-[[LZ-1-1]]
-==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
-- Was sollen die Teilnehmer können?
-   * Fähigkeit 1
-   * Fähigkeit 2
-   * Fähigkeit 3
-   * etc.
+[[LZ-3-1]]
+==== LZ 3-1: Einflusfaktoren und Randbedingungen dokumentieren 
 
-- Was sollen die Teilnehmer verstehen?
-  * Aussage 1
-  * Behauptung 2
-  * Erfahrung 3
-  * Zusammenhang 4
-  * etc.
-- Was sollen die Teilnehmer kennen?
-  * Zusammenhang Nr. 1
-  * Norm Nr. 2
-  * Buch Nr. 3
-  * etc.
+[[LZ-3-2]]
+==== LZ 3-2: Architekturentscheidungen dokumentieren
+
+[[LZ-3-3]]
+==== LZ 3-3: Architektursichten dokumentieren
+
+[[LZ-3-4]]
+==== LZ 3-4: Übergreifende Konzepte dokumentieren
+
+[[LZ-3-5]]
+==== LZ 3-5: Konsistenz zwischen Teilen der Dokumentation sicherstellen
+
+
 
 // end::DE[]
 
 // tag::EN[]
-[[LG-1-1]]
-==== LG 1-1: The is the first learning goal, in category xy
+[[LG-3-1]]
+==== LG 1-1:
 tbd.
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
+aus V 1.5
+
+Was sollen die Teilnehmer können?
+Die Architektur mittlerer bis großer IT-Systeme selbständig dokumentieren, sowohl entwicklungsbegleitend, wie bei Bedarf auch a posteriori („Nachdokumentation“).
+Vorhandene Architekturdokumentation weiterentwickeln und pflegen, dabei die Qualität der Dokumentation systematisch verbessern.
+Für mittlere bis große Systeme spezifisch geeignete Arten und Strukturen der Architekturdokumentation erarbeiten oder auswählen.
+Faktoren, die Einfluss auf Software-Architektur haben, identifizieren und geeignet dokumentieren, z. B.
+o Randbedingungen o Qualitätsziele
+o Technische Risiken
+Architekturentscheidungen nachvollziehbar festhalten
+Unterschiedliche Sichten auf Software-Architektur mit geeigneten Beschreibungsmitteln anfertigen
+o Verschiedene Aspekte von Bausteinsichten erklären und dokumentieren (Darstellung als hierarchische Verfeinerung, Dokumentation wiederkehrender Strukturen oder Muster, Beschreibung interner Schnittstellen, Zusammenhang von Bausteinen zu Quellcode)
+o Laufzeitszenarien, insbesondere zur Erfüllung der wesentlichen Systemfunktionen, Darstellung unvollständiger Szenarien, Darstellung über verschiedene Verfeinerungsebenen
+o Notationen (etwa: UML, SysML o. ä.) zur Beschreibung von Sichten
+Schnittstellen beschreiben
+Technische und oder übergreifende Konzepte zielgruppengerecht anfertigen
+Konsistenz zwischen unterschiedlichen Bestandteilen der Architekturdokumentation prüfen bzw. herstellen
+Bestandteile in Dokumenten strukturieren.
+Was sollen die Teilnehmer verstehen?
+Für eine nachvollziehbare Software-Architektur reicht es nicht, die Lösung zu dokumentieren. Auch architekturrelevante Anforderungen und Begründungen sind festzuhalten.
+Was sollen die Teilnehmer kennen?
+IEEE 1471 („Recommended Practice for Architecture Description of Software-Intensive Systems“)
+Alternative Vorschläge für konkrete Sichten, zum Beispiel o Rational Unified Process (4+1)
+© 2012 iSAQB e. V. V 1.6 vom 03. September 2018 Seite 11 von 16
+ iSAQB-Curriculum für Advanced Level - Architekturdokumentation
+ o Meta-/Sichtenmodell vom Software Engineering Institute
+o arc42
+• Grafische Notationen für Sichten
+• FMC (Fundamental Modeling Concepts)
+• RM-ODP (Reference Model of Open Distributed Processing)
 // end::REMARK[]

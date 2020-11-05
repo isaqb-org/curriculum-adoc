@@ -3,14 +3,16 @@
 [[LZ-2-1]]
 ==== LZ 2-1: Architekturdokumentation erstellen 
 
-Softwarearchitekt:innen können angemessene Architekturdokumentation für beispielsweise folgende Situation erstellen:
+Softwarearchitekt:innen können angemessene Architekturdokumentation für mittlere bis große IT-Systeme in beispielsweise folgenden Situationen erstellen:
 
 * Erstellung neuer Systeme
 * Weiterentwicklung bestehender Systeme mit vorhandener Dokumentation
 * Nachdokumentation bestehender Systeme ohne vorhandene Dokumentation
 * Dokumentation in Ausnahmesituationen (wenig Budget, wenig Zeit, wenig verfügbare Informationsquellen etc.)
 
-Sie können Zielgruppen und Ziele der Dokumentation ermitteln (siehe <<LZ-2-2>>)
+Sie können Zielgruppen und Ziele der Dokumentation ermitteln (siehe <<LZ-2-2>>).
+
+Details zu den notwendigen methodischen Mitteln finden sich in den Lernzielen <<lz-3-1,LZ 3-1>> bis <<lz-3-5, LZ 3-5>>
 
 [[LZ-2-2]]
 ==== LZ 2-2: Zielgruppen und Ziele der Architekturdokumentation ermitteln
@@ -35,7 +37,7 @@ Sie können zusammen mit diesen Stakeholdern konkrete Ziele der Dokumentation er
 
 * Sie wissen, dass agile Entwicklung und Architekturdokumentation nicht im Widerspruch zueinander stehen, und können dies Stakeholdern gegenüber begründen.
 
-
+[[]]
 [[LZ-2-4]]
 ==== LZ 2-4: Beispiele standardisierter Dokumentationsstrukturen (_Templates_) kennen 
 
@@ -46,6 +48,7 @@ Softwarearchitekt:innen kennen Beispiele von Architekturtemplates, etwa:
 * IEEE 1471 („Recommended Practice for Architecture Description of Software-Intensive Systems“)
 
 // end::DE[]
+
 
 // tag::EN[]
 [[LG-2-1]]
