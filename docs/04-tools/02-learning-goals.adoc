@@ -1,7 +1,38 @@
 
 // tag::DE[]
 [[LZ-4-1]]
-==== LZ 4-1: 
+==== LZ 4-1: Passende Werkzeuge für Dokumentationsarbeit auswählen
+
+Softwarearchitekt:innen können passenden Werkzeuge für die verschiedenen Aktivitäten auswählen:
+
+o Erstellung und Pflege von Bestandteilen von Architekturdokumentation 
+o Verwaltung der Bestandteile
+o Kommunikation von Inhalten mit Unterstützung der Bestandteile
+
+Sie können: 
+
+* analoge und digitale Dokumentationswerkzeuge situations- und bedarfsgerecht einsetzen 
+* eine vollständige Werkzeugkette zur Architekturdokumentation anhand konkreter Anforderungen, Randbedingungen und weiterer Einflussfaktoren nachvollziehbar auswählen.
+
+Sie kennen jeweilige Stärken, Schwächen und typische Herausforderungen beim Einsatz und der Integration von verbreiteter Werkzeugenkategorien, beispielsweise:
+
+* Wikis
+* Modellierungswerkzeuge
+* Zeichenprogramme
+* Textverarbeitungen
+* Versionsverwaltungen
+* Sonstige (etwa: Blogs, Issue-Tracker etc.)
+
+
+[[LZ-4-2]]
+==== LZ 4-2: Anforderungen an Dokumentationswerkzeuge und -artefakte kennen
+
+Softwarearchitekt:innen wissen, wie Werkzeuge bei verschiedenen Aufgaben rund um Architekturdokumentation unterstützen können.
+
+Sie wissen, dass Dokumentation:
+
+* ähnlich wie Quellcode versioniert und releasefähig verwaltet werden soll
+* zu jedem definierten Stand der Software hergestell- oder generierbar sein sollte
 
 // end::DE[]
 
