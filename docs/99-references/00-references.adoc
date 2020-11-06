@@ -42,3 +42,6 @@ Leanpub <https://leanpub.com/arc42inpractice>
 
 
 - [[[UML,UML]]] Universal Modeling Language, homepage: <http://uml.org/>. Provides both the standard plus a collection of resources for further information.
+
+- [[[zoerner, Zörner 2015]]] Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren: Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten. 2. Auflage, Carl-Hanser Verlag 2015
+

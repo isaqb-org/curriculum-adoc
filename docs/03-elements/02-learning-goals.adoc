@@ -4,7 +4,8 @@
 [[LZ-3-1]]
 ==== LZ 3-1: Einflusfaktoren und Randbedingungen dokumentieren 
 
-Softwarearchitekt:innen können Faktoren, die Einfluss auf Softwarearchitektur haben, identifizieren und geeignet dokumentieren, z. B.
+Softwarearchitekt:innen können Faktoren, die Einfluss auf Softwarearchitektur haben, identifizieren und geeignet dokumentieren.
+Dazu zählen:
 
 * Randbedingungen 
 * Qualitätsanforderungen und -ziele
@@ -13,7 +14,10 @@ Softwarearchitekt:innen können Faktoren, die Einfluss auf Softwarearchitektur h
 [[LZ-3-2]]
 ==== LZ 3-2: Architekturentscheidungen dokumentieren
 
-Softwarearchitekt:innen können
+Softwarearchitekt:innen können Architekturentscheidungen nachvollziehbar festhalten.
+Sie kennen beispielsweise _Architecture Decision Records_ als eine feste Struktur für solche Entscheidungen.
+
+
 
 [[LZ-3-3]]
 ==== LZ 3-3: Architektursichten dokumentieren
