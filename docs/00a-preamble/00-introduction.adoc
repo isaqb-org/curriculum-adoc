@@ -5,6 +5,7 @@ include::01-what-to-expect-of-an-advanced-level-module.adoc[{include_configurati
 
 include::02-advanced-level-knowledge.adoc[{include_configuration}]
 
+<<<
 include::03-prerequisites.adoc[{include_configuration}]
 // end::DE[]
 
@@ -15,6 +16,7 @@ include::01-what-to-expect-of-an-advanced-level-module.adoc[{include_configurati
 
 include::02-advanced-level-knowledge.adoc[{include_configuration}]
 
+<<<
 include::03-prerequisites.adoc[{include_configuration}]
 // end::EN[]
 
