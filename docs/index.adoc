@@ -25,12 +25,12 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg[
 
 | English
 | (currently not available) 
-// link:adoc-curriculum_en.html[HTML]
+// link:curriculum-adoc-en.html[HTML]
 | currently not available
-//link:adoc-curriculum_en.pdf[PDF]
+//link:curriculum-adoc-en.pdf[PDF]
 
 | German
-| link:adoc-curriculum_de.html[HTML]
-| link:adoc-curriculum_de.pdf[PDF]
+| link:curriculum-adoc-de.html[HTML]
+| link:curriculum-adoc-de.pdf[PDF]
 
 |===
