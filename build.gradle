@@ -17,12 +17,10 @@ plugins {
 
 ext {
   today = new Date()
-  englishDate = new SimpleDateFormat("MMMM d, yyyy", Locale.US).format(today)
-  germanDate = new SimpleDateFormat("d. MMMM yyy", Locale.GERMANY).format(today)
+  versionDate = new SimpleDateFormat("yyyyMMdd").format(today)
 
   project.version = project.file("./document.version").text
-  curriculumBaseName = "adoc-curriculum"
-  curriculumFileName = "adoc-curriculum"
+  curriculumFileName = "curriculum-adoc"
   addSuffixToCurriculum = { suffix ->
     for (extension in ["html", "pdf"]) {
       File source = new File("${buildDir}/${curriculumFileName}.${extension}")
@@ -35,7 +33,7 @@ ext {
 
 class RenderCurriculumTask extends AsciidoctorTask {
   @Inject
-  RenderCurriculumTask(String curriculumBaseName, String curriculumFileName, String currentDate, String language, boolean withRemarks) {
+  RenderCurriculumTask(String curriculumFileName, String versionDate, String language, boolean withRemarks) {
     sourceDir = new File("./docs/")
     sources {
       include "index.adoc"
@@ -48,21 +46,22 @@ class RenderCurriculumTask extends AsciidoctorTask {
     def fileVersion = project.version.trim() + "-" + language
 
     attributes = [
-      'icons'            : 'font',
-      'revnumber'        : fileVersion,
-      'revdate'          : currentDate,
-      'document-version' : fileVersion + " (" + currentDate + ")",
-      'curriculumBaseName': curriculumBaseName,
-      'currentDate'      : currentDate,
-      'language'         : language,
-      'withRemarks'      : withRemarks,
-      'debug_adoc'       : false,
-      'pdf-stylesdir'    : '../pdf-theme/themes',
-      'pdf-fontsdir'     : '../pdf-theme/fonts',
-      'pdf-style'        : 'isaqb',
-      'with-uniqe-LG-id' : false,
-      'allow-uri-read'   : true,
-      'outputDir'        : outputDir
+      'icons'             : 'font',
+      'version-label'     : '',
+      'revnumber'         : fileVersion,
+      'revdate'           : versionDate,
+      'document-version'  : fileVersion + "-" + versionDate,
+      'currentDate'       : versionDate,
+      'language'          : language,
+      'withRemarks'       : withRemarks,
+      'curriculumFileName': curriculumFileName,
+      'debug_adoc'        : false,
+      'pdf-stylesdir'     : '../pdf-theme/themes',
+      'pdf-fontsdir'      : '../pdf-theme/fonts',
+      'pdf-style'         : 'isaqb',
+      'with-uniqe-LG-id'  : false,
+      'allow-uri-read'    : true,
+      'outputDir'         : outputDir
     ]
   }
 }
@@ -75,7 +74,7 @@ task buildDocs {
 }
 
 task renderNoRemarksDE(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, curriculumFileName, germanDate, "DE", false]) {
+    constructorArgs: [curriculumFileName, versionDate, "DE", false]) {
   doLast {
     addSuffixToCurriculum("-de")
   }
@@ -83,7 +82,7 @@ task renderNoRemarksDE(type: RenderCurriculumTask,
 
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, curriculumFileName, englishDate, "EN", false]) {
+    constructorArgs: [curriculumFileName, versionDate, "EN", false]) {
   doLast {
     addSuffixToCurriculum("-en")
   }
