@@ -67,7 +67,7 @@ tbd.
 // tag::REMARK[]
 Aus Version 1.5 (Verweise auf LZ nachträglich eingefügt):
 
-Teilnehmer können für gegebene Situation angemessene Vorgehensweise für die Dokumentation bestimmen/entwerfen.
+Teilnehmende können für gegebene Situation angemessene Vorgehensweise für die Dokumentation bestimmen/entwerfen.
 
 ==== 4.2.1 Was sollen die Teilnehmer können?
 
