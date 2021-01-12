@@ -29,7 +29,7 @@ Softwarearchitekt:innen verstehen, dass unterschiedliche Stakeholder i.d.R. vers
 [[LZ-1-3]]
 ==== LZ 1-3: Architekturdokumentation gegen andere Arten von Dokumentation abgrenzen
 
-Softwarearchitekt:innen verstehen, dass Architekturdokumentation Berührungspunkte und teilweise Überdeckung zu anderen Arten vo Dokumentation besitzt, beispielsweise:
+Softwarearchitekt:innen verstehen, dass Architekturdokumentation Berührungspunkte und teilweise Überdeckung zu anderen Arten von Dokumentation besitzt, beispielsweise:
 
 * Anforderungs-/Requirements-Dokumentation
 * Implementierungsdokumentation
@@ -40,7 +40,7 @@ Softwarearchitekt:innen verstehen, dass Architekturdokumentation Berührungspunk
 [[LZ-1-4]]
 ==== LZ 1-4: Typische Notations- und Darstellungsmittel für Architekturdokumentation kennen
 
-Softwarearchitekt:innen kennen verschiedene Notations- und Darstellungsmittel für Architekturinformationen kennen, beispielsweise:
+Softwarearchitekt:innen kennen verschiedene Notations- und Darstellungsmittel für Architekturinformationen, beispielsweise:
 
 * Modellierungsmethoden, beispielsweise UML, BPMN, ER-Diagramme, Ereignis-Prozessketten
 * Textuelle Erläuterungen von Entscheidungen
