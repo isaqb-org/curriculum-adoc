@@ -30,7 +30,9 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg[
 | link:{curriculumFileName}-de.pdf[PDF]
 
 | English
-| currently not available // link:{curriculumFileName}-en.html[HTML]
-| currently not available // link:{curriculumFileName}-en.pdf[PDF]
+| currently not available
+// link:{curriculumFileName}-en.html[HTML]
+| currently not available
+// link:{curriculumFileName}-en.pdf[PDF]
 
 |===
