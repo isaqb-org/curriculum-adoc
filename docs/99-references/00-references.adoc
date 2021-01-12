@@ -32,9 +32,6 @@ This section contains references that are cited in the curriculum.
 
 - [[[nygard,Nygard]]] Nygard, Michael: Documenting Architecture Decision. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/>
 
-
-
-
 - [[[starke,Starke 2019]]] Starke, Gernot: Effektive Softwarearchitekturen - Ein praktischer Leitfaden. 9. Auflage 2019, Carl Hanser Verlag, München.
 
 - [[[starkehruschka,Starke+2016]]] Gernot Starke, Peter Hruschka: Communicating Software Architectures: lean, effective and painless documentation.
