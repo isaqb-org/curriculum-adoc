@@ -42,7 +42,7 @@ Softwarearchitekt:innen verstehen, dass Architekturdokumentation Berührungspunk
 
 Softwarearchitekt:innen kennen verschiedene Notations- und Darstellungsmittel für Architekturinformationen, beispielsweise:
 
-* Modellierungsmethoden, beispielsweise UML, BPMN, ER-Diagramme, Ereignis-Prozessketten
+* Modellierungsmethoden, wie UML, BPMN, ER-Diagramme, Ereignis-Prozessketten
 * Textuelle Erläuterungen von Entscheidungen
 
 Sie wissen, dass formalere Notationen wie UML für Architekturdokumentation hilfreich sein können, aber nicht zwingend erforderlich sind.
