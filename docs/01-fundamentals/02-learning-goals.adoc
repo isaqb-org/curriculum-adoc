@@ -18,13 +18,13 @@ Sie können diese Ziele und den Nutzen von Dokumentation gegenüber Stakeholdern
 [[LZ-1-2]]
 ==== LZ 1-2: Bedeutung von Architekturdokumentation für unterschiedliche Stakeholder verstehen
 
-Softwarearchitekt:innen verstehen, dass unterschiedliche Stakeholder i.d.R. verschiedene Anforderungen an Architekturdokumentation haben, beispielsweise hinsichtlich:
+Softwarearchitekt:innen verstehen, dass unterschiedliche Stakeholder i. d. R. verschiedene Anforderungen an Architekturdokumentation haben, beispielsweise hinsichtlich:
 
 * Arten von Informationen, etwa zu Schnittstellen, Bausteinen, querschnittlichen Themen, Entscheidungen, technischen Risiken, grundlegenden Lösungsansätzen oä
 * Darstellung solcher Informationen, etwa als (grafische oder textuelle) Modelle, als Grafiken oder Text
 * Detaillierungsgrad, etwa: Überblick, abstrakte oder detaillierte Darstellung
-* technische Repräsentationm etwa mit oder ohne Schreib-/Änderungsmöglichkeiten, als PDF, HTML, Wiki, Textverarbeitung oä
-* Grad der Aktualität
+* technische Repräsentation etwa mit oder ohne Schreib-/Änderungsmöglichkeiten, als PDF, HTML, Wiki, Textverarbeitung o. ä.
+* Grad der Aktualität.
 
 [[LZ-1-3]]
 ==== LZ 1-3: Architekturdokumentation gegen andere Arten von Dokumentation abgrenzen
