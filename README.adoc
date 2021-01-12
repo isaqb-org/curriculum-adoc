@@ -42,16 +42,24 @@ This is <<copyrighted,copyrighted work>>.
 == Content
 Architects and development teams need to effectively and efficiently communicate and document their architecture. This module provides the methodical and practical foundation.
 
-
 toc::[]
 
-== How to contribute or participate
-Create an issue, a merge- or pull-request.
+== How to Contribute or Participate
+Create an issue or a pull-request.
 
+== How to Access the Repository
+--
+[source,shell]
+----
+Via SSH:
+git clone git@github.com:isaqb-org/curriculum-adoc.git --recursive
 
+Via HTTPS:
+git clone https://github.com/isaqb-org/curriculum-adoc.git --recursive
+----
+--
 
-== How to build the documents
-
+== How to Build the Documents
 Prerequisite: You need a Java Runtime(tm) installed.
 
 You build the output documents with `gradle`.
@@ -66,7 +74,7 @@ In case you want to change that, adjust the following part of `build.gradle`:
 task buildDocs {
   group 'Documentation'
   description 'Grouping task for generating all languages in several formats'
-  dependsOn "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE", "renderWithRemarksEN"
+  dependsOn "includeLearningObjectives", """renderNoRemarksDE", "renderNoRemarksEN"
 }
 ----
 
