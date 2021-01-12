@@ -6,9 +6,9 @@
 
 Softwarearchitekt:innen können passenden Werkzeuge für die verschiedenen Aktivitäten auswählen:
 
-o Erstellung und Pflege von Bestandteilen von Architekturdokumentation 
-o Verwaltung der Bestandteile
-o Kommunikation von Inhalten mit Unterstützung der Bestandteile
+* Erstellung und Pflege von Bestandteilen von Architekturdokumentation
+* Verwaltung der Bestandteile
+* Kommunikation von Inhalten mit Unterstützung der Bestandteile
 
 Sie können: 
 
