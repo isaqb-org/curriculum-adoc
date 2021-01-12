@@ -51,8 +51,9 @@ Sie wissen, dass formalere Notationen wie UML für Architekturdokumentation hilf
 ==== LZ 1-5: Varianten von Entwicklungsvorgehen und deren Einfluss auf Architekturdokumentation kennen
 
 Softwarearchitekt:innen wissen, dass
+
 * in eher formalen Entwicklungsvorhaben (etwa _safety-critical_) hohe Ansprüche an Architekturdokumentation gelten
-* in eher leichtwichtigen Entwicklungsprozessen (agilen Prozesse) Teams eine dem System und dessen Umfeld angemessene Art von Dokumentation wählen sollten
+* in eher leichtgewichtigen Entwicklungsprozessen (agilen Prozesse) Teams eine dem System und dessen Umfeld angemessene Art von Dokumentation wählen sollten
 * je nach Vorgehen und Rahmenbedingungen des Vorhabens sehr unterschiedliche Dokumentationsarbeiten zu leisten sind
 
 // end::DE[]
