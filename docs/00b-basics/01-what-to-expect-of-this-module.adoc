@@ -7,8 +7,8 @@
 * bestehende Dokumentation bezüglich ihrer Eignung und Angemessenheit zu bewerten 
 * bestehende Dokumentation zu verbessern.
 
-Teilnehmende lernen, die wesentlichen Aspekte von Softwarearchitekturen (u.a. Entscheidungen, Strukturen, Konzepte, Qualitätsanforderungen und Sichten) systematisch zu beschreiben.
-Dazu stellt ADOC grundlegende Beschreibungs- und Notationsmittel sowie mögliche Werkzeuge zur praktischen Umsetzung vor.
+Teilnehmende lernen, die wesentlichen Aspekte von Softwarearchitekturen (u. a. Entscheidungen, Strukturen, Konzepte, Qualitätsanforderungen und Sichten) systematisch zu beschreiben.
+Dazu stellt {curriculum-short} grundlegende Beschreibungs- und Notationsmittel sowie mögliche Werkzeuge zur praktischen Umsetzung vor.
 
 // end::DE[]
 
