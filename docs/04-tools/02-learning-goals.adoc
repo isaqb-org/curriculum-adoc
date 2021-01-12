@@ -15,7 +15,7 @@ Sie können:
 * analoge und digitale Dokumentationswerkzeuge situations- und bedarfsgerecht einsetzen 
 * eine vollständige Werkzeugkette zur Architekturdokumentation anhand konkreter Anforderungen, Randbedingungen und weiterer Einflussfaktoren nachvollziehbar auswählen.
 
-Sie kennen jeweilige Stärken, Schwächen und typische Herausforderungen beim Einsatz und der Integration von verbreiteter Werkzeugenkategorien, beispielsweise:
+Sie kennen jeweilige Stärken, Schwächen und typische Herausforderungen beim Einsatz und der Integration verbreiteter Werkzeugenkategorien, beispielsweise:
 
 * Wikis
 * Modellierungswerkzeuge
@@ -32,8 +32,8 @@ Softwarearchitekt:innen wissen, wie Werkzeuge bei verschiedenen Aufgaben rund um
 
 Sie wissen, dass Dokumentation:
 
-* ähnlich wie Quellcode versioniert und releasefähig verwaltet werden soll
-* zu jedem definierten Stand der Software hergestell- oder generierbar sein sollte
+* ähnlich wie Quellcode versioniert und Release-fähig verwaltet werden sollte
+* zu jedem definierten Stand der Software herstellbar oder generierbar sein sollte
 
 // end::DE[]
 

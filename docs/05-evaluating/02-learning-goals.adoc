@@ -4,7 +4,7 @@
 [[LZ-5-1]]
 ==== LZ 5-1: Notwendigkeit der Überprüfung auf Gebrauchstauglichkeit erkennen
 
-Softwarearchitekt:innen erkennen die Überprüfung  auf Gebrauchstauglichkeit als einen wesentlichen Erfolgsfaktor der Dokumentation.
+Softwarearchitekt:innen erkennen die Überprüfung auf Gebrauchstauglichkeit als einen wesentlichen Erfolgsfaktor der Dokumentation.
 
 [[LZ-5-2]]
 ==== LZ 5-2: Verschiedene Arten der Begutachtung differenzieren
