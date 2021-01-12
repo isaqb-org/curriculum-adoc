@@ -1,5 +1,7 @@
-= image:images/isaqb-logo.jpg[iSAQB,150] Certified Professional for Software Architecture^(R)^ (CPSA)
-- Architecture Documentation (ADOC) Curriculum -
+include::config/setup.adoc[]
+
+= image:isaqb-logo.jpg[iSAQB,150]Certified Professional for Software Architecture^(R)^ (CPSA)
+Curriculum {curriculum-name} [{curriculum-short}]
 
 The goal of this module is to equip architects and developers with solid methodical foundations to effectively and efficiently create and maintain adequate software architecture documentation.
 
@@ -23,14 +25,14 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg[
 |===
 | Version | HTML | PDF
 
-| English
-| (currently not available) 
-// link:curriculum-adoc-en.html[HTML]
-| currently not available
-//link:curriculum-adoc-en.pdf[PDF]
-
 | German
-| link:curriculum-adoc-de.html[HTML]
-| link:curriculum-adoc-de.pdf[PDF]
+| link:{curriculumFileName}-de.html[HTML]
+| link:{curriculumFileName}-de.pdf[PDF]
+
+| English
+| currently not available
+// link:{curriculumFileName}-en.html[HTML]
+| currently not available
+// link:{curriculumFileName}-en.pdf[PDF]
 
 |===
