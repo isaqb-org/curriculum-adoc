@@ -71,6 +71,8 @@ task buildDocs {
 ----
 
 
+== Additional translations/languages
+include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
 
 == Maintainers
 
@@ -84,4 +86,4 @@ Thanx, Benjamin Wolf (@programming-wolf) for providing such a useful template
 [[copyrighted]]
 == Licensing and Copyright
 
-include::./LICENSE.adoc[]
+include::LICENSE.adoc[]
