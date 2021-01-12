@@ -10,9 +10,9 @@ Softwarearchitekt:innen können angemessene Architekturdokumentation für mittle
 * Nachdokumentation bestehender Systeme ohne vorhandene Dokumentation
 * Dokumentation in Ausnahmesituationen (wenig Budget, wenig Zeit, wenig verfügbare Informationsquellen etc.)
 
-Sie können Zielgruppen und Ziele der Dokumentation ermitteln (siehe <<LZ-2-2>>).
+Sie können Zielgruppen und Ziele der Dokumentation ermitteln (siehe <<LZ-2-2, LZ 2-2>>).
 
-Details zu den notwendigen methodischen Mitteln finden sich in den Lernzielen <<lz-3-1,LZ 3-1>> bis <<lz-3-5, LZ 3-5>>.
+Details zu den notwendigen methodischen Mitteln finden sich in den Lernzielen <<LZ-3-1,LZ 3-1>> bis <<LZ-3-5, LZ 3-5>>.
 
 [[LZ-2-2]]
 ==== LZ 2-2: Zielgruppen und Ziele der Architekturdokumentation ermitteln
