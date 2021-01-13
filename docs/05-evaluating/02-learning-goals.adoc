@@ -1,14 +1,15 @@
+=== {learning-goals}
 
 // tag::DE[]
 [[LZ-5-1]]
 ==== LZ 5-1: Notwendigkeit der Überprüfung auf Gebrauchstauglichkeit erkennen
 
-Softwarearchitekt:innen erkennen die Überprüfung  auf Gebrauchstauglichkeit als einen wesentlichen Erfolgsfaktor der Dokumentation.
+Softwarearchitekt:innen erkennen die Überprüfung auf Gebrauchstauglichkeit als einen wesentlichen Erfolgsfaktor der Dokumentation.
 
 [[LZ-5-2]]
 ==== LZ 5-2: Verschiedene Arten der Begutachtung differenzieren
 
-Softwarearchitekt:innen können wischen inhaltlicher und formaler Begutachtung einer Architekturdokumentation differenzieren.
+Softwarearchitekt:innen können zwischen inhaltlicher und formaler Begutachtung einer Architekturdokumentation differenzieren.
 
 
 [[LZ-5-3]]
@@ -25,21 +26,21 @@ Softwarearchitekt:innen können mit den betroffenen Personen ("Stakeholdern") m�
 [[LZ-5-5]]
 ==== LZ 5-5: Checklisten und Fragenkataloge für Reviews erstellen
 
-Softwarearchitekt:innen können Checklisten und Fragenkataloge für Reviews erstellen.
+Softwarearchitekt:innen können Checklisten und Fragenkataloge für Reviews von Dokumentation erstellen.
 
 [[LZ-5-6]]
 ==== LZ 5-6: Verschiedene Rollen bei Dokumentations-Reviews ausüben können
 
-Softwarearchitekt:innen können im Rahmen von Dokumentations-Reviews in der Rolle von:
+Softwarearchitekt:innen können im Rahmen von Dokumentations-Reviews in der Rolle von
 
-* Autor:innen mit Einwänden angemessen umgehen
-* Gutachter:innen konstruktive Rückmeldungen an Autor:innen geben 
-* Moderator:innen ein fachliches Review leiten
+* Autor:innen mit Einwänden angemessen umgehen,
+* Gutachter:innen konstruktive Rückmeldungen an Autor:innen geben,
+* Moderator:innen ein fachliches Review leiten.
 
 [[LZ-5-7]]
 ==== LZ 5-7: Auf Basis von Review-Ergebnissen die Qualität von Dokumentation verbessern
 
-Softwarearchitekt:innen können auf Basis ermittelter Review-Ergebnisse vorhandene Architekturdokumentation weiterentwickeln und pflegen, und dabei die Qualität dieser Dokumentation systematisch verbessern.
+Softwarearchitekt:innen können auf Basis ermittelter Review-Ergebnisse vorhandene Architekturdokumentation weiterentwickeln und pflegen und dabei die Qualität dieser Dokumentation systematisch verbessern.
 
 // end::DE[]
 

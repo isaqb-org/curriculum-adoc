@@ -18,7 +18,6 @@ Softwarearchitekt:innen können Architekturentscheidungen nachvollziehbar festha
 Sie kennen beispielsweise _Architecture Decision Records_ als eine feste Struktur für solche Entscheidungen.
 
 
-
 [[LZ-3-3]]
 ==== LZ 3-3: Architektursichten dokumentieren
 

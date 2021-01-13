@@ -2,10 +2,10 @@
 // tag::DE[]
 === Voraussetzungen
 
-Teilnehmer sollten folgende Kenntnisse und/oder Erfahrung mitbringen:
+Teilnehmende sollten folgende Kenntnisse und/oder Erfahrung mitbringen:
 
 * Grundlagen der Beschreibung von Architekturen mit Hilfe verschiedener Sichten, übergreifender Konzepte, Entwurfsentscheidungen, Randbedingungen etc., wie es im CPSA- F Foundation Level vermittelt wird.
-* Wünschenswert sind eigene Erfahrungen in der Erstellung und Pflege technischer Dokumentation von Software, insbesondere der Architektur von Software- oder Software- nahen Systemen.
+* Wünschenswert sind eigene Erfahrungen in der Erstellung und Pflege technischer Dokumentation von Software, insbesondere der Architektur von Software- oder Software-nahen Systemen.
 
 
 Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
