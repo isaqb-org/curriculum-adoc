@@ -2,7 +2,7 @@
 
 // tag::DE[]
 [[LZ-3-1]]
-==== LZ 3-1: Einflusfaktoren und Randbedingungen dokumentieren 
+==== LZ 3-1: Einflussfaktoren und Randbedingungen dokumentieren
 
 Softwarearchitekt:innen können Faktoren, die Einfluss auf Softwarearchitektur haben, identifizieren und geeignet dokumentieren.
 Dazu zählen:
@@ -21,18 +21,21 @@ Sie kennen beispielsweise _Architecture Decision Records_ als eine feste Struktu
 [[LZ-3-3]]
 ==== LZ 3-3: Architektursichten dokumentieren
 
-Softwarearchitekt:innen können
+Softwarearchitekt:innen können verschiedene Architektursichten angemessen einsetzen und dokumentieren.
+Sie wissen, für welche Anwendungsfälle statische sowie dynamische Sichten am besten geeignet sind.
+Außerdem verstehen sie, wann welcher Detailgrad sinnvoll ist.
 
 [[LZ-3-4]]
 ==== LZ 3-4: Übergreifende Konzepte dokumentieren
 
-Softwarearchitekt:innen können
+Softwarearchitekt:innen können Konzepte, die über Modulgrenzen hinaus oder querschnittlich durch die Software gehen,
+erkennen und entsprechend dokumentieren.
 
 [[LZ-3-5]]
 ==== LZ 3-5: Konsistenz zwischen Teilen der Dokumentation sicherstellen
 
-Softwarearchitekt:innen können
-
+Softwarearchitekt:innen sind in der Lage, Konsistenz zwischen einzelnen Teilen der Dokumentation
+herzustellen und zu bewahren.
 
 
 // end::DE[]
