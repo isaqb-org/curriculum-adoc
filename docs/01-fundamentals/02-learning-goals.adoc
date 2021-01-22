@@ -20,7 +20,7 @@ Sie können diese Ziele und den Nutzen von Dokumentation gegenüber Stakeholdern
 
 Softwarearchitekt:innen verstehen, dass unterschiedliche Stakeholder i. d. R. verschiedene Anforderungen an Architekturdokumentation haben, beispielsweise hinsichtlich:
 
-* Arten von Informationen, etwa zu Schnittstellen, Bausteinen, querschnittlichen Themen, Entscheidungen, technischen Risiken, grundlegenden Lösungsansätzen oä
+* Arten von Informationen, etwa zu Schnittstellen, Bausteinen, querschnittlichen Themen, Entscheidungen, technischen Risiken, grundlegenden Lösungsansätzen o. ä.
 * Darstellung solcher Informationen, etwa als (grafische oder textuelle) Modelle, als Grafiken oder Text
 * Detaillierungsgrad, etwa: Überblick, abstrakte oder detaillierte Darstellung
 * technische Repräsentation etwa mit oder ohne Schreib-/Änderungsmöglichkeiten, als PDF, HTML, Wiki, Textverarbeitung o. ä.
