@@ -45,33 +45,33 @@ Softwarearchitekt:innen können auf Basis ermittelter Review-Ergebnisse vorhande
 // end::DE[]
 
 // tag::EN[]
-[[LZ-5-1]]
-==== LZ 5-1: Recognize the need to check for fitness for purpose
+[[LG-5-1]]
+==== LG 5-1: Recognize the need to check for fitness for purpose
 
 Software architects recognize checking for fitness for purpose as a key success factor of documentation.
 
-[[LZ-5-2]]
-==== LZ 5-2: Differentiate different types of assessment
+[[LG-5-2]]
+==== LG 5-2: Differentiate different types of assessment
 
 Software architects can differentiate between content and formal assessment of architectural documentation.
 
 
-[[LZ-5-3]]
-==== LZ 5-3: Differentiate review from architecture and documentation
+[[LG-5-3]]
+==== LG 5-3: Differentiate review from architecture and documentation
 
 Software architects can distinguish reviewing documentation from evaluating the architecture or the system.
 
-[[LZ-5-4]]
-==== LZ 5-4:  Identify and explain goals of documentation reviews
+[[LZ-G-4]]
+==== LG 5-4:  Identify and explain goals of documentation reviews
 
 Software architects can identify possible goals of documentation reviews with the concerned persons ("stakeholders") and explain these goals to other persons.
-[[LZ-5-5]]
-==== LZ 5-5: Create checklists and questionnaires for reviews
+[[LG-5-5]]
+==== LG 5-5: Create checklists and questionnaires for reviews
 
 Software architects can create checklists and questionnaires for documentation reviews.
 
-[[LZ-5-6]]
-==== LZ 5-6: Be able to perform different roles in documentation reviews
+[[LG-5-6]]
+==== LG 5-6: Be able to perform different roles in documentation reviews
 
 Software architects can take on the following roles in the context of documentation reviews
 
@@ -79,8 +79,8 @@ Software architects can take on the following roles in the context of documentat
 * Provide constructive feedback to authors as reviewers,
 * Lead a subject matter review as a facilitator.
 
-[[LZ-5-7]]
-==== LZ 5-7: Improve the quality of documentation based on review results
+[[LG-5-7]]
+==== LG 5-7: Improve the quality of documentation based on review results
 
 Software architects can use review results to further develop and maintain existing architecture documentation and systematically improve the quality of this documentation.
 
