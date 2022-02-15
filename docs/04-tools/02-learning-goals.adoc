@@ -38,9 +38,41 @@ Sie wissen, dass Dokumentation:
 // end::DE[]
 
 // tag::EN[]
-[[LG-4-1]]
-==== LG 4-1: The is the first learning goal, in category xy
-tbd.
+
+[[LZ-4-1]]
+==== LZ 4-1: Select appropriate tools for documentation work
+
+Software architects can select appropriate tools for different activities:
+
+* Creation and maintenance of parts of architectural documentation
+* Parts management
+* Communication of content with the support of the parts
+
+They are able to: 
+
+* use analog and digital documentation tools according to the situation and requirements.
+* comprehensibly select a complete tool chain for architecture documentation based on concrete requirements, constraints and other influences.
+
+They are aware of respective strengths, weaknesses and typical challenges when using and integrating common tool categories, for example:
+
+* Wikis
+* Modeling tools
+* Drawing software
+* Word processors
+* Version control systems
+* Other (such as: blogs, issue trackers, etc.)
+
+
+[[LZ-4-2]]
+==== LZ 4-2: Know requirements for documentation tools and artifacts
+
+Software architects know how tools can support them in various activities related to architecture documentation.
+
+They know that documentation:
+
+* should be managed in a versioned and release-ready manner similar to source code.
+* should be producible or generatable for every defined state of the software.
+
 // end::EN[]
 
 // tag::REMARK[]
