@@ -20,6 +20,8 @@ Analoge und digitale Werkzeuge, Modellierungstools, Toolkette.
 
 === Terms and concepts
 
+Analog and digital tools, modelling tools, tool chain.
+
 // end::EN[]
 
 // tag::REMARK[]
