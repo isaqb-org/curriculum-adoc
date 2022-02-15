@@ -18,6 +18,8 @@ Softwarearchitektur, Dokumentation, Stakeholder, Notation, Vorgehensmodell, Lös
 
 === Terms and concepts
 
+Software architecture, documentation, stakeholder, notation, process model, solution design, UML.
+
 // end::EN[]
 
 

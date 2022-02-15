@@ -60,18 +60,60 @@ Softwarearchitekt:innen wissen, dass
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: The is the first learning goal, in category xy
-tbd.
+==== LG 1-1: Understand the benefits and goals of architecture documentation
+
+Software architects understand that architecture documentation is not an end in itself.
+
+They can explain the benefits and various goals of architectural documentation, such as: 
+
+* Architecture documentation supports solution design, and communication of the solution to the team and others (e.g., clients)
+* Support implementation by communicating architectural and development decisions, facts, and rationale
+* Written communication of relevant structural and conceptual topics
+* Preservation of knowledge about development and architecture
+
+They can advocate these goals and the benefits of documentation to stakeholders in a convincing manner.
 
 [[LG-1-2]]
-==== LG 1-2: Understanding the Importance of Architecture Documentation for Different Stakeholders
+==== LG 1-2: Understand the importance of architecture documentation for different stakeholders
 
-* Understand that different stakeholders usually have different requirements for architecture documentation, for example with regard to..:
-** Types of information (e.g. about interfaces, building blocks, cross-sectional topics, decisions, technical risks, approaches to solutions, etc.)
-** Representation of such information (as (graphical) models, as pure graphics or textual)
-** Degree of detail (e.g. overview, abstract or detailed representation)
-** technical representation (with/without writing/editing options, PDF, HTML, Wiki, word processing, etc.)
-** Degree of timeliness (how _up-to-date_ does documentation needs to be, up-to-the latest development/release/test version? minor/major version?)
+Software architects understand that different stakeholders usually have different requirements for architecture documentation, for example with regard to..:
+
+* Types of information (e.g. about interfaces, building blocks, cross-sectional topics, decisions, technical risks, approaches to solutions, etc.)
+* Representation of such information (as (graphical) models, as pure graphics or textual)
+* Degree of detail (e.g. overview, abstract or detailed representation)
+* technical representation (with/without writing/editing options, PDF, HTML, Wiki, word processing, etc.)
+* Degree of timeliness (how _up-to-date_ does documentation needs to be, up-to-the latest development/release/test version? minor/major version?)
+
+[[LZ-1-3]]
+==== LZ 1-3: Differentiate architectural documentation from other types of documentation
+
+Software architects understand that architecture documentation has points of contact and partial overlap with other types of documentation, for example:
+
+* Requirements documentation
+* Implementation documentation
+* Management documentation
+* Test documentation
+* Operations documentation
+
+[[LZ-1-4]]
+==== LZ 1-4: Know typical notation and representation methods for architectural documentation
+
+Software architects are familiar with various methods of notation and representation of architectural information, for example:
+
+* Modeling methods, such as UML, BPMN, ER diagrams, EPC (Event-driven process chain)
+* Textual explanations of decisions
+
+Sie wissen, dass formalere Notationen wie UML für Architekturdokumentation hilfreich sein können, aber nicht zwingend erforderlich sind.
+
+[[LZ-1-5]]
+==== LZ 1-5: Know variants of development processes and their influence on architecture documentation
+
+Software architects know that
+
+* in more formal development projects (e.g. _safety-critical_) high demands on architecture documentation apply.
+* in more lightweight development processes (agile processes) teams should choose a type of documentation appropriate to the system and its environment.
+* depending on the process and the constraints of the project, very different documentation work has to be carried out.
+
 // end::EN[]
 
 
