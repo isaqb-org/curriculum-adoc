@@ -16,8 +16,8 @@ ifdef::env-github[]
 endif::[]
 
 == Status 
-image:https://github.com/isaqb-org/curriculum-adoc/workflows/CI/badge.svg?branch=master["CI"]
-image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-adoc/master.svg["Last commit"]
+image:https://github.com/isaqb-org/curriculum-adoc/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI – Releases and Main"]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-adoc/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-adoc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-adoc/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-adoc.svg["Issues",link="https://github.com/isaqb-org/curriculum-adoc/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-adoc/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
@@ -62,10 +62,8 @@ git clone https://github.com/isaqb-org/curriculum-adoc.git --recursive
 == How to Build the Documents
 Prerequisite: You need a Java Runtime(tm) installed.
 
-You build the output documents with `gradle`.
-
-That will produce both pdf and html output in German (DE) _and_ English (EN),
-unless you modify the configuration.
+You build the output documents with gradle.
+That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
 
 In case you want to change that, adjust the following part of `build.gradle`:
 
