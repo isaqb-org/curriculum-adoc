@@ -59,9 +59,59 @@ Softwarearchitekt:innen kennen Beispiele von Architekturtemplates, etwa:
 
 
 // tag::EN[]
+
 [[LG-2-1]]
-==== LG 2-1: TBD
-tbd.
+==== LG 2-1: Create architecture documentation  
+
+Software architects can create appropriate architecture documentation for medium to large IT systems in situations such as the following:
+
+* Building new systems
+* Ongoing development of existing systems with existing documentation
+* Post-documentation of already existing systems without available documentation
+* Documentation in extraordinary situations (little budget, little time, few available sources of information, etc.)
+
+They can identify target groups and goals of the documentation (see <<LG-2-2, LG 2-2>>).
+
+Details on the necessary methods can be found in the learning goals <<LG-3-1,LG 3-1>> to <<LG-3-5, LG 3-5>>.
+
+[[LG-2-2]]
+==== LG 2-2: Identify target audiences and goals of architectural documentation
+
+Software architects can identify the target audiences ("stakeholders") for architecture documentation
+(e.g. management, development team, business stakeholders, operations stakeholders, test/QA).
+
+They can work together with these stakeholders to identify specific goals for the documentation.
+
+[[LG-2-3]]
+==== LG 2-3: Determine the appropriate structure of architecture documentation for a given situation
+
+Software architects are able to select or develop a suitable structure for architecture documentation for given situations and systems.
+
+Target audiences and goals (see <<LG-2-2, LG 2-2>>) and templates (see <<LG-2-5, LG 2-5>>) serve as the basis for this.
+
+[[LG-2-4]]
+==== LG 2-4: Determine the appropriate architecture documentation procedures for each situation
+
+Software architects find a suitable documentation procedures for given situations.
+They can explain the advantages and disadvantages of different approaches to stakeholders and the development team, such as:
+
+* Documentation is created **alongside** development work
+* Documentation is created **before** development/implementation
+* Documentation is created **after** development ("documentation sprint")
+* Documentation is created and maintained by people **from the development team**.
+* Documentation is created and maintained by people **outside the development team**.
+
+They know that agile development and architecture documentation are not in conflict and can justify this to stakeholders.
+
+[[LG-2-5]]
+==== LG 2-5: Know examples of standardized documentation structures (templates)
+
+Software architects know examples of architecture templates, such as:
+
+* arc42
+* C4 (Simon Brown)
+* IEEE 1471 („Recommended Practice for Architecture Description of Software-Intensive Systems“)
+
 // end::EN[]
 
 // tag::REMARK[]
