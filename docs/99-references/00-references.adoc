@@ -38,7 +38,7 @@ This section contains references that are cited in the curriculum.
 Leanpub <https://leanpub.com/arc42inpractice>
 
 
-- [[[UML,UML]]] Universal Modeling Language, homepage: <http://uml.org/>. Provides both the standard plus a collection of resources for further information.
+- [[[UML,UML]]] Universal Modeling Language, homepage: <https://www.uml.org>. Provides both the standard plus a collection of resources for further information.
 
 - [[[zoerner, Zörner 2021]]] Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren: Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten. 3. Auflage, Carl-Hanser Verlag 2021
 
