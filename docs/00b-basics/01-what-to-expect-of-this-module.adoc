@@ -15,8 +15,15 @@ Dazu stellt {curriculum-short} grundlegende Beschreibungs- und Notationsmittel s
 // tag::EN[]
 === What does the module “{curriculum-short}” convey?
 
-The module presents {curriculum-short} to the participants …
-At the end of the module, the participants know … and are able to …
+{curriculum-short} teaches the skills to:
+
+* independently design and create software architecture documentation.
+* evaluate existing documentation for suitability and adequacy. 
+* improve existing documentation.
+
+Participants learn to systematically describe the essential aspects of software architectures (including decisions, structures, concepts, quality requirements and views).
+For this purpose, {curriculum-short} introduces basic description and notation methods as well as possible tools for practical implementation.
+
 // end::EN[]
 
 // tag::REMARK[]
