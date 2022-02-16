@@ -1,5 +1,4 @@
 import org.asciidoctor.gradle.AsciidoctorTask
-import javax.inject.Inject
 import java.text.SimpleDateFormat
 
 buildscript {
@@ -59,9 +58,8 @@ class RenderCurriculumTask extends AsciidoctorTask {
       'pdf-stylesdir'     : '../pdf-theme/themes',
       'pdf-fontsdir'      : '../pdf-theme/fonts',
       'pdf-style'         : 'isaqb',
-      'with-uniqe-LG-id'  : false,
-      'allow-uri-read'    : true,
-      'outputDir'         : outputDir
+      'stylesheet'        : '../html-theme/adoc-github.css',
+      'stylesheet-dir'    : '../html-theme'
     ]
   }
 }
