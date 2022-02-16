@@ -1,6 +1,6 @@
 include::config/setup.adoc[]
 
-= image:isaqb-logo.jpg[iSAQB,150]Certified Professional for Software Architecture^(R)^ (CPSA)
+= image:isaqb-logo.jpg[width=150]Certified Professional for Software Architecture^(R)^ (CPSA)
 Curriculum {curriculum-name} [{curriculum-short}]
 
 The goal of this module is to equip architects and developers with solid methodical foundations to effectively and efficiently create and maintain adequate software architecture documentation.
@@ -13,14 +13,6 @@ The ADOC Curriculum is currently maintained and published in German (DE) only,
 an EN translation is under way.
 
 Maintainers and volunteer reviewers collaborate on GitHub to improve this curriculum.
-
-=== Status
-
-image:https://github.com/isaqb-org/curriculum-adoc/workflows/CI/badge.svg?branch=master["CI"]
-image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-adoc/master.svg["Last commit"]
-image:https://img.shields.io/github/contributors/isaqb-org/curriculum-adoc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-adoc/graphs/contributors"]
-image:https://img.shields.io/github/issues/isaqb-org/curriculum-adoc.svg["Issues",link="https://github.com/isaqb-org/curriculum-adoc/issues"]
-image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-adoc/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 |===
 | Version | HTML | PDF
