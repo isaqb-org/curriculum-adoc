@@ -16,26 +16,30 @@ Dokumentation:
 ** Behandlung großer Dokumentationen (insbesondere vorhandener oder veralteter Dokumentation)
 ** Auswahl, Konfiguration und Einführung von Werkzeugketten (mit welchen Mitteln kann Dokumentation angemessen erstellt und gepflegt werden),
 ** Versionierung von Dokumenten (Modelle und Texte)
-** Dokumentation in Teams, arbeitsteilige Erstellung und Pflege o Inhaltsbezogene und formale Reviews von Dokumentation.
+** Dokumentation in Teams, arbeitsteilige Erstellung und Pflege
+** Inhaltsbezogene und formale Reviews von Dokumentation.
 
 // end::DE[]
 
 // tag::EN[]
 === Prerequisites
 
-Participants **should** have the following prerequisite knowledge:
+Participants should have the following knowledge and/or experience:
 
-- Prerequisite 1
-- Prerequisite 2, etc.
+* Fundamentals of describing architectures using different views, crosscutting concepts, design decisions, constraints, etc., as taught in CPSA- F Foundation Level.
+* Own experience in the creation and maintenance of technical documentation of software, especially the architecture of software or software-related systems is desirable.
 
-Knowledge in the following areas may be **helpful** for understanding some concepts:
+Helpful for the understanding of some concepts are furthermore:
 
-- Area 1:
-  * Knowledge 1
-  * Experience 2
-  * Knowledge 3
-  * Experience 4
-  * Understanding 5
+* Knowledge of typical challenges in creating and maintaining technical
+documentation:
+** Selection of appropriate documentation structures, notations, deliverable types (stakeholder orientation)
+** Handling of large documentation (especially existing or obsolete documentation)
+** Selection, configuration and implementation of tool chains (by what means can documentation be adequately created and maintained),
+** Versioning of documents (models and texts)
+** Documentation in teams, creation and maintenance based on work distribution
+** Content-based and formal reviews of documentation.
+
 // end::EN[]
 
 // tag::REMARK[]
