@@ -6,7 +6,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Fundamental Terms of Architecture Documentation
+== Fundamental terms of architecture documentation
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

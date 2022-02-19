@@ -4,7 +4,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Elements of Architecture Documentation
+== Elements of architecture documentation
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
