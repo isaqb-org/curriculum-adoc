@@ -16,6 +16,7 @@ Sichten, Entscheidungen, übergreifende Konzepte und Themen, Schnittstellen, Str
 |===
 
 === Terms and concepts
+Views, decisions, cross-cutting concepts and topics, interfaces, structures, constraints, risks, quality goals.
 
 // end::EN[]
 

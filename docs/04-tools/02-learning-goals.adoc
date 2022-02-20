@@ -39,8 +39,8 @@ Sie wissen, dass Dokumentation:
 
 // tag::EN[]
 
-[[LZ-4-1]]
-==== LZ 4-1: Select appropriate tools for documentation work
+[[LG-4-1]]
+==== LG 4-1: Select appropriate tools for documentation work
 
 Software architects can select appropriate tools for different activities:
 
@@ -63,8 +63,8 @@ They are aware of respective strengths, weaknesses and typical challenges when u
 * Other (such as: blogs, issue trackers, etc.)
 
 
-[[LZ-4-2]]
-==== LZ 4-2: Know requirements for documentation tools and artifacts
+[[LZ-G-2]]
+==== LG 4-2: Know requirements for documentation tools and artifacts
 
 Software architects know how tools can support them in various activities related to architecture documentation.
 

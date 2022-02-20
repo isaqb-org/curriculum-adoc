@@ -20,6 +20,18 @@
 // tag::EN[]
 === Curriculum Structure and Recommended Durations
 
+[cols="<,>", options="header"]
+|===
+| Content | Minimum recommended duration (min)
+| 1. Fundamentals | 90
+| 2. Process for architecture documentation | 150
+| 3. Elements of architecture documentation | 180
+| 4. Tools | 120
+| 5. Evaluating documentation | 120
+| 6. Examples of software architecture documentation | 60
+| |
+| Total | 720 (12h)
+|===
 
 // end::EN[]
 

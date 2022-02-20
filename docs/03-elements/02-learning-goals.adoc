@@ -41,9 +41,42 @@ herzustellen und zu bewahren.
 // end::DE[]
 
 // tag::EN[]
+
 [[LG-3-1]]
-==== LG 1-1:
-tbd.
+==== LG 3-1: Document influences and constraints
+
+Software architects can identify factors that influence software architecture and document them appropriately.
+These include:
+
+* Constraints
+* Quality requirements and goals 
+* Technical risks
+
+[[LG-3-2]]
+==== LG 3-2: Document architecture decisions
+
+Software architects can record architectural decisions in a comprehensible manner.
+For example, they are familiar with _Architecture Decision Records_ as a fixed structure for such decisions.
+
+
+[[LG-3-3]]
+==== LG 3-3: Document architectural views
+
+Software architects can use and document different architecture views appropriately.
+They know for which use cases static and dynamic views are best suited.
+They also understand when which level of detail is appropriate.
+
+[[LG-3-4]]
+==== LG 3-4: Document cross-cutting concepts
+
+Software architects can recognize concepts that go beyond module boundaries or cross-cut through the software,
+and document them accordingly.
+
+[[LG-3-5]]
+==== LG 3-5: Ensure consistency between parts of the documentation
+
+Software architects are able to establish and maintain consistency between individual parts of the documentation. 
+
 // end::EN[]
 
 // tag::REMARK[]

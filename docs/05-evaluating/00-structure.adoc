@@ -3,7 +3,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Evaluating Documentation
+== Evaluating documentation
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
