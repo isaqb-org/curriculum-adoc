@@ -22,9 +22,7 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve this curric
 | link:{curriculumFileName}-de.pdf[PDF]
 
 | English
-| currently not available
-// link:{curriculumFileName}-en.html[HTML]
-| currently not available
-// link:{curriculumFileName}-en.pdf[PDF]
+| link:{curriculumFileName}-en.html[HTML]
+| link:{curriculumFileName}-en.pdf[PDF]
 
 |===
