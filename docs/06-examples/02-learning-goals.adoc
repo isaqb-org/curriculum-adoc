@@ -19,5 +19,4 @@ They can explain advantages and disadvantages of presented examples.
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

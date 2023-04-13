@@ -23,5 +23,4 @@ The type and characteristics of the examples presented may depend on the specifi
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

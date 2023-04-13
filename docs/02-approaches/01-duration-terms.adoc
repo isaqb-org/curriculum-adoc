@@ -22,6 +22,4 @@ Process model, role, artifact, iterative/incremental, life cycle, agile.
 
 // end::EN[]
 
-// tag::REMARK[]
 
-// end::REMARK[]

@@ -25,5 +25,4 @@ The learning objectives in this section deal with the examination of architectur
 This is an essential success factor for the practical use of documentation.
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

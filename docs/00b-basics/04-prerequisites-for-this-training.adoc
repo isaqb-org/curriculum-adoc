@@ -42,6 +42,3 @@ documentation:
 
 // end::EN[]
 
-// tag::REMARK[]
-
-// end::REMARK[]

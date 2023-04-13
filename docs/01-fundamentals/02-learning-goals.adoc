@@ -6,7 +6,7 @@
 
 Softwarearchitekt:innen wissen, dass Architekturdokumentation kein Selbstzweck ist.
 
-Sie können den Nutzen und verschiedene Ziele von Architekturdokumentation erklären, beispielsweise: 
+Sie können den Nutzen und verschiedene Ziele von Architekturdokumentation erklären, beispielsweise:
 
 * Architekturdokumentation unterstützt beim Lösungsentwurf, und bei der Kommunikation der Lösung dem Team und anderen (z. B. Auftraggebern) gegenüber.
 * Unterstützung der Entwicklung durch Vermittlung architektur- und entwicklungsrelevanter Entscheidungen, Fakten und Gründe.
@@ -64,7 +64,7 @@ Softwarearchitekt:innen wissen, dass
 
 Software architects understand that architecture documentation is not an end in itself.
 
-They can explain the benefits and various goals of architectural documentation, such as: 
+They can explain the benefits and various goals of architectural documentation, such as:
 
 * Architecture documentation supports solution design, and communication of the solution to the team and others (e.g., clients)
 * Support implementation by communicating architectural and development decisions, facts, and rationale
@@ -117,6 +117,4 @@ Software architects know that
 // end::EN[]
 
 
-// tag::REMARK[]
 
-// end::REMARK[]

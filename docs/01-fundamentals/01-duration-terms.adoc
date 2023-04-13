@@ -23,5 +23,4 @@ Software architecture, documentation, stakeholder, notation, process model, solu
 // end::EN[]
 
 
-// tag::REMARK[]
-// end::REMARK[]
+

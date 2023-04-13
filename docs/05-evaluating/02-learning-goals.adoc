@@ -86,5 +86,4 @@ Software architects can use review results to further develop and maintain exist
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

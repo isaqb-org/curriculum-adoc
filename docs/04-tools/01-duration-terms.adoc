@@ -24,5 +24,4 @@ Analog and digital tools, modelling tools, tool chain.
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

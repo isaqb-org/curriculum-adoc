@@ -3,8 +3,8 @@
 
 {curriculum-short} vermittelt die Fähigkeiten:
 
-* die Dokumentation von Softwarearchitekturen selbständig zu konzipieren und zu erstellen 
-* bestehende Dokumentation bezüglich ihrer Eignung und Angemessenheit zu bewerten 
+* die Dokumentation von Softwarearchitekturen selbständig zu konzipieren und zu erstellen
+* bestehende Dokumentation bezüglich ihrer Eignung und Angemessenheit zu bewerten
 * bestehende Dokumentation zu verbessern.
 
 Teilnehmende lernen, die wesentlichen Aspekte von Softwarearchitekturen (u. a. Entscheidungen, Strukturen, Konzepte, Qualitätsanforderungen und Sichten) systematisch zu beschreiben.
@@ -18,7 +18,7 @@ Dazu stellt {curriculum-short} grundlegende Beschreibungs- und Notationsmittel s
 {curriculum-short} teaches the skills to:
 
 * independently design and create software architecture documentation.
-* evaluate existing documentation for suitability and adequacy. 
+* evaluate existing documentation for suitability and adequacy.
 * improve existing documentation.
 
 Participants learn to systematically describe the essential aspects of software architectures (including decisions, structures, concepts, quality requirements and views).
@@ -26,10 +26,3 @@ For this purpose, {curriculum-short} introduces basic description and notation m
 
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Hier bitte das Modul bzw. dessen Lerninhalte zusammenfassend in 5-8 Sätzen beschreiben. Dabei `{curriculum-name}`
-nicht entfernen, beim Zusammenbauen wird dieser Platzhalter mit dem Modulnamen ersetzt.
-====
-// end::REMARK[]

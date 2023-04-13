@@ -10,9 +10,9 @@ Softwarearchitekt:innen können passenden Werkzeuge für die verschiedenen Aktiv
 * Verwaltung der Bestandteile
 * Kommunikation von Inhalten mit Unterstützung der Bestandteile
 
-Sie können: 
+Sie können:
 
-* analoge und digitale Dokumentationswerkzeuge situations- und bedarfsgerecht einsetzen 
+* analoge und digitale Dokumentationswerkzeuge situations- und bedarfsgerecht einsetzen
 * eine vollständige Werkzeugkette zur Architekturdokumentation anhand konkreter Anforderungen, Randbedingungen und weiterer Einflussfaktoren nachvollziehbar auswählen.
 
 Sie kennen jeweilige Stärken, Schwächen und typische Herausforderungen beim Einsatz und der Integration verbreiteter Werkzeugenkategorien, beispielsweise:
@@ -48,7 +48,7 @@ Software architects can select appropriate tools for different activities:
 * Parts management
 * Communication of content with the support of the parts
 
-They are able to: 
+They are able to:
 
 * use analog and digital documentation tools according to the situation and requirements.
 * comprehensibly select a complete tool chain for architecture documentation based on concrete requirements, constraints and other influences.
@@ -75,5 +75,4 @@ They know that documentation:
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

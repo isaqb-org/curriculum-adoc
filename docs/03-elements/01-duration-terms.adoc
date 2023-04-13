@@ -20,6 +20,4 @@ Views, decisions, cross-cutting concepts and topics, interfaces, structures, con
 
 // end::EN[]
 
-// tag::REMARK[]
 
-// end::REMARK[]
