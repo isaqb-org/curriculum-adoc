@@ -15,7 +15,7 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-== Status 
+== Status
 image:https://github.com/isaqb-org/curriculum-adoc/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI – Releases and Main"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-adoc/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-adoc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-adoc/graphs/contributors"]
@@ -29,12 +29,12 @@ This is <<copyrighted,copyrighted work>>.
 
 [cols="1,1,5"]
 |===
-| Version | Date | Comments 
+| Version | Date | Comments
 
-| 1.5-DE  | 2018 | latest German version 
-| 1.5-EN  | 2018 | Preliminary translation 
-| 1.6-DE  | 2018 | minor fixes, have not been taken over to EN version 
-| 1.7-DRAFT | Nov-2019 | migration to numberized learning goals and new curriculum structure, aligned with other CPSA-Advanced modules. 
+| 1.5-DE  | 2018 | latest German version
+| 1.5-EN  | 2018 | Preliminary translation
+| 1.6-DE  | 2018 | minor fixes, have not been taken over to EN version
+| 1.7-DRAFT | Nov-2019 | migration to numberized learning goals and new curriculum structure, aligned with other CPSA-Advanced modules.
 
 |===
 
@@ -72,7 +72,7 @@ In case you want to change that, adjust the following part of `build.gradle`:
 task buildDocs {
   group 'Documentation'
   description 'Grouping task for generating all languages in several formats'
-  dependsOn "includeLearningObjectives", """renderNoRemarksDE", "renderNoRemarksEN"
+  dependsOn "includeLearningObjectives", """renderDE", "renderEN"
 }
 ----
 
