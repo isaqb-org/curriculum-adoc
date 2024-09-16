@@ -14,7 +14,7 @@ This section contains references that are cited in the curriculum.
 
 **B**
 
-- [[[bachmann,Bachmann 2000]]] F. Bachmann, L. Bass et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
+- [[[bachmann,Bachmann 2000]]] F. Bachmann, L. Bass et al.: Software Architecture Documentation in Practice. Software Engineering Institute, Special Report 2000, CMU/SEI-2000-SR-004.
 
 - [[[bass,Bass 2021]]] L. Bass, P. Clements und R. Kazman: Software Architecture in Practice. 4. Edition, Addison-Wesley 2021.
 
