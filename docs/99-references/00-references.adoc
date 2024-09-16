@@ -18,9 +18,9 @@ This section contains references that are cited in the curriculum.
 
 - [[[bass,Bass 2021]]] L. Bass, P. Clements und R. Kazman: Software Architecture in Practice. 4. Edition, Addison-Wesley 2021.
 
-- [[[brown-c4,Brown (C4)]]] S. Brown: The C4 model for visualising software architecture. Leanpub <https://leanpub.com/visualising-software-architecture>
+- [[[brown-c4,Brown (C4)]]] S. Brown: The C4 model for visualising software architecture. Leanpub https://leanpub.com/visualising-software-architecture
 
-- [[[brown-sg,Brown (Guidebook)]]] S. Brown: The software guidebook. A guide to documenting your software architecture. Leanpub <https://leanpub.com/documenting-software-architecture>
+- [[[brown-sg,Brown (Guidebook)]]] S. Brown: The software guidebook. A guide to documenting your software architecture. Leanpub https://leanpub.com/documenting-software-architecture
 
 **C**
 
@@ -43,11 +43,11 @@ This section contains references that are cited in the curriculum.
 - [[[starke,Starke 2024]]] G. Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden. 10. Auflage 2024, Carl Hanser Verlag, München.
 
 - [[[starkehruschka,Starke+2016]]] G. Starke, P. Hruschka: Communicating Software Architectures: lean, effective and painless documentation.
-Leanpub <https://leanpub.com/arc42inpractice>
+Leanpub https://leanpub.com/arc42inpractice
 
 **U**
 
-- [[[UML,UML]]] Universal Modeling Language, homepage: <https://www.uml.org>. Provides both the standard plus a collection of resources for further information.
+- [[[UML,UML]]] Universal Modeling Language, homepage: https://www.uml.org. Provides both the standard plus a collection of resources for further information.
 
 **Z**
 
