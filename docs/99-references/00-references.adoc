@@ -12,6 +12,8 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
+**B**
+
 - [[[bachmann,Bachmann 2000]]] F. Bachmann, L. Bass et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
 
 - [[[bass,Bass 2021]]] L. Bass, P. Clements und R. Kazman: Software Architecture in Practice. 4. Edition, Addison-Wesley 2021.
@@ -20,19 +22,33 @@ This section contains references that are cited in the curriculum.
 
 - [[[brown-sg,Brown (Guidebook)]]] S. Brown: The software guidebook. A guide to documenting your software architecture. Leanpub <https://leanpub.com/documenting-software-architecture>
 
+**C**
+
 - [[[clements,Clements+2010]]] P. Clements, F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. 2. Edition 2010, Addison Wesley.
+
+**H**
 
 - [[[hargis,Hargis+2004]]] G. Hargis et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
 
+**K**
+
 - [[[kruchten,Kruchten 1995]]] P. Kruchten: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
+**N**
+
 - [[[nygard,Nygard]]] M. Nygard: Documenting Architecture Decisions. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/>
+
+**S**
 
 - [[[starke,Starke 2024]]] G. Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden. 10. Auflage 2024, Carl Hanser Verlag, München.
 
 - [[[starkehruschka,Starke+2016]]] G. Starke, P. Hruschka: Communicating Software Architectures: lean, effective and painless documentation.
 Leanpub <https://leanpub.com/arc42inpractice>
 
+**U**
+
 - [[[UML,UML]]] Universal Modeling Language, homepage: <https://www.uml.org>. Provides both the standard plus a collection of resources for further information.
+
+**Z**
 
 - [[[zoerner, Zörner 2021]]] S. Zörner: Softwarearchitekturen dokumentieren und kommunizieren: Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten. 3. Auflage 2021, Carl-Hanser Verlag.
