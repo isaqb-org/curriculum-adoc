@@ -36,7 +36,7 @@ This section contains references that are cited in the curriculum.
 
 **N**
 
-- [[[nygard,Nygard]]] M. Nygard: Documenting Architecture Decisions. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/>
+- [[[nygard,Nygard 2011]]] M. Nygard: Documenting Architecture Decisions. Blog Post 2011 https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions. See also https://adr.github.io/
 
 **S**
 
