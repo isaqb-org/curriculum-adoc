@@ -61,7 +61,7 @@ git clone https://github.com/isaqb-org/curriculum-adoc.git --recursive
 == How to Build the Documents
 Prerequisite: You need a Java Runtime(tm) 17 or higher installed.
 
-You build the output documents with gradle.
+You build the output documents with gradle: `./gradle-tools/gradlew buildDocs`
 That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
 
 
