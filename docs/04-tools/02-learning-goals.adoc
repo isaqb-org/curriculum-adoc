@@ -70,7 +70,7 @@ They are aware of respective strengths, weaknesses and typical challenges when u
 * Other (such as: blogs, issue trackers, etc.)
 
 
-[[LZ-4-2]]
+[[LG-4-2]]
 ==== LG 4-2: Know requirements for documentation tools and artifacts
 
 Software architects know how tools can support them in various activities related to architecture documentation.
@@ -81,7 +81,7 @@ They know that documentation:
 * should be producible or generatable for every defined state of the software.
 
 
-[[LZ-4-3]]
+[[LG-4-3]]
 ==== LG 4-3: Docs-As-Code Approach
 
 Software architects are familiar with the Documentation-As-Code approach, where architectural documentation is generated in whole or in part from source code-like artifacts (e.g., from Markdown or AsciiDoc).
