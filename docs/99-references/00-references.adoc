@@ -36,6 +36,11 @@ This section contains references that are cited in the curriculum.
 
 - [[[nygard,Nygard 2011]]] M. Nygard: Documenting Architecture Decisions. Blog Post 2011 https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions. See also https://adr.github.io/
 
+**R**
+
+- [[[read,Read2023]]] J. Read: Communication Patterns: A Guide for Developers and Architects. O'Reilly Media, 2023.
+
+
 **S**
 
 - [[[starke,Starke 2024]]] G. Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden. 10. Auflage 2024, Carl Hanser Verlag, München.
