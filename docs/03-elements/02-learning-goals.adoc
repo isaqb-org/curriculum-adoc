@@ -15,7 +15,7 @@ Dazu zählen:
 ==== LZ 3-2: Architekturentscheidungen dokumentieren
 
 Softwarearchitekt:innen können Architekturentscheidungen nachvollziehbar festhalten.
-Sie kennen beispielsweise _Architecture Decision Records_ als eine feste Struktur für solche Entscheidungen.
+Sie kennen beispielsweise _Architecture Decision Records_ als eine feste Struktur für solche Entscheidungen (siehe <<nygard>>, <<adr>>)
 
 
 [[LZ-3-3]]
@@ -25,11 +25,16 @@ Softwarearchitekt:innen können verschiedene Architektursichten angemessen einse
 Sie wissen, für welche Anwendungsfälle statische sowie dynamische Sichten am besten geeignet sind.
 Außerdem verstehen sie, wann welcher Detailgrad sinnvoll ist.
 
+Sie kennen (und können anwenden) mindestens die folgenden Sichten:
+
+* Bausteinsicht (auch: Komponentensicht) als statische Struktur
+* Laufzeitsicht zur Beschreibung von Interaktionen, Reihenfolgen oder Zeitbedingungen.
+* Verteilungs- oder Deploymentsicht zur Beschreibung technischer Infrastruktur und deren Zusammenhang zu den Quellcode-Bestandteilen (siehe Bausteinsicht) des Systems
+
 [[LZ-3-4]]
 ==== LZ 3-4: Übergreifende Konzepte dokumentieren
 
-Softwarearchitekt:innen können Konzepte, die über Modulgrenzen hinaus oder querschnittlich durch die Software gehen,
-erkennen und entsprechend dokumentieren.
+Softwarearchitekt:innen können Konzepte, die über Modulgrenzen hinaus oder querschnittlich durch die Software gehen, erkennen und entsprechend dokumentieren.
 
 [[LZ-3-5]]
 ==== LZ 3-5: Konsistenz zwischen Teilen der Dokumentation sicherstellen
@@ -56,7 +61,7 @@ These include:
 ==== LG 3-2: Document architecture decisions
 
 Software architects can record architectural decisions in a comprehensible manner.
-For example, they are familiar with _Architecture Decision Records_ as a fixed structure for such decisions.
+For example, they are familiar with _Architecture Decision Records_ (see <<nygard>>, <<adr>>) as a fixed structure for such decisions.
 
 
 [[LG-3-3]]
@@ -66,11 +71,17 @@ Software architects can use and document different architecture views appropriat
 They know for which use cases static and dynamic views are best suited.
 They also understand when which level of detail is appropriate.
 
+They are familiar with (and can apply) at least the following views:
+
+* Building block view (also: component view) as a static structure
+* Runtime view for describing interactions, sequences, or time conditions.
+* Ddeployment view for describing technical infrastructure and its mapping to the source code components (see building block view) of the system
+
+
 [[LG-3-4]]
 ==== LG 3-4: Document cross-cutting concepts
 
-Software architects can recognize concepts that go beyond module boundaries or cross-cut through the software,
-and document them accordingly.
+Software architects can recognize concepts that go beyond module boundaries or cross-cut through the software, and document them accordingly.
 
 [[LG-3-5]]
 ==== LG 3-5: Ensure consistency between parts of the documentation
