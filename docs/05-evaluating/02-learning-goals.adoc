@@ -61,7 +61,7 @@ Software architects can differentiate between content and formal assessment of a
 
 Software architects can distinguish reviewing documentation from evaluating the architecture or the system.
 
-[[LZ-G-4]]
+[[LG-5-4]]
 ==== LG 5-4:  Identify and explain goals of documentation reviews
 
 Software architects can identify possible goals of documentation reviews with the concerned persons ("stakeholders") and explain these goals to other persons.
