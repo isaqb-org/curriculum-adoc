@@ -55,6 +55,18 @@ Softwarearchitekt:innen kennen Beispiele von Architekturtemplates, etwa:
 * C4 (<<brown-c4>>, <<brown-sg>>)
 * IEEE 1471 („Recommended Practice for Architecture Description of Software-Intensive Systems“)
 
+[[LZ-2-6]]
+==== LZ 2-6: Dokumentation und LLMs und künstliche Intelligenz (KI)
+
+Softwarearchitekt:innen  wissen, wie LLMs (Large Language Models) und KI die Dokumentationsarbeit unterstützen können.
+
+Beispielsweise können solche Werkzeuge unterstützen bei:
+
+* Erstellen und Pflegen von Entscheidungen (ADRs, siehe <<LZ-3-2>> ) 
+* Erstellen und Pflegen von (insbesondere textbasierten) Dokumenten und Diagrammen
+* Konvertieren von handschriftlichen und handgezeichneten Notizen in Text
+* Erstellen von Dokumentationen aus Quellcode und anderen technischen Informationen.
+
 // end::DE[]
 
 
@@ -111,6 +123,18 @@ Software architects know examples of architecture templates, such as:
 * arc42 (<<arc42>>,<<starkehruschkaarc42>>,<<starkehruschka>>)
 * C4 (<<brown-c4>>, <<brown-sg>>)
 * IEEE 1471 („Recommended Practice for Architecture Description of Software-Intensive Systems“)
+
+[[LG-2-6]]
+==== LG 2-6: Documentation and LLMs/AI
+
+Architects need to know how LLMs (large language models) and AI (artificial intelligence) can support documentation work.
+
+For example, such systems can support:
+
+* creating and maintaining decisions (ADR's, see <<LG-3-2>>)
+* creating and maintaining (especially text-based) documents and diagrams
+* converting handwritten and hand-drawn notes to text
+* creating documentation from source code and other technical information.
 
 // end::EN[]
 
