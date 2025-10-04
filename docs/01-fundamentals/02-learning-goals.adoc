@@ -44,7 +44,7 @@ Softwarearchitekt:innen kennen verschiedene Notations- und Darstellungsmittel f�
 
 * Modellierungsmethoden, wie UML, BPMN, ER-Diagramme, Ereignis-Prozessketten
 * Textuelle Erläuterungen von Entscheidungen
-* Canvas (e.g. Architecture-Communication-Canvas <<acc>> oder Bounded-Context-Canvas <<bcc-canvas>>)
+* Canvas (e.g. Architecture-Communication-Canvas <<acc>> oder Bounded-Context-Canvas <<bcc>>)
 
 Sie wissen, dass formalere Notationen wie UML für Architekturdokumentation hilfreich sein können, aber nicht zwingend erforderlich sind.
 
@@ -103,7 +103,7 @@ Software architects are familiar with various methods of notation and representa
 
 * Modeling methods, such as UML, BPMN, ER diagrams, EPC (Event-driven process chain)
 * Textual explanations of decisions
-* Canvas (e.g. Architecture-Communication-Canvas <<acc>> or Bounded-Context-Canvas <<bcc-canvas>>)
+* Canvas (e.g. Architecture-Communication-Canvas <<acc>> or Bounded-Context-Canvas <<bcc>>)
 
 They know that more formal notations such as UML can be helpful for architecture documentation, but are not mandatory.
 
