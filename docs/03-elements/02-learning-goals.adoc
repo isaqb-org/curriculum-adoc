@@ -75,7 +75,7 @@ They are familiar with (and can apply) at least the following views:
 
 * Building block view (also: component view) as a static structure
 * Runtime view for describing interactions, sequences, or time conditions.
-* Ddeployment view for describing technical infrastructure and its mapping to the source code components (see building block view) of the system
+* Deployment view for describing technical infrastructure and its mapping to the source code components (see building block view) of the system
 
 
 [[LG-3-4]]
