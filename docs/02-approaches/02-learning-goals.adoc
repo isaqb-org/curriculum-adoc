@@ -51,8 +51,8 @@ Sie wissen, dass agile Entwicklung und Architekturdokumentation nicht im Widersp
 
 Softwarearchitekt:innen kennen Beispiele von Architekturtemplates, etwa:
 
-* arc42
-* C4 (Simon Brown)
+* arc42 (<<arc42>>,<<starkehruschkaarc42>>,<<starkehruschka>>)
+* C4 (<<brown-c4>>, <<brown-sg>>)
 * IEEE 1471 („Recommended Practice for Architecture Description of Software-Intensive Systems“)
 
 // end::DE[]
