@@ -15,7 +15,7 @@ This section contains references that are cited in the curriculum.
 **A**
 
 
-- [[[acc, ACC]]] arc42 and Contributors: The Architecture Commumnication Canvas, online: https://canvas.arc42.org
+- [[[acc, ACC]]] arc42 and Contributors: The Architecture Communication Canvas, online: https://canvas.arc42.org
 
 - [[[adr,ADR-GitHub]]] Various Authors: ADR GitHub Organization. Online: https://adr.github.io/
 .
