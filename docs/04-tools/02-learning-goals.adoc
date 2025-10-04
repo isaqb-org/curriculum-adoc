@@ -35,6 +35,13 @@ Sie wissen, dass Dokumentation:
 * ähnlich wie Quellcode versioniert und Release-fähig verwaltet werden sollte
 * zu jedem definierten Stand der Software herstellbar oder generierbar sein sollte
 
+[[LZ-4-3]]
+==== LZ 4-3: Docs-As-Code Ansatz kennen
+
+Softwarearchitekt:innen kennen den Ansatz _Documentation-As-Code_, bei dem die Architekturdokumentation ganz oder teilweise aus quellcode-ähnlichen Artefakten (aus z.B. Markdown oder AsciiDoc) erzeugt wird.
+
+Sie kennen Werkzeuge, mit denen auch grafische Darstellungen aus textuellen Beschreibungen erzeugt werden können (etwa: <<plantuml>>)
+
 // end::DE[]
 
 // tag::EN[]
@@ -63,7 +70,7 @@ They are aware of respective strengths, weaknesses and typical challenges when u
 * Other (such as: blogs, issue trackers, etc.)
 
 
-[[LZ-G-2]]
+[[LG-4-2]]
 ==== LG 4-2: Know requirements for documentation tools and artifacts
 
 Software architects know how tools can support them in various activities related to architecture documentation.
@@ -72,6 +79,15 @@ They know that documentation:
 
 * should be managed in a versioned and release-ready manner similar to source code.
 * should be producible or generatable for every defined state of the software.
+
+
+[[LG-4-3]]
+==== LG 4-3: Docs-As-Code Approach
+
+Software architects are familiar with the Documentation-As-Code approach, where architectural documentation is generated in whole or in part from source code-like artifacts (e.g., from Markdown or AsciiDoc).
+
+They are familiar with tools that can also be used to generate graphical representations from textual descriptions (e.g. <<plantuml>>).
+
 
 // end::EN[]
 
