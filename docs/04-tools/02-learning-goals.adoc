@@ -42,6 +42,13 @@ Softwarearchitekt:innen kennen den Ansatz _Documentation-As-Code_, bei dem die A
 
 Sie kennen Werkzeuge, mit denen auch grafische Darstellungen aus textuellen Beschreibungen erzeugt werden können (etwa: <<plantuml>>)
 
+[[LZ-4-4]]
+==== LZ 4-4: GenAI-Werkzeuge als Unterstützung für Architekturdokumentation anwenden
+
+Softwarearchitekt:innen kennen die Chancen und Risiken beim Einsatz von Generative AI (GenAI)-Werkzeugen im Rahmen der Dokumentation. 
+Sie können solche Werkzeuge gezielt für einzelne Teilbereiche (etwa: architekturrelevante Anforderungen, Lösungsbeschreibung, Bewertung der Dokumentation) an und sind in der Lage, die Ergebnisse abzusichern.
+
+
 // end::DE[]
 
 // tag::EN[]
@@ -87,6 +94,13 @@ They know that documentation:
 Software architects are familiar with the Documentation-As-Code approach, where architectural documentation is generated in whole or in part from source code-like artifacts (e.g., from Markdown or AsciiDoc).
 
 They are familiar with tools that can also be used to generate graphical representations from textual descriptions (e.g. <<plantuml>>).
+
+
+[[LG-4-4]]
+==== LG 4-4: Using GenAI tools to support architecture documentation
+
+Software architects are aware of the opportunities and risks involved in using generative AI (GenAI) tools for documentation purposes. 
+They can apply these tools in a targeted manner for individual sub-areas (e.g., architecture-related requirements, solution description, evaluation of documentation) and are able to validate the results.
 
 
 // end::EN[]
