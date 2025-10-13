@@ -19,7 +19,7 @@ Sie kennen beispielsweise _Architecture Decision Records_ als eine feste Struktu
 
 
 [[LZ-3-3]]
-==== LZ 3-3: Architektursichten zur Architekturdokumentation einsetzen
+==== LZ 3-3: Unterschiedliche Sichten zur Architekturdokumentation einsetzen
 
 Softwarearchitekt:innen können verschiedene Architektursichten angemessen einsetzen und dokumentieren.
 Sie wissen, für welche Anwendungsfälle statische sowie dynamische Sichten am besten geeignet sind.
