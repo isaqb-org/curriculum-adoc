@@ -38,7 +38,7 @@ Sie wissen, dass Dokumentation:
 [[LZ-4-3]]
 ==== LZ 4-3: Docs-As-Code Ansatz kennen
 
-Softwarearchitekt:innen kennen den Ansatz _Documentation-As-Code_, bei dem die Architekturdokumentation ganz oder teilweise aus quellcode-ähnlichen Artefakten (aus z.B. Markdown oder AsciiDoc) erzeugt wird.
+Softwarearchitekt:innen kennen den Ansatz _Documentation-As-Code_, bei dem die Architekturdokumentation ganz oder teilweise aus quellcode-ähnlichen Artefakten (z.B. Markdown oder AsciiDoc) erzeugt wird.
 
 Sie kennen Werkzeuge, mit denen auch grafische Darstellungen aus textuellen Beschreibungen erzeugt werden können (etwa: <<plantuml>>)
 
@@ -91,7 +91,7 @@ They know that documentation:
 [[LG-4-3]]
 ==== LG 4-3: Docs-As-Code Approach
 
-Software architects are familiar with the Documentation-As-Code approach, where architectural documentation is generated in whole or in part from source code-like artifacts (e.g., from Markdown or AsciiDoc).
+Software architects are familiar with the Documentation-As-Code approach, where architectural documentation is generated in whole or in part from source code-like artifacts (e.g.  Markdown or AsciiDoc).
 
 They are familiar with tools that can also be used to generate graphical representations from textual descriptions (e.g. <<plantuml>>).
 
