@@ -7,7 +7,7 @@
 | Inhalt | Empfohlene Mindestdauer (min) | Übungszeit (min)
 | 1. Grundbegriffe | 70 | 20
 | 2. Vorgehen bei Architekturdokumentation | 90 | 60
-| 3. Bestandteile von Architekturdokumetationen | 90 | 90
+| 3. Bestandteile von Architekturdokumentationen | 90 | 90
 | 4. Werkzeuge | 90 | 30
 | 5. Dokumentation bewerten | 75 | 45
 | 6. Beispiele für Dokumentation | 60 | 0
