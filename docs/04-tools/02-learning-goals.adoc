@@ -26,7 +26,7 @@ Sie kennen jeweilige Stärken, Schwächen und typische Herausforderungen beim Ei
 
 
 [[LZ-4-2]]
-==== LZ 4-2: Anforderungen an Dokumentationswerkzeuge und -artefakte kennen
+==== LZ 4-2: Anforderungen an Dokumentationswerkzeuge und -artefakte definieren
 
 Softwarearchitekt:innen wissen, wie Werkzeuge bei verschiedenen Aufgaben rund um Architekturdokumentation unterstützen können.
 
@@ -55,7 +55,6 @@ Sie können solche Werkzeuge gezielt für einzelne Teilbereiche (etwa: architekt
 
 [[LG-4-1]]
 ==== LG 4-1: Select appropriate tools for documentation work
-// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
 
 Software architects can select appropriate tools for different activities:
 
@@ -79,9 +78,8 @@ They are aware of respective strengths, weaknesses and typical challenges when u
 
 
 [[LG-4-2]]
-==== LG 4-2: Know requirements for documentation tools and artifacts
-// LG-title-proposal: Define requirements for documentation tools and artifacts
-// LG-title-proposal: Elicit requirements for the documentation toolchain
+==== LG 4-2: Define requirements for documentation tools and artifacts
+
 
 Software architects know how tools can support them in various activities related to architecture documentation.
 
@@ -92,9 +90,7 @@ They know that documentation:
 
 
 [[LG-4-3]]
-==== LG 4-3: Docs-As-Code Approach
-// LG-title-proposal: Apply the docs-as-code approach for documentation
-// LG-title-proposal: Use docs-as-code to manage documentation artifacts
+==== LG 4-3: Know about Docs-As-Code Approach
 
 Software architects are familiar with the Documentation-As-Code approach, where architectural documentation is generated in whole or in part from source code-like artifacts (e.g.  Markdown or AsciiDoc).
 
@@ -102,9 +98,7 @@ They are familiar with tools that can also be used to generate graphical represe
 
 
 [[LG-4-4]]
-==== LG 4-4: Using GenAI tools to support architecture documentation
-// LG-title-proposal: Apply GenAI tools to support architecture documentation
-// LG-title-proposal: Use GenAI tools for creating and maintaining documentation
+==== LG 4-4: Apply GenAI tools to support architecture documentation
 
 Software architects are aware of the opportunities and risks involved in using generative AI (GenAI) tools for documentation purposes. 
 They can apply these tools in a targeted manner for individual sub-areas (e.g., architecture-related requirements, solution description, evaluation of documentation) and are able to validate the results.
