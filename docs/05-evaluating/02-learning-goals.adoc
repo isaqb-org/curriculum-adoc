@@ -2,9 +2,11 @@
 
 // tag::DE[]
 [[LZ-5-1]]
-==== LZ 5-1: Notwendigkeit der Überprüfung auf Gebrauchstauglichkeit erkennen
+==== LZ 5-1: Sicherstellen der Gebrauchstauglichkeit von Dokumentation
 
 Softwarearchitekt:innen erkennen die Überprüfung auf Gebrauchstauglichkeit als einen wesentlichen Erfolgsfaktor der Dokumentation.
+
+Siehe insbesondere <<LZ-1-2>>.
 
 [[LZ-5-2]]
 ==== LZ 5-2: Verschiedene Arten der Begutachtung differenzieren
@@ -13,7 +15,7 @@ Softwarearchitekt:innen können zwischen inhaltlicher und formaler Begutachtung 
 
 
 [[LZ-5-3]]
-==== LZ 5-3: Review von Architektur und Dokumentation differenzieren
+==== LZ 5-3: Unterscheide zwischen Reviews von Architektur und Dokumentation
 
 Softwarearchitekt:innen können Review/Begutachtung einer Dokumentation von der Bewertung der Architektur oder des Systems abgrenzen.
 
@@ -46,41 +48,38 @@ Softwarearchitekt:innen können auf Basis ermittelter Review-Ergebnisse vorhande
 
 // tag::EN[]
 [[LG-5-1]]
-==== LG 5-1: Recognize the need to check for fitness for purpose
-// LG-title-proposal: Verify the fitness for purpose of documentation
-// LG-title-proposal: Ensure documentation is fit for its purpose
+==== LG 5-1: Ensure documentation is fit for its purpose
 
 Software architects recognize checking for fitness for purpose as a key success factor of documentation.
 
+See especially <<LG-1-2>>.
+
 [[LG-5-2]]
 ==== LG 5-2: Differentiate different types of assessment
-// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
+
 
 Software architects can differentiate between content and formal assessment of architectural documentation.
 
 
 [[LG-5-3]]
-==== LG 5-3: Differentiate review from architecture and documentation
-// LG-title-proposal: Distinguish between a documentation review and an architecture review
-// LG-title-proposal: Differentiate between reviewing documentation and evaluating architecture
+==== LG 5-3: Distinguish between a documentation review and an architecture review
 
 Software architects can distinguish reviewing documentation from evaluating the architecture or the system.
 
 [[LG-5-4]]
 ==== LG 5-4:  Identify and explain goals of documentation reviews
-// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
+
 
 Software architects can identify possible goals of documentation reviews with the concerned persons ("stakeholders") and explain these goals to other persons.
+
 [[LG-5-5]]
 ==== LG 5-5: Create checklists and questionnaires for reviews
-// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
+
 
 Software architects can create checklists and questionnaires for documentation reviews.
 
 [[LG-5-6]]
-==== LG 5-6: Be able to perform different roles in documentation reviews
-// LG-title-proposal: Perform different roles in documentation reviews
-// LG-title-proposal: Act in different roles during documentation reviews
+==== LG 5-6: Perform different roles in documentation reviews
 
 Software architects can take on the following roles in the context of documentation reviews
 
@@ -90,7 +89,7 @@ Software architects can take on the following roles in the context of documentat
 
 [[LG-5-7]]
 ==== LG 5-7: Improve the quality of documentation based on review results
-// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
+
 
 Software architects can use review results to further develop and maintain existing architecture documentation and systematically improve the quality of this documentation.
 
