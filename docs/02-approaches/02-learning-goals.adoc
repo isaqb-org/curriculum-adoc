@@ -47,13 +47,27 @@ Sie wissen, dass agile Entwicklung und Architekturdokumentation nicht im Widersp
 
 
 [[LZ-2-5]]
-==== LZ 2-5: Beispiele standardisierter Dokumentationsstrukturen (Templates) kennen
+==== LZ 2-5: Anwendungsszenarien für GenAI-Unterstützung bei Dokumentation kennen
+
+Softwarearchitekt:innen wissen, wo und wie der Einsatz von GenAI-Werkzeugen bei Erstellung, Pflege und Nutzung technischer Dokumentation Mehrwert bieten kann. 
+Dies umfasst beispielsweise:
+
+* Generieren von Dokumentation aus Code-Artefakten
+* Identifizieren und sichern architekturrelevanter Anforderungen
+* Abgleichen bestehender Dokumentation mit Quellcode
+* KI-Modelle als Ersatz für statische Dokumentation einsetzen
+* Informationen aus unstrukturierten oder schwach strukturierten Quellen (z. B. E-Mails, Chatverläufe, Tickets) extrahieren und mit bestehenden Inhalten verknüpfen
+
+
+[[LZ-2-6]]
+==== LZ 2-6: Beispiele standardisierter Dokumentationsstrukturen (Templates) kennen
 
 Softwarearchitekt:innen kennen Beispiele von Architekturtemplates, etwa:
 
 * arc42 (<<arc42>>,<<starkehruschkaarc42>>,<<starkehruschka>>)
 * C4 (<<brown-c4>>, <<brown-sg>>)
 * IEEE 1471 („Recommended Practice for Architecture Description of Software-Intensive Systems“)
+
 
 // end::DE[]
 
@@ -104,13 +118,27 @@ They can explain the advantages and disadvantages of different approaches to sta
 They know that agile development and architecture documentation are not in conflict and can justify this to stakeholders.
 
 [[LG-2-5]]
-==== LG 2-5: Know examples of standardized documentation structures (templates)
+==== LG 2-5: Know application scenarios for GenAI support in documentation
+
+Software architects know where and how the use of GenAI tools can add value in the creation, maintenance, and use of technical documentation.
+This includes, for example:
+
+* Generating documentation from code artifacts
+* Identifying and securing architecture-relevant requirements
+* Comparing existing documentation with source code
+* Using AI models as a replacement for static documentation
+* Extracting information from unstructured or weakly structured sources (e.g., emails, chat histories, tickets) and linking it to existing content
+
+
+[[LG-2-6]]
+==== LG 2-6: Know examples of standardized documentation structures (templates)
 
 Software architects know examples of architecture templates, such as:
 
 * arc42 (<<arc42>>,<<starkehruschkaarc42>>,<<starkehruschka>>)
 * C4 (<<brown-c4>>, <<brown-sg>>)
 * IEEE 1471 („Recommended Practice for Architecture Description of Software-Intensive Systems“)
+
 
 // end::EN[]
 
