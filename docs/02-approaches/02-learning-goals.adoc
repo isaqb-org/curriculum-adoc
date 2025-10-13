@@ -76,6 +76,7 @@ Softwarearchitekt:innen kennen Beispiele von Architekturtemplates, etwa:
 
 [[LG-2-1]]
 ==== LG 2-1: Create architecture documentation
+// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
 
 Software architects can create appropriate architecture documentation for medium to large IT systems in situations such as the following:
 
@@ -90,6 +91,7 @@ Details on the necessary methods can be found in the learning goals <<LG-3-1,LG 
 
 [[LG-2-2]]
 ==== LG 2-2: Identify target audiences and goals of architectural documentation
+// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
 
 Software architects can identify the target audiences ("stakeholders") for architecture documentation
 (e.g. management, development team, business stakeholders, operations stakeholders, test/QA).
@@ -98,6 +100,8 @@ They can work together with these stakeholders to identify specific goals for th
 
 [[LG-2-3]]
 ==== LG 2-3: Determine the appropriate structure of architecture documentation for a given situation
+// LG-title-proposal: Define a suitable structure for architecture documentation
+// LG-title-proposal: Select or develop a situational documentation structure
 
 Software architects are able to select or develop a suitable structure for architecture documentation for given situations and systems.
 
@@ -105,6 +109,8 @@ Target audiences and goals (see <<LG-2-2, LG 2-2>>) and templates (see <<LG-2-5,
 
 [[LG-2-4]]
 ==== LG 2-4: Determine the appropriate architecture documentation procedures for each situation
+// LG-title-proposal: Define a suitable process for architecture documentation
+// LG-title-proposal: Choose an appropriate documentation approach for a given situation
 
 Software architects find a suitable documentation procedures for given situations.
 They can explain the advantages and disadvantages of different approaches to stakeholders and the development team, such as:
@@ -119,6 +125,8 @@ They know that agile development and architecture documentation are not in confl
 
 [[LG-2-5]]
 ==== LG 2-5: Know application scenarios for GenAI support in documentation
+// LG-title-proposal: Identify application scenarios for GenAI in documentation
+// LG-title-proposal: Apply GenAI tools to support documentation tasks
 
 Software architects know where and how the use of GenAI tools can add value in the creation, maintenance, and use of technical documentation.
 This includes, for example:
@@ -132,6 +140,8 @@ This includes, for example:
 
 [[LG-2-6]]
 ==== LG 2-6: Know examples of standardized documentation structures (templates)
+// LG-title-proposal: Apply standardized templates for architecture documentation
+// LG-title-proposal: Select suitable documentation templates for a given context
 
 Software architects know examples of architecture templates, such as:
 
