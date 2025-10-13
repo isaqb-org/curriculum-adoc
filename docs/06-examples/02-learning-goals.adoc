@@ -12,6 +12,9 @@ Sie können Vor- und Nachteile vorgestellter Beispiele erklären.
 // tag::EN[]
 [[LG-6-1]]
 ==== LG 6-1: Know practical examples of architecture documentation
+// LG-title-proposal: Analyze practical examples of architecture documentation
+// LG-title-proposal: Evaluate examples of architecture documentation
+// LG-title-proposal: Explain pros and cons of sample architecture documentation
 
 Software architects have learned about architecture documentation from at least one practical example.
 
