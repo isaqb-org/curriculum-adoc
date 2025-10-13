@@ -8,6 +8,7 @@ advanced-template.iml
 .project
 .settings
 .vscode/settings.json
+*.code-workspace
 learning-objectives.adoc
 gradle/wrapper/gradle-wrapper.properties
 gradle/wrapper/gradle-wrapper.jar

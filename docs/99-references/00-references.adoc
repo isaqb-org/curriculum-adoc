@@ -15,7 +15,7 @@ This section contains references that are cited in the curriculum.
 **A**
 
 
-- [[[acc, ACC]]] arc42 and Contributors: The Architecture Commumnication Canvas, online: https://canvas.arc42.org
+- [[[acc, ACC]]] arc42 and Contributors: The Architecture Communication Canvas, online: https://canvas.arc42.org
 
 - [[[adr,ADR-GitHub]]] Various Authors: ADR GitHub Organization. Online: https://adr.github.io/
 .
@@ -39,6 +39,10 @@ This section contains references that are cited in the curriculum.
 
 - [[[hargis,Hargis+2004]]] G. Hargis et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
 
+**I**
+
+- [[[iso42010,ISO/IEC 42010:2022]]] ISO/IEC: 42010:2022: Software, systems and enterprise — Architecture description. Available on https://www.iso.org/standard/74393.html.
+
 **K**
 
 - [[[kruchten,Kruchten 1995]]] P. Kruchten: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
@@ -50,6 +54,10 @@ This section contains references that are cited in the curriculum.
 **P**
 
 - [[[plantuml,PlantUML]]] PlantUML: Open-Source toolset and language definition to create diagrams from textual descriptions. Online: https://plantuml.com/
+**R**
+
+- [[[read,Read2023]]] J. Read: Communication Patterns: A Guide for Developers and Architects. O'Reilly Media, 2023.
+
 
 **S**
 
