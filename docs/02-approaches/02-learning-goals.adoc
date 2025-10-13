@@ -25,14 +25,14 @@ Sie können zusammen mit diesen Stakeholdern konkrete Ziele der Dokumentation er
 
 
 [[LZ-2-3]]
-==== LZ 2-3: Situativ passende Struktur einer Architekturdokumentation bestimmen
+==== LZ 2-3: Passende Struktur für Architekturdokumentation entwerfen
 
 Softwarearchitekt:innen können für gegebene Situationen und Systeme eine passende Struktur für die Architekturdokumentation auswählen oder erarbeiten.
 
 Als Basis dafür dienen Zielgruppen und Ziele (siehe <<LZ-2-2, LZ 2-2>>) sowie Templates (siehe <<LZ-2-5, LZ 2-5>>).
 
 [[LZ-2-4]]
-==== LZ 2-4: Situativ passendes Vorgehen zur Architekturdokumentation bestimmen
+==== LZ 2-4: Passendes Vorgehen für die Architekturdokumentation definieren
 
 Softwarearchitekt:innen finden für gegebene Situationen ein passendes Vorgehen zur Dokumentation.
 Sie können Stakeholdern und dem Entwicklungsteam die Vor- und Nachteile verschiedener Ansätze erläutern, etwa:
@@ -47,7 +47,7 @@ Sie wissen, dass agile Entwicklung und Architekturdokumentation nicht im Widersp
 
 
 [[LZ-2-5]]
-==== LZ 2-5: Anwendungsszenarien für GenAI-Unterstützung bei Dokumentation kennen
+==== LZ 2-5: Anwendungsszenarien für GenAI in der Dokumentation identifizieren
 
 Softwarearchitekt:innen wissen, wo und wie der Einsatz von GenAI-Werkzeugen bei Erstellung, Pflege und Nutzung technischer Dokumentation Mehrwert bieten kann. 
 Dies umfasst beispielsweise:
@@ -60,13 +60,13 @@ Dies umfasst beispielsweise:
 
 
 [[LZ-2-6]]
-==== LZ 2-6: Beispiele standardisierter Dokumentationsstrukturen (Templates) kennen
+==== LZ 2-6: Passende Dokumentations-Templates kennen und kontextgerecht auswählen
 
 Softwarearchitekt:innen kennen Beispiele von Architekturtemplates, etwa:
 
 * arc42 (<<arc42>>,<<starkehruschkaarc42>>,<<starkehruschka>>)
 * C4 (<<brown-c4>>, <<brown-sg>>)
-* IEEE 1471 („Recommended Practice for Architecture Description of Software-Intensive Systems“)
+* ISO/IEE 42010 (<<iso42010>> „Recommended Practice for Architecture Description of Software-Intensive Systems“)
 
 
 // end::DE[]
@@ -76,7 +76,7 @@ Softwarearchitekt:innen kennen Beispiele von Architekturtemplates, etwa:
 
 [[LG-2-1]]
 ==== LG 2-1: Create architecture documentation
-// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
+
 
 Software architects can create appropriate architecture documentation for medium to large IT systems in situations such as the following:
 
@@ -91,7 +91,6 @@ Details on the necessary methods can be found in the learning goals <<LG-3-1,LG 
 
 [[LG-2-2]]
 ==== LG 2-2: Identify target audiences and goals of architectural documentation
-// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
 
 Software architects can identify the target audiences ("stakeholders") for architecture documentation
 (e.g. management, development team, business stakeholders, operations stakeholders, test/QA).
@@ -99,18 +98,14 @@ Software architects can identify the target audiences ("stakeholders") for archi
 They can work together with these stakeholders to identify specific goals for the documentation.
 
 [[LG-2-3]]
-==== LG 2-3: Determine the appropriate structure of architecture documentation for a given situation
-// LG-title-proposal: Define a suitable structure for architecture documentation
-// LG-title-proposal: Select or develop a situational documentation structure
+==== LG 2-3: Define a suitable structure for architecture documentation
 
 Software architects are able to select or develop a suitable structure for architecture documentation for given situations and systems.
 
 Target audiences and goals (see <<LG-2-2, LG 2-2>>) and templates (see <<LG-2-5, LG 2-5>>) serve as the basis for this.
 
 [[LG-2-4]]
-==== LG 2-4: Determine the appropriate architecture documentation procedures for each situation
-// LG-title-proposal: Define a suitable process for architecture documentation
-// LG-title-proposal: Choose an appropriate documentation approach for a given situation
+==== LG 2-4: Define a suitable process for architecture documentation
 
 Software architects find a suitable documentation procedures for given situations.
 They can explain the advantages and disadvantages of different approaches to stakeholders and the development team, such as:
@@ -124,9 +119,7 @@ They can explain the advantages and disadvantages of different approaches to sta
 They know that agile development and architecture documentation are not in conflict and can justify this to stakeholders.
 
 [[LG-2-5]]
-==== LG 2-5: Know application scenarios for GenAI support in documentation
-// LG-title-proposal: Identify application scenarios for GenAI in documentation
-// LG-title-proposal: Apply GenAI tools to support documentation tasks
+==== LG 2-5: Identify application scenarios for GenAI in documentation
 
 Software architects know where and how the use of GenAI tools can add value in the creation, maintenance, and use of technical documentation.
 This includes, for example:
@@ -139,15 +132,13 @@ This includes, for example:
 
 
 [[LG-2-6]]
-==== LG 2-6: Know examples of standardized documentation structures (templates)
-// LG-title-proposal: Apply standardized templates for architecture documentation
-// LG-title-proposal: Select suitable documentation templates for a given context
+==== LG 2-6: Know and select suitable documentation templates for a given context
 
 Software architects know examples of architecture templates, such as:
 
 * arc42 (<<arc42>>,<<starkehruschkaarc42>>,<<starkehruschka>>)
 * C4 (<<brown-c4>>, <<brown-sg>>)
-* IEEE 1471 („Recommended Practice for Architecture Description of Software-Intensive Systems“)
+* ISO/IEE 42010 (<<iso42010>> „Recommended Practice for Architecture Description of Software-Intensive Systems“)
 
 
 // end::EN[]
