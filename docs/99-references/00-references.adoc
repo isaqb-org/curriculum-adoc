@@ -50,6 +50,10 @@ This section contains references that are cited in the curriculum.
 **P**
 
 - [[[plantuml,PlantUML]]] PlantUML: Open-Source toolset and language definition to create diagrams from textual descriptions. Online: https://plantuml.com/
+**R**
+
+- [[[read,Read2023]]] J. Read: Communication Patterns: A Guide for Developers and Architects. O'Reilly Media, 2023.
+
 
 **S**
 
