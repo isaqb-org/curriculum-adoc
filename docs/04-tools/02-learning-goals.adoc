@@ -46,7 +46,7 @@ Sie kennen Werkzeuge, mit denen auch grafische Darstellungen aus textuellen Besc
 ==== LZ 4-4: GenAI-Werkzeuge als Unterstützung für Architekturdokumentation anwenden
 
 Softwarearchitekt:innen kennen die Chancen und Risiken beim Einsatz von Generative AI (GenAI)-Werkzeugen im Rahmen der Dokumentation. 
-Sie können solche Werkzeuge gezielt für einzelne Teilbereiche (etwa: architekturrelevante Anforderungen, Lösungsbeschreibung, Bewertung der Dokumentation) an und sind in der Lage, die Ergebnisse abzusichern.
+Sie können solche Werkzeuge gezielt für einzelne Teilbereiche (etwa: architekturrelevante Anforderungen, Lösungsbeschreibung, Bewertung der Dokumentation) anwenden und sind in der Lage, die Ergebnisse abzusichern.
 
 
 // end::DE[]
