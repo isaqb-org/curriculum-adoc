@@ -103,7 +103,7 @@ Software architects are familiar with various methods of notation and representa
 
 * Modeling methods, such as UML, C4 (<<brown-c4>>), ArchiMate, Business-Process Modeling Notation (BPMN), Entity-Relationship (ER) diagrams, Event-driven process chains (EPC)
 * Textual explanations of decisions
-* Canvas (e.g. Architecture-Communication-Canvas <<acc>> or Bounded-Context-Canvas <<bcc>>)
+* Canvas (e.g. Architecture Communication Canvas <<acc>> or Bounded Context Canvas <<bcc>>)
 
 They know that more formal notations such as UML can be helpful for architecture documentation, but are not mandatory.
 
