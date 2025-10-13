@@ -120,7 +120,7 @@ They know that agile development and architecture documentation are not in confl
 [[LG-2-5]]
 ==== LG 2-5: Know application scenarios for GenAI support in documentation
 
-Software architects know where and how the use of GenAI tools can add value in the creation, maintenance, and use of technical documentation. . 
+Software architects know where and how the use of GenAI tools can add value in the creation, maintenance, and use of technical documentation.
 This includes, for example:
 
 * Generating documentation from code artifacts
