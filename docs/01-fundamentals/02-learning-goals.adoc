@@ -42,7 +42,7 @@ Softwarearchitekt:innen verstehen, dass Architekturdokumentation Berührungspunk
 
 Softwarearchitekt:innen kennen verschiedene Notations- und Darstellungsmittel für Architekturinformationen, beispielsweise:
 
-* Modellierungsmethoden, wie UML, BPMN, ER-Diagramme, Ereignis-Prozessketten
+* Modellierungsmethoden, wie UML, C4 (<<brown-c4>>), ArchiMate, Business-Process Modeling Notation (BPMN), Entity-Relationship (ER) Diagramme, Ereignis-Prozess-Ketten (EPK)
 * Textuelle Erläuterungen von Entscheidungen
 * Canvas (e.g. Architecture-Communication-Canvas <<acc>> oder Bounded-Context-Canvas <<bcc>>)
 
@@ -101,7 +101,7 @@ Software architects understand that architecture documentation has points of con
 
 Software architects are familiar with various methods of notation and representation of architectural information, for example:
 
-* Modeling methods, such as UML, BPMN, ER diagrams, EPC (Event-driven process chain)
+* Modeling methods, such as UML, C4 (<<brown-c4>>), ArchiMate, Business-Process Modeling Notation (BPMN), Entity-Relationship (ER) diagrams, Event-driven process chains (EPC)
 * Textual explanations of decisions
 * Canvas (e.g. Architecture-Communication-Canvas <<acc>> or Bounded-Context-Canvas <<bcc>>)
 
