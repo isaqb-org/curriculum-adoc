@@ -19,7 +19,7 @@ Sie kennen beispielsweise _Architecture Decision Records_ als eine feste Struktu
 
 
 [[LZ-3-3]]
-==== LZ 3-3: Architektursichten dokumentieren
+==== LZ 3-3: Architektursichten zur Architekturdokumentation einsetzen
 
 Softwarearchitekt:innen können verschiedene Architektursichten angemessen einsetzen und dokumentieren.
 Sie wissen, für welche Anwendungsfälle statische sowie dynamische Sichten am besten geeignet sind.
@@ -49,7 +49,7 @@ herzustellen und zu bewahren.
 
 [[LG-3-1]]
 ==== LG 3-1: Document influences and constraints
-// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
+
 
 Software architects can identify factors that influence software architecture and document them appropriately.
 These include:
@@ -60,16 +60,13 @@ These include:
 
 [[LG-3-2]]
 ==== LG 3-2: Document architecture decisions
-// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
 
 Software architects can record architectural decisions in a comprehensible manner.
 For example, they are familiar with _Architecture Decision Records_ (see <<nygard>>, <<adr>>) as a fixed structure for such decisions.
 
 
 [[LG-3-3]]
-==== LG 3-3: Document architectural views
-// LG-title-proposal: Document systems using architectural views
-// LG-title-proposal: Apply different views to document architectures
+==== LG 3-3: Apply different views to document architectures
 
 Software architects can use and document different architecture views appropriately.
 They know for which use cases static and dynamic views are best suited.
@@ -84,13 +81,12 @@ They are familiar with (and can apply) at least the following views:
 
 [[LG-3-4]]
 ==== LG 3-4: Document cross-cutting concepts
-// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
 
 Software architects can recognize concepts that go beyond module boundaries or cross-cut through the software, and document them accordingly.
 
 [[LG-3-5]]
 ==== LG 3-5: Ensure consistency between parts of the documentation
-// existing title meets standards - checked 2025.10.13 and Gemini-2.5-Pro
+
 
 Software architects are able to establish and maintain consistency between individual parts of the documentation.
 
