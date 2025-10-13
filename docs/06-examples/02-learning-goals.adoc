@@ -2,7 +2,8 @@
 
 // tag::DE[]
 [[LZ-6-1]]
-==== LZ 6-1: Beispiele praktischer Architekturdokumentation kennen
+==== LZ 6-1: Vor- und Nachteile beispielhafter Architekturdokumentation erklären
+
 Softwarearchitekten:innen haben an mindestens einem Beispiel Architekturdokumentation kennen gelernt.
 
 Sie können Vor- und Nachteile vorgestellter Beispiele erklären.
@@ -11,10 +12,7 @@ Sie können Vor- und Nachteile vorgestellter Beispiele erklären.
 
 // tag::EN[]
 [[LG-6-1]]
-==== LG 6-1: Know practical examples of architecture documentation
-// LG-title-proposal: Analyze practical examples of architecture documentation
-// LG-title-proposal: Evaluate examples of architecture documentation
-// LG-title-proposal: Explain pros and cons of sample architecture documentation
+==== LG 6-1: Explain pros and cons of sample architecture documentation
 
 Software architects have learned about architecture documentation from at least one practical example.
 
