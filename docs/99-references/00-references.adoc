@@ -12,9 +12,20 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
+**A**
+
+
+- [[[acc, ACC]]] arc42 and Contributors: The Architecture Commumnication Canvas, online: https://canvas.arc42.org
+
+- [[[adr,ADR-GitHub]]] Various Authors: ADR GitHub Organization. Online: https://adr.github.io/
+.
+- [[[arc42,arc42]]] Gernot Starke, Peter Hruschka and Contributors: arc42 - (open-source) template for architecture documentation and communication. https://arc42.org and https://docs.arc42.org
+
 **B**
 
 - [[[bass,Bass 2021]]] L. Bass, P. Clements und R. Kazman: Software Architecture in Practice. 4. Edition, Addison-Wesley 2021.
+
+- [[[bcc,DDD-Canvas]]] DDD-Crew: The Bounded Context Canvas, online https://github.com/ddd-crew/bounded-context-canvas.
 
 - [[[brown-c4,Brown (C4)]]] S. Brown: The C4 model for visualising software architecture. Leanpub https://leanpub.com/visualising-software-architecture
 
@@ -36,6 +47,9 @@ This section contains references that are cited in the curriculum.
 
 - [[[nygard,Nygard 2011]]] M. Nygard: Documenting Architecture Decisions. Blog Post 2011 https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions. See also https://adr.github.io/
 
+**P**
+
+- [[[plantuml,PlantUML]]] PlantUML: Open-Source toolset and language definition to create diagrams from textual descriptions. Online: https://plantuml.com/
 **R**
 
 - [[[read,Read2023]]] J. Read: Communication Patterns: A Guide for Developers and Architects. O'Reilly Media, 2023.
@@ -45,8 +59,9 @@ This section contains references that are cited in the curriculum.
 
 - [[[starke,Starke 2024]]] G. Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden. 10. Auflage 2024, Carl Hanser Verlag, München.
 
-- [[[starkehruschka,Starke+2016]]] G. Starke, P. Hruschka: Communicating Software Architectures: lean, effective and painless documentation.
-Leanpub https://leanpub.com/arc42inpractice
+- [[[starkehruschkaarc42,Starke+2023]]] G. Starke, P. Hruschka: arc42 in Aktion. Carl-Hanser Verlag, 2. Auflage 2022.
+
+- [[[starkehruschka,Starke+2016]]] G. Starke, P. Hruschka: Communicating Software Architectures: lean, effective and painless documentation. Leanpub https://leanpub.com/arc42inpractice
 
 **U**
 
