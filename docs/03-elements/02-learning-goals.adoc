@@ -31,6 +31,8 @@ Sie kennen (und können anwenden) mindestens die folgenden Sichten:
 * Laufzeitsicht zur Beschreibung von Interaktionen, Reihenfolgen oder Zeitbedingungen.
 * Verteilungs- oder Deploymentsicht zur Beschreibung technischer Infrastruktur und deren Zusammenhang zu den Quellcode-Bestandteilen (siehe Bausteinsicht) des Systems
 
+Siehe auch <<arc42>>, <<starkehruschkaarc42>> und <<zoerner>>.
+
 [[LZ-3-4]]
 ==== LZ 3-4: Übergreifende Konzepte dokumentieren
 
@@ -78,6 +80,7 @@ They are familiar with (and can apply) at least the following views:
 * Runtime view for describing interactions, sequences, or time conditions.
 * Deployment view for describing technical infrastructure and its mapping to the source code components (see building block view) of the system
 
+See also <<arc42>>, <<starkehruschka>> und <<zoerner>>.
 
 [[LG-3-4]]
 ==== LG 3-4: Document cross-cutting concepts
