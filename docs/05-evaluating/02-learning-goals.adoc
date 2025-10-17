@@ -9,15 +9,15 @@ Softwarearchitekt:innen erkennen die Überprüfung auf Gebrauchstauglichkeit als
 Siehe insbesondere <<LZ-1-2>>.
 
 [[LZ-5-2]]
-==== LZ 5-2: Verschiedene Arten der Begutachtung differenzieren
+==== LZ 5-2: Differenzierung verschiedener Arten der Begutachtung
 
 Softwarearchitekt:innen können zwischen inhaltlicher und formaler Begutachtung einer Architekturdokumentation differenzieren.
 
 
 [[LZ-5-3]]
-==== LZ 5-3: Unterscheide zwischen Reviews von Architektur und Dokumentation
+==== LZ 5-3: Differenzieren zwischen Reviews von Architektur und Dokumentation 
 
-Softwarearchitekt:innen können Review/Begutachtung einer Dokumentation von der Bewertung der Architektur oder des Systems abgrenzen.
+Softwarearchitekt:innen können zwischen Review/Begutachtung einer Dokumentation und der Bewertung der Architektur oder des Systems differenzieren.
 
 
 [[LZ-5-4]]
@@ -26,7 +26,7 @@ Softwarearchitekt:innen können Review/Begutachtung einer Dokumentation von der 
 Softwarearchitekt:innen können mit den betroffenen Personen ("Stakeholdern") mögliche Ziele von Dokumentations-Reviews ermitteln und diese Ziele anderen Personen erklären.
 
 [[LZ-5-5]]
-==== LZ 5-5: Checklisten und Fragenkataloge für Reviews erstellen
+==== LZ 5-5: Erstellen von Checklisten und Fragenkatalogen für Reviews
 
 Softwarearchitekt:innen können Checklisten und Fragenkataloge für Reviews von Dokumentation erstellen.
 
@@ -40,7 +40,7 @@ Softwarearchitekt:innen können im Rahmen von Dokumentations-Reviews in der Roll
 * Moderator:innen ein fachliches Review leiten.
 
 [[LZ-5-7]]
-==== LZ 5-7: Auf Basis von Review-Ergebnissen die Qualität von Dokumentation verbessern
+==== LZ 5-7: Verbessern der Qualität von Dokumentation auf Basis von Review-Ergebnissen
 
 Softwarearchitekt:innen können auf Basis ermittelter Review-Ergebnisse vorhandene Architekturdokumentation weiterentwickeln und pflegen und dabei die Qualität dieser Dokumentation systematisch verbessern.
 
