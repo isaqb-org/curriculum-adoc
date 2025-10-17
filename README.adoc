@@ -34,7 +34,7 @@ This is <<copyrighted,copyrighted work>>.
 | 1.5-DE  | 2018 | latest German version
 | 1.5-EN  | 2018 | Preliminary translation
 | 1.6-DE  | 2018 | minor fixes, have not been taken over to EN version
-| 2025.1  | 2025 | updated references, included docs-as-code, included LLMs/AI |
+| 2025.1  | 2025 | updated references, included docs-as-code, included LLMs/AI (see changelog.md for details)|
 |===
 
 
@@ -70,7 +70,7 @@ include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
 
 == Maintainers
 
-This repository is currently maintained by Gernot Starke and Stefan Zörner.
+This repository is currently maintained by Gernot Starke, Stefan Zörner and Benjamin Wolf.
 
 It was forked from https://github.com/isaqb-org/advanced-template,
 so the contributors of that project basically contributed to this one, too.
