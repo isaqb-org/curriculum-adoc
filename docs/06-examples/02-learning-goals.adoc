@@ -8,6 +8,8 @@ Softwarearchitekten:innen haben an mindestens einem Beispiel Architekturdokument
 
 Sie können Vor- und Nachteile vorgestellter Beispiele erklären.
 
+Siehe etwa <<arc42examples>>.
+
 // end::DE[]
 
 // tag::EN[]
@@ -18,6 +20,7 @@ Software architects have learned about architecture documentation from at least 
 
 They can explain advantages and disadvantages of presented examples.
 
+See for example <<arc42examples>>.
 // end::EN[]
 
 
