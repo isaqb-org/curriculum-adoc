@@ -9,7 +9,7 @@ Softwarearchitekt:innen erkennen die Überprüfung auf Gebrauchstauglichkeit als
 Siehe insbesondere <<LZ-1-2>>.
 
 [[LZ-5-2]]
-==== LZ 5-2: Differenzierung verschiedener Arten der Begutachtung
+==== LZ 5-2: Differenzieren verschiedener Arten der Begutachtung
 
 Softwarearchitekt:innen können zwischen inhaltlicher und formaler Begutachtung einer Architekturdokumentation differenzieren.
 
