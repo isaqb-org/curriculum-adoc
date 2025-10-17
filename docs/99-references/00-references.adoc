@@ -21,6 +21,8 @@ This section contains references that are cited in the curriculum.
 .
 - [[[arc42,arc42]]] Gernot Starke, Peter Hruschka and Contributors: arc42 - (open-source) template for architecture documentation and communication. https://arc42.org and https://docs.arc42.org
 
+- [[[arc42examples,arc42-by-Example]]] Gernot Starke, Michael Simons, Stefan Zörner, Ralf D. Müller, and Hendrik Lösch: arc42 by Example: Software Architecture Documentation in Practice.  E-Book: https://leanpub.com/arc42byexample
+
 **B**
 
 - [[[bass,Bass 2021]]] L. Bass, P. Clements und R. Kazman: Software Architecture in Practice. 4. Edition, Addison-Wesley 2021.
