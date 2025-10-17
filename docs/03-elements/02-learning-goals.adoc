@@ -19,7 +19,7 @@ Sie kennen beispielsweise _Architecture Decision Records_ als eine feste Struktu
 
 
 [[LZ-3-3]]
-==== LZ 3-3: Architektursichten dokumentieren
+==== LZ 3-3: Unterschiedliche Sichten zur Architekturdokumentation einsetzen
 
 Softwarearchitekt:innen können verschiedene Architektursichten angemessen einsetzen und dokumentieren.
 Sie wissen, für welche Anwendungsfälle statische sowie dynamische Sichten am besten geeignet sind.
@@ -50,6 +50,7 @@ herzustellen und zu bewahren.
 [[LG-3-1]]
 ==== LG 3-1: Document influences and constraints
 
+
 Software architects can identify factors that influence software architecture and document them appropriately.
 These include:
 
@@ -65,7 +66,7 @@ For example, they are familiar with _Architecture Decision Records_ (see <<nygar
 
 
 [[LG-3-3]]
-==== LG 3-3: Document architectural views
+==== LG 3-3: Apply different views to document architectures
 
 Software architects can use and document different architecture views appropriately.
 They know for which use cases static and dynamic views are best suited.
@@ -85,6 +86,7 @@ Software architects can recognize concepts that go beyond module boundaries or c
 
 [[LG-3-5]]
 ==== LG 3-5: Ensure consistency between parts of the documentation
+
 
 Software architects are able to establish and maintain consistency between individual parts of the documentation.
 
