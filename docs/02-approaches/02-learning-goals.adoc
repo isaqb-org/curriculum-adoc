@@ -29,7 +29,7 @@ Sie können zusammen mit diesen Stakeholdern konkrete Ziele der Dokumentation er
 
 Softwarearchitekt:innen können für gegebene Situationen und Systeme eine passende Struktur für die Architekturdokumentation auswählen oder erarbeiten.
 
-Als Basis dafür dienen Zielgruppen und Ziele (siehe <<LZ-2-2, LZ 2-2>>) sowie Templates (siehe <<LZ-2-5, LZ 2-5>>).
+Als Basis dafür dienen Zielgruppen und Ziele (siehe <<LZ-2-2, LZ 2-2>>) sowie Templates (siehe <<LZ-2-6, LZ 2-6>>).
 
 [[LZ-2-4]]
 ==== LZ 2-4: Passendes Vorgehen für die Architekturdokumentation definieren
@@ -102,7 +102,7 @@ They can work together with these stakeholders to identify specific goals for th
 
 Software architects are able to select or develop a suitable structure for architecture documentation for given situations and systems.
 
-Target audiences and goals (see <<LG-2-2, LG 2-2>>) and templates (see <<LG-2-5, LG 2-5>>) serve as the basis for this.
+Target audiences and goals (see <<LG-2-2, LG 2-2>>) and templates (see <<LG-2-6, LG 2-6>>) serve as the basis for this.
 
 [[LG-2-4]]
 ==== LG 2-4: Define a suitable process for architecture documentation
