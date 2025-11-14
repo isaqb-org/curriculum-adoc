@@ -57,6 +57,7 @@ Dies umfasst beispielsweise:
 * Abgleichen bestehender Dokumentation mit Quellcode
 * KI-Modelle als Ersatz für statische Dokumentation einsetzen
 * Informationen aus unstrukturierten oder schwach strukturierten Quellen (z. B. E-Mails, Chatverläufe, Tickets) extrahieren und mit bestehenden Inhalten verknüpfen
+* Einen Chatbot Fragen zu bestehender Dokumentation beantworten lassen (z.B. via RAG)
 
 
 [[LZ-2-6]]
@@ -129,7 +130,7 @@ This includes, for example:
 * Comparing existing documentation with source code
 * Using AI models as a replacement for static documentation
 * Extracting information from unstructured or weakly structured sources (e.g., emails, chat histories, tickets) and linking it to existing content
-
+* Having a chatbot answer questions about existing documentation (e.g. via RAG)
 
 [[LG-2-6]]
 ==== LG 2-6: Know and select suitable documentation templates for a given context
