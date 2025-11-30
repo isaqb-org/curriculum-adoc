@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Was vermittelt das Modul „{curriculum-short}“?
+=== Was vermittelt das Modul „{curriculum-short}"?
 
 {curriculum-short} vermittelt die Fähigkeiten:
 
@@ -7,13 +7,45 @@
 * bestehende Dokumentation bezüglich ihrer Eignung und Angemessenheit zu bewerten
 * bestehende Dokumentation zu verbessern.
 
-Teilnehmende lernen, die wesentlichen Aspekte von Softwarearchitekturen (u. a. Entscheidungen, Strukturen, Konzepte, Qualitätsanforderungen und Sichten) systematisch zu beschreiben.
+Teilnehmende lernen, die wesentlichen Aspekte von Softwarearchitekturen (u. a. Entscheidungen, Strukturen, Konzepte, Qualitätsanforderungen und Sichten) systematisch zu beschreiben.
 Dazu stellt {curriculum-short} grundlegende Beschreibungs- und Notationsmittel sowie mögliche Werkzeuge zur praktischen Umsetzung vor.
+
+Hier finden Sie eine übersichtliche „Navigationskarte" des Lehrplans, in der jeder Abschnitt zusammengefasst ist.
+
+==== 01 – Grundbegriffe von Architekturdokumentation
+
+Dieser Abschnitt führt in die Kernkonzepte der Architekturdokumentation ein.
+Er erläutert Nutzen und Ziele, die Bedeutung für verschiedene Stakeholder, die Abgrenzung zu anderen Dokumentationsarten sowie passende Notationen und deren Anpassung an unterschiedliche Entwicklungsvorgehen.
+
+==== 02 – Vorgehen bei Architekturdokumentation
+
+Der Schwerpunkt liegt auf dem Erstellen von Architekturdokumentation für verschiedene Situationen.
+Sie lernen, Zielgruppen und Ziele zu ermitteln, passende Strukturen zu entwerfen, geeignete Vorgehensweisen zu definieren, GenAI-Werkzeuge sinnvoll einzusetzen und bewährte Templates auszuwählen.
+
+==== 03 – Bestandteile von Architekturdokumentationen
+
+Beschreibt die konkreten Inhalte einer Architekturdokumentation.
+Dazu gehören Einflussfaktoren und Randbedingungen, Architekturentscheidungen, verschiedene Sichten (Baustein-, Laufzeit-, Verteilungssicht), übergreifende Konzepte sowie die Sicherstellung der Konsistenz zwischen den Dokumentationsteilen.
+
+==== 04 – Werkzeuge
+
+Behandelt die Auswahl und den Einsatz von Werkzeugen für die Dokumentationsarbeit.
+Sie lernen Anforderungen an Dokumentationswerkzeuge zu definieren, den Docs-As-Code Ansatz kennen und GenAI-Werkzeuge als Unterstützung für die Architekturdokumentation anzuwenden.
+
+==== 05 – Dokumentation bewerten
+
+Beschreibt, wie Architekturdokumentation auf Gebrauchstauglichkeit überprüft werden kann.
+Sie lernen zwischen inhaltlicher und formaler Begutachtung zu differenzieren, Ziele von Reviews zu ermitteln, Checklisten zu erstellen und verschiedene Rollen bei Reviews auszuüben.
+
+==== 06 – Beispiele
+
+Rundet das Thema durch Vorstellung realer oder repräsentativer Fallstudien ab.
+Sie lernen anhand praktischer Beispiele Vor- und Nachteile von Architekturdokumentation zu erklären.
 
 // end::DE[]
 
 // tag::EN[]
-=== What does the module “{curriculum-short}” convey?
+=== What does the module "{curriculum-short}" convey?
 
 {curriculum-short} teaches the skills to:
 
@@ -23,6 +55,38 @@ Dazu stellt {curriculum-short} grundlegende Beschreibungs- und Notationsmittel s
 
 Participants learn to systematically describe the essential aspects of software architectures (including decisions, structures, concepts, quality requirements and views).
 For this purpose, {curriculum-short} introduces basic description and notation methods as well as possible tools for practical implementation.
+
+Here's a concise "navigational map" of the curriculum, summarizing each section.
+
+==== 01 – Fundamental terms of architecture documentation
+
+This section introduces the core concepts of architecture documentation.
+It explains the benefits and goals, the importance for different stakeholders, the differentiation from other types of documentation, as well as suitable notations and their adaptation to different development processes.
+
+==== 02 – Process for architecture documentation
+
+The focus is on creating architecture documentation for various situations.
+You learn to identify target audiences and goals, design suitable structures, define appropriate processes, use GenAI tools effectively, and select proven templates.
+
+==== 03 – Elements of architecture documentation
+
+Describes the concrete contents of architecture documentation.
+This includes influencing factors and constraints, architecture decisions, different views (building block, runtime, deployment view), cross-cutting concepts, and ensuring consistency between the documentation parts.
+
+==== 04 – Tools
+
+Covers the selection and use of tools for documentation work.
+You learn to define requirements for documentation tools, get to know the Docs-As-Code approach, and apply GenAI tools to support architecture documentation.
+
+==== 05 – Evaluating documentation
+
+Describes how architecture documentation can be checked for fitness for purpose.
+You learn to differentiate between content and formal assessment, identify goals of reviews, create checklists, and perform different roles in reviews.
+
+==== 06 – Examples
+
+Concludes the topic by demonstrating real or representative case studies.
+You learn to explain advantages and disadvantages of architecture documentation using practical examples.
 
 // end::EN[]
 
