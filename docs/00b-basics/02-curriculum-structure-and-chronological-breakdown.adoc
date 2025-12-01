@@ -11,7 +11,6 @@
 | 4. Werkzeuge | 90 | 30
 | 5. Dokumentation bewerten | 75 | 45
 | 6. Beispiele für Dokumentation | 60 | 0
-| | |
 | Summe | 475 | 245
 
 |===
@@ -32,7 +31,6 @@ Gesamtdauer: 720 min (12h)
 | 4. Tools | 90 | 30
 | 5. Evaluating documentation | 75 | 45
 | 6. Examples of software architecture documentation | 60 | 0
-| | |
 | Total | 475 | 245
 |===
 

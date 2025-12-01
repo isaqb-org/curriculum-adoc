@@ -10,7 +10,9 @@
 Teilnehmende lernen, die wesentlichen Aspekte von Softwarearchitekturen (u. a. Entscheidungen, Strukturen, Konzepte, Qualitätsanforderungen und Sichten) systematisch zu beschreiben.
 Dazu stellt {curriculum-short} grundlegende Beschreibungs- und Notationsmittel sowie mögliche Werkzeuge zur praktischen Umsetzung vor.
 
-Hier finden Sie eine übersichtliche „Navigationskarte" des Lehrplans, in der jeder Abschnitt zusammengefasst ist.
+Nachfolgend finden Sie eine übersichtliche „Navigationskarte" des Lehrplans, die jeden Abschnitt des Lehrplans kurz beschreibt.
+
+image::curriculum-structure-DE.drawio.png[Struktur des Lehrplans, pdfwidth=60%, width=600,align=center]
 
 ==== 01 – Grundbegriffe von Architekturdokumentation
 
@@ -29,13 +31,14 @@ Dazu gehören Einflussfaktoren und Randbedingungen, Architekturentscheidungen, v
 
 ==== 04 – Werkzeuge
 
-Behandelt die Auswahl und den Einsatz von Werkzeugen für die Dokumentationsarbeit.
-Sie lernen Anforderungen an Dokumentationswerkzeuge zu definieren, den Docs-As-Code Ansatz kennen und GenAI-Werkzeuge als Unterstützung für die Architekturdokumentation anzuwenden.
+Hier geht es um Auswahl und  Einsatz von Werkzeugen für die Dokumentation.
+Sie lernen Anforderungen an Dokumentationswerkzeuge zu definieren und bekommen einen Überblick über den Docs-As-Code Ansatz. 
+Dazu erhalten Sie einen Ausblick auf den Einsatz von GenAI-Werkzeugen als Unterstützung für die Architekturdokumentation.
 
 ==== 05 – Dokumentation bewerten
 
-Beschreibt, wie Architekturdokumentation auf Gebrauchstauglichkeit überprüft werden kann.
-Sie lernen zwischen inhaltlicher und formaler Begutachtung zu differenzieren, Ziele von Reviews zu ermitteln, Checklisten zu erstellen und verschiedene Rollen bei Reviews auszuüben.
+Beschreibt, wie Sie Architekturdokumentation auf Gebrauchstauglichkeit überprüfen können.
+Sie lernen, zwischen inhaltlicher und formaler Begutachtung zu differenzieren, Ziele von Reviews zu ermitteln, Checklisten zu erstellen und verschiedene Rollen bei Reviews auszuüben.
 
 ==== 06 – Beispiele
 
@@ -58,6 +61,8 @@ For this purpose, {curriculum-short} introduces basic description and notation m
 
 Here's a concise "navigational map" of the curriculum, summarizing each section.
 
+image::curriculum-structure-EN.drawio.png[Struktur des Lehrplans, pdfwidth=60%, width=600,align=center]
+
 ==== 01 – Fundamental terms of architecture documentation
 
 This section introduces the core concepts of architecture documentation.
@@ -76,7 +81,8 @@ This includes influencing factors and constraints, architecture decisions, diffe
 ==== 04 – Tools
 
 Covers the selection and use of tools for documentation work.
-You learn to define requirements for documentation tools, get to know the Docs-As-Code approach, and apply GenAI tools to support architecture documentation.
+You learn to define requirements for documentation tools and get to know the Docs-As-Code approach. 
+In addition, you get an overview of applying GenAI tools to support architecture documentation.
 
 ==== 05 – Evaluating documentation
 
