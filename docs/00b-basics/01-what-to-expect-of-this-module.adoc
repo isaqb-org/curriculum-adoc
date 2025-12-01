@@ -12,7 +12,7 @@ Dazu stellt {curriculum-short} grundlegende Beschreibungs- und Notationsmittel s
 
 Nachfolgend finden Sie eine übersichtliche „Navigationskarte" des Lehrplans, die jeden Abschnitt des Lehrplans kurz beschreibt.
 
-image::curriculum-structure-DE.drawio.png[Struktur des Lehrplans, pdfwidth=60%, width=600,align=center]
+image::curriculum-structure-DE.drawio.svg[Struktur des Lehrplans, pdfwidth=60%, width=600,align=center]
 
 ==== 01 – Grundbegriffe von Architekturdokumentation
 
@@ -61,7 +61,7 @@ For this purpose, {curriculum-short} introduces basic description and notation m
 
 Here's a concise "navigational map" of the curriculum, summarizing each section.
 
-image::curriculum-structure-EN.drawio.png[Struktur des Lehrplans, pdfwidth=60%, width=600,align=center]
+image::curriculum-structure-EN.drawio.svg[Structure of the Curriculum, pdfwidth=60%, width=600,align=center]
 
 ==== 01 – Fundamental terms of architecture documentation
 
