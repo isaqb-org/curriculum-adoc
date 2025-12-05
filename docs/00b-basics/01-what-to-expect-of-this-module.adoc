@@ -12,7 +12,7 @@ Dazu stellt {curriculum-short} grundlegende Beschreibungs- und Notationsmittel s
 
 Nachfolgend finden Sie eine übersichtliche „Navigationskarte" des Lehrplans, die jeden Abschnitt des Lehrplans kurz beschreibt.
 
-image::curriculum-structure-DE.drawio.png[Struktur des Lehrplans, pdfwidth=60%, width=600,align=center]
+image::curriculum-structure-DE.drawio.svg[Struktur des Lehrplans, pdfwidth=60%, width=600,align=center]
 
 ==== 01 – Grundbegriffe von Architekturdokumentation
 
@@ -22,7 +22,7 @@ Er erläutert Nutzen und Ziele, die Bedeutung für verschiedene Stakeholder, die
 ==== 02 – Vorgehen bei Architekturdokumentation
 
 Der Schwerpunkt liegt auf dem Erstellen von Architekturdokumentation für verschiedene Situationen.
-Sie lernen, Zielgruppen und Ziele zu ermitteln, passende Strukturen zu entwerfen, geeignete Vorgehensweisen zu definieren, GenAI-Werkzeuge sinnvoll einzusetzen und bewährte Templates auszuwählen.
+Sie lernen, Zielgruppen und Ziele zu ermitteln, passende Strukturen für die Dokumentation oder Teilen davon zu entwerfen, geeignete Vorgehensweisen zu definieren, GenAI-Werkzeuge sinnvoll einzusetzen und angemessene Templates auszuwählen.
 
 ==== 03 – Bestandteile von Architekturdokumentationen
 
@@ -61,7 +61,7 @@ For this purpose, {curriculum-short} introduces basic description and notation m
 
 Here's a concise "navigational map" of the curriculum, summarizing each section.
 
-image::curriculum-structure-EN.drawio.png[Struktur des Lehrplans, pdfwidth=60%, width=600,align=center]
+image::curriculum-structure-EN.drawio.svg[Structure of the Curriculum, pdfwidth=60%, width=600,align=center]
 
 ==== 01 – Fundamental terms of architecture documentation
 
@@ -71,7 +71,8 @@ It explains the benefits and goals, the importance for different stakeholders, t
 ==== 02 – Process for architecture documentation
 
 The focus is on creating architecture documentation for various situations.
-You learn to identify target audiences and goals, design suitable structures, define appropriate processes, use GenAI tools effectively, and select proven templates.
+You learn to identify target audiences and goals, design suitable structures for documentation, define appropriate processes, use GenAI tools effectively, and select appropriate templates.
+
 
 ==== 03 – Elements of architecture documentation
 
