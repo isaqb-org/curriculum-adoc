@@ -12,7 +12,7 @@ Dazu stellt {curriculum-short} grundlegende Beschreibungs- und Notationsmittel s
 
 Nachfolgend finden Sie eine übersichtliche „Navigationskarte" des Lehrplans, die jeden Abschnitt des Lehrplans kurz beschreibt.
 
-image::curriculum-structure-DE.drawio.svg[Struktur des Lehrplans, pdfwidth=60%, width=600,align=center]
+image::curriculum-structure-DE.drawio.png[Struktur des Lehrplans, pdfwidth=60%, width=600,align=center]
 
 ==== 01 – Grundbegriffe von Architekturdokumentation
 
@@ -32,7 +32,7 @@ Dazu gehören Einflussfaktoren und Randbedingungen, Architekturentscheidungen, v
 ==== 04 – Werkzeuge
 
 Hier geht es um Auswahl und  Einsatz von Werkzeugen für die Dokumentation.
-Sie lernen Anforderungen an Dokumentationswerkzeuge zu definieren und bekommen einen Überblick über den Docs-As-Code Ansatz. 
+Sie lernen Anforderungen an Dokumentationswerkzeuge zu definieren und bekommen einen Überblick über den Docs-As-Code Ansatz.
 Dazu erhalten Sie einen Ausblick auf den Einsatz von GenAI-Werkzeugen als Unterstützung für die Architekturdokumentation.
 
 ==== 05 – Dokumentation bewerten
@@ -61,7 +61,7 @@ For this purpose, {curriculum-short} introduces basic description and notation m
 
 Here's a concise "navigational map" of the curriculum, summarizing each section.
 
-image::curriculum-structure-EN.drawio.svg[Structure of the Curriculum, pdfwidth=60%, width=600,align=center]
+image::curriculum-structure-EN.drawio.png[Structure of the Curriculum, pdfwidth=60%, width=600,align=center]
 
 ==== 01 – Fundamental terms of architecture documentation
 
@@ -82,7 +82,7 @@ This includes influencing factors and constraints, architecture decisions, diffe
 ==== 04 – Tools
 
 Covers the selection and use of tools for documentation work.
-You learn to define requirements for documentation tools and get to know the Docs-As-Code approach. 
+You learn to define requirements for documentation tools and get to know the Docs-As-Code approach.
 In addition, you get an overview of applying GenAI tools to support architecture documentation.
 
 ==== 05 – Evaluating documentation
