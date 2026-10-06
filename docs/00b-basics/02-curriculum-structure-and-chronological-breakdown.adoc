@@ -2,6 +2,9 @@
 // tag::DE[]
 === Struktur des Lehrplans und empfohlene zeitliche Aufteilung
 
+**Anmerkung:** Die Reihenfolge der Kapitel gibt nicht die Struktur eines Trainings vor.
+Trainingsanbieter können die Reihenfolge beliebig für ihr didaktisches Konzept anpassen.
+
 [cols="<,>,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min) | Übungszeit (min)
@@ -21,6 +24,8 @@ Gesamtdauer: 720 min (12h)
 
 // tag::EN[]
 === Curriculum Structure and Recommended Durations
+
+**Note:** The order of the chapters does not dictate the layout of a training course. Providers can adjust this for didactic reasons.
 
 [cols="<,>,>", options="header"]
 |===
