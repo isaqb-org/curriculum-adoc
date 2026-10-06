@@ -1,29 +1,32 @@
-= image:docs/isaqb-logo.jpg[iSAQB,150] CPSA-Advanced Curriculum "Architecture Documentation"
-
-The Advanced Level Curriculum ADOC:
-The goal of this module is to equip architects with the knowledge and capabilities to create and maintain effective architecture documentation of software systems.
-
-
-:toc:
-:toc-placement!:
-
-ifdef::env-github[]
-:tip-caption: :bulb:
-:note-caption: :information_source:
-:important-caption: :heavy_exclamation_mark:
-:caution-caption: :fire:
-:warning-caption: :warning:
-endif::[]
+= Architecture Documentation – iSAQB Advanced Level Curriculum (ADOC)
 
 == Status
-image:https://github.com/isaqb-org/curriculum-adoc/actions/workflows/pages/pages-build-deployment/badge.svg["CI – Build-and-Deploy"]
+image:https://github.com/isaqb-org/curriculum-adoc/actions/workflows/build_main.yml/badge.svg?branch=main["CI – Releases and Main"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-adoc/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-adoc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-adoc/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-adoc.svg["Issues",link="https://github.com/isaqb-org/curriculum-adoc/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-adoc.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-adoc/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-
 This is <<copyrighted,copyrighted work>>.
+
+
+== About this curriculum
+
+This repository contains the source of the iSAQB^(R)^ Advanced Level (CPSA-A) curriculum
+*Architecture Documentation* (module *ADOC*).
+The goal of this module is to equip architects with the knowledge and capabilities
+to create and maintain effective architecture documentation of software systems.
+
+The curriculum is written in AsciiDoc and built into versioned *PDF and HTML* output in
+*German (DE)* and *English (EN)*. It was created from the
+https://github.com/isaqb-org/advanced-template[iSAQB Advanced Level template].
+
+== Released documents
+The latest released HTML and PDF documents (German and English) are published via GitHub
+Pages at https://public.isaqb.org/curriculum-adoc[public.isaqb.org/curriculum-adoc].
+
+They are produced by CI on each release. Pre-rendered translations in other languages
+(if any) live in `docs-ext/` – see `docs-ext/EXTERNAL_DOCUMENTS_README.adoc`.
 
 === Version history
 
@@ -32,52 +35,73 @@ This is <<copyrighted,copyrighted work>>.
 | Version | Date | Comments
 
 | 2025.1  | 2025 | Updated references, included docs-as-code, included LLMs/AI (see changelog.md for details). Consistent wording for learning goals.
-| 2021.1  | 2021 | Major content overhaul, migrating to AsciiDoc, first English version. Several updated learning goals. 
-| 1.6-DE  | 2018 | Minor fixes, not sync'ed with EN version
+| 2021.1  | 2021 | Major content overhaul, migrating to AsciiDoc, first English version. Several updated learning goals.
+| 1.6-DE  | 2018 | Minor fixes, not synchronized with EN version
 | 1.5-EN  | 2018 | Preliminary translation
 | 1.5-DE  | 2018 | Minor update of German version
 |===
 
+== How to build locally
 
+Prerequisite: https://docs.docker.com/get-docker/[Docker]. Nothing else — no JDK, no Ruby.
 
-== Content
-Architects and development teams need to effectively and efficiently communicate and document their architecture. This module provides the methodical and practical foundation.
+Clone the repository (with submodules, for the license text):
 
-toc::[]
-
-== How to Contribute or Participate
-Create an issue or a pull-request.
-
-== How to Access the Repository
---
 [source,shell]
 ----
-Via SSH:
 git clone git@github.com:isaqb-org/curriculum-adoc.git --recursive
-
-Via HTTPS:
-git clone https://github.com/isaqb-org/curriculum-adoc.git --recursive
 ----
---
 
-== How to Build the Documents
-Prerequisite: You need a Java Runtime(tm) 17 or higher installed.
+If you already cloned without `--recursive`, run `git submodule update --init --recursive`.
 
-You build the output documents with gradle: `./gradle-tools/gradlew buildDocs`
-That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
+Build all languages and formats:
 
+[source,shell]
+----
+./curriculum-build.sh        # Linux / macOS
+curriculum-build.bat         # Windows
+----
 
-== Additional translations/languages
-include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
+Build a single output — pass the format and language (and optionally a variant):
 
-== Maintainers
+[source,shell]
+----
+./curriculum-build.sh pdf DE          # Linux / macOS
+./curriculum-build.sh html EN
+./curriculum-build.sh pdf DE REMARKS
+----
 
-This repository is currently maintained by Gernot Starke, Stefan Zörner and Benjamin Wolf.
+[source,bat]
+----
+curriculum-build.bat pdf DE           rem Windows
+curriculum-build.bat html EN
+curriculum-build.bat pdf DE REMARKS
+----
 
-It was forked from https://github.com/isaqb-org/advanced-template,
-so the contributors of that project basically contributed to this one, too.
-Thanx, Benjamin Wolf (@programming-wolf) for providing such a useful template
+Output is written to `build/`, named `<CURRICULUM_FILE>-<lang>.pdf` / `.html`, together
+with an `index.html` overview page. The launcher pulls the builder image on first run and
+reuses it afterwards.
 
+=== Build configuration
+
+`build.config` in the repository root holds the per-curriculum settings:
+
+[cols="1,3a",options="header"]
+|===
+|Key |Meaning
+
+|`CURRICULUM_FILE` |AsciiDoc root in `docs/` (without `.adoc`); also the output file name.
+|`LANGUAGES`       |Space-separated languages to build. Default `DE EN`; drop one for a single-language curriculum.
+|`SUFFIX_TAGS`     |Space-separated extra build variants, exposed as the `{suffix}` attribute. Empty = single build.
+|`PREPRESS`        |PDF print/book layout (recto chapter starts + binding margins). `true` / `false`.
+|===
+
+Any key can be overridden for a single run via an environment variable, e.g.
+`LANGUAGES="DE" ./curriculum-build.sh`.
+
+== How to contribute or participate
+
+Create an issue, a merge- or pull-request.
 
 [[copyrighted]]
 == Licensing and Copyright
