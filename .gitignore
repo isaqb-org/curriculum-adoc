@@ -1,17 +1,10 @@
 .DS_Store
 
-.gradle
 build
 .idea
-advanced-template.iml
-.settings/org.eclipse.buildship.core.prefs
+*.iml
 .project
 .settings
 .vscode/settings.json
 *.code-workspace
-learning-objectives.adoc
-gradle/wrapper/gradle-wrapper.properties
-gradle/wrapper/gradle-wrapper.jar
-gradlew
-gradlew.bat
 *.bkp
